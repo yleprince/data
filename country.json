@@ -3,1494 +3,1743 @@
         "iso": "AD",
         "flag": "🇦🇩",
         "unicode": "U+1F1E6 U+1F1E9",
-        "name": "Andorra"
+        "name": "Andorra",
+        "fr": "Andorre"
     },
     {
         "iso": "AE",
         "flag": "🇦🇪",
         "unicode": "U+1F1E6 U+1F1EA",
-        "name": "United Arab Emirates"
+        "name": "United Arab Emirates",
+        "fr": "Emirats Arabes Unis"
     },
     {
         "iso": "AF",
         "flag": "🇦🇫",
         "unicode": "U+1F1E6 U+1F1EB",
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        "fr": "Afghanistan"
     },
     {
         "iso": "AG",
         "flag": "🇦🇬",
         "unicode": "U+1F1E6 U+1F1EC",
-        "name": "Antigua and Barbuda"
+        "name": "Antigua and Barbuda",
+        "fr": "Antigua-et-Barbuda"
     },
     {
         "iso": "AI",
         "flag": "🇦🇮",
         "unicode": "U+1F1E6 U+1F1EE",
-        "name": "Anguilla"
+        "name": "Anguilla",
+        "fr": "Anguilla"
     },
     {
         "iso": "AL",
         "flag": "🇦🇱",
         "unicode": "U+1F1E6 U+1F1F1",
-        "name": "Albania"
+        "name": "Albania",
+        "fr": "Albanie"
     },
     {
         "iso": "AM",
         "flag": "🇦🇲",
         "unicode": "U+1F1E6 U+1F1F2",
-        "name": "Armenia"
+        "name": "Armenia",
+        "fr": "Arménie"
     },
     {
         "iso": "AO",
         "flag": "🇦🇴",
         "unicode": "U+1F1E6 U+1F1F4",
-        "name": "Angola"
+        "name": "Angola",
+        "fr": "Angola"
     },
     {
         "iso": "AQ",
         "flag": "🇦🇶",
         "unicode": "U+1F1E6 U+1F1F6",
-        "name": "Antarctica"
+        "name": "Antarctica",
+        "fr": "Antarctique"
     },
     {
         "iso": "AR",
         "flag": "🇦🇷",
         "unicode": "U+1F1E6 U+1F1F7",
-        "name": "Argentina"
+        "name": "Argentina",
+        "fr": "Argentine"
     },
     {
         "iso": "AS",
         "flag": "🇦🇸",
         "unicode": "U+1F1E6 U+1F1F8",
-        "name": "American Samoa"
+        "name": "American Samoa",
+        "fr": "Samoa américaines"
     },
     {
         "iso": "AT",
         "flag": "🇦🇹",
         "unicode": "U+1F1E6 U+1F1F9",
-        "name": "Austria"
+        "name": "Austria",
+        "fr": "L'Autriche"
     },
     {
         "iso": "AU",
         "flag": "🇦🇺",
         "unicode": "U+1F1E6 U+1F1FA",
-        "name": "Australia"
+        "name": "Australia",
+        "fr": "Australie"
     },
     {
         "iso": "AW",
         "flag": "🇦🇼",
         "unicode": "U+1F1E6 U+1F1FC",
-        "name": "Aruba"
+        "name": "Aruba",
+        "fr": "Aruba"
     },
     {
         "iso": "AX",
         "flag": "🇦🇽",
         "unicode": "U+1F1E6 U+1F1FD",
-        "name": "Åland Islands"
+        "name": "Åland Islands",
+        "fr": "Iles Aland"
     },
     {
         "iso": "AZ",
         "flag": "🇦🇿",
         "unicode": "U+1F1E6 U+1F1FF",
-        "name": "Azerbaijan"
+        "name": "Azerbaijan",
+        "fr": "Azerbaïdjan"
     },
     {
         "iso": "BA",
         "flag": "🇧🇦",
         "unicode": "U+1F1E7 U+1F1E6",
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "fr": "Bosnie Herzégovine"
     },
     {
         "iso": "BB",
         "flag": "🇧🇧",
         "unicode": "U+1F1E7 U+1F1E7",
-        "name": "Barbados"
+        "name": "Barbados",
+        "fr": "Barbade"
     },
     {
         "iso": "BD",
         "flag": "🇧🇩",
         "unicode": "U+1F1E7 U+1F1E9",
-        "name": "Bangladesh"
+        "name": "Bangladesh",
+        "fr": "Bangladesh"
     },
     {
         "iso": "BE",
         "flag": "🇧🇪",
         "unicode": "U+1F1E7 U+1F1EA",
-        "name": "Belgium"
+        "name": "Belgium",
+        "fr": "Belgique"
     },
     {
         "iso": "BF",
         "flag": "🇧🇫",
         "unicode": "U+1F1E7 U+1F1EB",
-        "name": "Burkina Faso"
+        "name": "Burkina Faso",
+        "fr": "Burkina Faso"
     },
     {
         "iso": "BG",
         "flag": "🇧🇬",
         "unicode": "U+1F1E7 U+1F1EC",
-        "name": "Bulgaria"
+        "name": "Bulgaria",
+        "fr": "Bulgarie"
     },
     {
         "iso": "BH",
         "flag": "🇧🇭",
         "unicode": "U+1F1E7 U+1F1ED",
-        "name": "Bahrain"
+        "name": "Bahrain",
+        "fr": "Bahrein"
     },
     {
         "iso": "BI",
         "flag": "🇧🇮",
         "unicode": "U+1F1E7 U+1F1EE",
-        "name": "Burundi"
+        "name": "Burundi",
+        "fr": "Burundi"
     },
     {
         "iso": "BJ",
         "flag": "🇧🇯",
         "unicode": "U+1F1E7 U+1F1EF",
-        "name": "Benin"
+        "name": "Benin",
+        "fr": "Bénin"
     },
     {
         "iso": "BL",
         "flag": "🇧🇱",
         "unicode": "U+1F1E7 U+1F1F1",
-        "name": "Saint Barthélemy"
+        "name": "Saint Barthélemy",
+        "fr": "Saint Barthélemy"
     },
     {
         "iso": "BM",
         "flag": "🇧🇲",
         "unicode": "U+1F1E7 U+1F1F2",
-        "name": "Bermuda"
+        "name": "Bermuda",
+        "fr": "Bermudes"
     },
     {
         "iso": "BN",
         "flag": "🇧🇳",
         "unicode": "U+1F1E7 U+1F1F3",
-        "name": "Brunei Darussalam"
+        "name": "Brunei Darussalam",
+        "fr": "Brunei Darussalam"
     },
     {
         "iso": "BO",
         "flag": "🇧🇴",
         "unicode": "U+1F1E7 U+1F1F4",
-        "name": "Bolivia"
+        "name": "Bolivia",
+        "fr": "Bolivie"
     },
     {
         "iso": "BQ",
         "flag": "🇧🇶",
         "unicode": "U+1F1E7 U+1F1F6",
-        "name": "Bonaire, Sint Eustatius and Saba"
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "fr": "Bonaire, Saint-Eustache et Saba"
     },
     {
         "iso": "BR",
         "flag": "🇧🇷",
         "unicode": "U+1F1E7 U+1F1F7",
-        "name": "Brazil"
+        "name": "Brazil",
+        "fr": "Brésil"
     },
     {
         "iso": "BS",
         "flag": "🇧🇸",
         "unicode": "U+1F1E7 U+1F1F8",
-        "name": "Bahamas"
+        "name": "Bahamas",
+        "fr": "Bahamas"
     },
     {
         "iso": "BT",
         "flag": "🇧🇹",
         "unicode": "U+1F1E7 U+1F1F9",
-        "name": "Bhutan"
+        "name": "Bhutan",
+        "fr": "Bhoutan"
     },
     {
         "iso": "BV",
         "flag": "🇧🇻",
         "unicode": "U+1F1E7 U+1F1FB",
-        "name": "Bouvet Island"
+        "name": "Bouvet Island",
+        "fr": "Île Bouvet"
     },
     {
         "iso": "BW",
         "flag": "🇧🇼",
         "unicode": "U+1F1E7 U+1F1FC",
-        "name": "Botswana"
+        "name": "Botswana",
+        "fr": "Botswana"
     },
     {
         "iso": "BY",
         "flag": "🇧🇾",
         "unicode": "U+1F1E7 U+1F1FE",
-        "name": "Belarus"
+        "name": "Belarus",
+        "fr": "Biélorussie"
     },
     {
         "iso": "BZ",
         "flag": "🇧🇿",
         "unicode": "U+1F1E7 U+1F1FF",
-        "name": "Belize"
+        "name": "Belize",
+        "fr": "Belize"
     },
     {
         "iso": "CA",
         "flag": "🇨🇦",
         "unicode": "U+1F1E8 U+1F1E6",
-        "name": "Canada"
+        "name": "Canada",
+        "fr": "Canada"
     },
     {
         "iso": "CC",
         "flag": "🇨🇨",
         "unicode": "U+1F1E8 U+1F1E8",
-        "name": "Cocos (Keeling) Islands"
+        "name": "Cocos (Keeling) Islands",
+        "fr": "Îles Cocos (Keeling)"
     },
     {
         "iso": "CD",
         "flag": "🇨🇩",
         "unicode": "U+1F1E8 U+1F1E9",
-        "name": "Congo"
+        "name": "Congo",
+        "fr": "Congo"
     },
     {
         "iso": "CF",
         "flag": "🇨🇫",
         "unicode": "U+1F1E8 U+1F1EB",
-        "name": "Central African Republic"
+        "name": "Central African Republic",
+        "fr": "République centrafricaine"
     },
     {
         "iso": "CG",
         "flag": "🇨🇬",
         "unicode": "U+1F1E8 U+1F1EC",
-        "name": "Congo"
+        "name": "Congo",
+        "fr": "Congo"
     },
     {
         "iso": "CH",
         "flag": "🇨🇭",
         "unicode": "U+1F1E8 U+1F1ED",
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "fr": "Suisse"
     },
     {
         "iso": "CI",
         "flag": "🇨🇮",
         "unicode": "U+1F1E8 U+1F1EE",
-        "name": "Côte D'Ivoire"
+        "name": "Côte D'Ivoire",
+        "fr": "Côte d'Ivoire"
     },
     {
         "iso": "CK",
         "flag": "🇨🇰",
         "unicode": "U+1F1E8 U+1F1F0",
-        "name": "Cook Islands"
+        "name": "Cook Islands",
+        "fr": "les Îles Cook"
     },
     {
         "iso": "CL",
         "flag": "🇨🇱",
         "unicode": "U+1F1E8 U+1F1F1",
-        "name": "Chile"
+        "name": "Chile",
+        "fr": "Chili"
     },
     {
         "iso": "CM",
         "flag": "🇨🇲",
         "unicode": "U+1F1E8 U+1F1F2",
-        "name": "Cameroon"
+        "name": "Cameroon",
+        "fr": "Cameroun"
     },
     {
         "iso": "CN",
         "flag": "🇨🇳",
         "unicode": "U+1F1E8 U+1F1F3",
-        "name": "China"
+        "name": "China",
+        "fr": "Chine"
     },
     {
         "iso": "CO",
         "flag": "🇨🇴",
         "unicode": "U+1F1E8 U+1F1F4",
-        "name": "Colombia"
+        "name": "Colombia",
+        "fr": "Colombie"
     },
     {
         "iso": "CR",
         "flag": "🇨🇷",
         "unicode": "U+1F1E8 U+1F1F7",
-        "name": "Costa Rica"
+        "name": "Costa Rica",
+        "fr": "Costa Rica"
     },
     {
         "iso": "CU",
         "flag": "🇨🇺",
         "unicode": "U+1F1E8 U+1F1FA",
-        "name": "Cuba"
+        "name": "Cuba",
+        "fr": "Cuba"
     },
     {
         "iso": "CV",
         "flag": "🇨🇻",
         "unicode": "U+1F1E8 U+1F1FB",
-        "name": "Cape Verde"
+        "name": "Cape Verde",
+        "fr": "Cap-Vert"
     },
     {
         "iso": "CW",
         "flag": "🇨🇼",
         "unicode": "U+1F1E8 U+1F1FC",
-        "name": "Curaçao"
+        "name": "Curaçao",
+        "fr": "Curacao"
     },
     {
         "iso": "CX",
         "flag": "🇨🇽",
         "unicode": "U+1F1E8 U+1F1FD",
-        "name": "Christmas Island"
+        "name": "Christmas Island",
+        "fr": "L'île de noël"
     },
     {
         "iso": "CY",
         "flag": "🇨🇾",
         "unicode": "U+1F1E8 U+1F1FE",
-        "name": "Cyprus"
+        "name": "Cyprus",
+        "fr": "Chypre"
     },
     {
         "iso": "CZ",
         "flag": "🇨🇿",
         "unicode": "U+1F1E8 U+1F1FF",
-        "name": "Czech Republic"
+        "name": "Czech Republic",
+        "fr": "République Tchèque"
     },
     {
         "iso": "DE",
         "flag": "🇩🇪",
         "unicode": "U+1F1E9 U+1F1EA",
-        "name": "Germany"
+        "name": "Germany",
+        "fr": "Allemagne"
     },
     {
         "iso": "DJ",
         "flag": "🇩🇯",
         "unicode": "U+1F1E9 U+1F1EF",
-        "name": "Djibouti"
+        "name": "Djibouti",
+        "fr": "Djibouti"
     },
     {
         "iso": "DK",
         "flag": "🇩🇰",
         "unicode": "U+1F1E9 U+1F1F0",
-        "name": "Denmark"
+        "name": "Denmark",
+        "fr": "Danemark"
     },
     {
         "iso": "DM",
         "flag": "🇩🇲",
         "unicode": "U+1F1E9 U+1F1F2",
-        "name": "Dominica"
+        "name": "Dominica",
+        "fr": "Dominique"
     },
     {
         "iso": "DO",
         "flag": "🇩🇴",
         "unicode": "U+1F1E9 U+1F1F4",
-        "name": "Dominican Republic"
+        "name": "Dominican Republic",
+        "fr": "République Dominicaine"
     },
     {
         "iso": "DZ",
         "flag": "🇩🇿",
         "unicode": "U+1F1E9 U+1F1FF",
-        "name": "Algeria"
+        "name": "Algeria",
+        "fr": "Algérie"
     },
     {
         "iso": "EC",
         "flag": "🇪🇨",
         "unicode": "U+1F1EA U+1F1E8",
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "fr": "Équateur"
     },
     {
         "iso": "EE",
         "flag": "🇪🇪",
         "unicode": "U+1F1EA U+1F1EA",
-        "name": "Estonia"
+        "name": "Estonia",
+        "fr": "Estonie"
     },
     {
         "iso": "EG",
         "flag": "🇪🇬",
         "unicode": "U+1F1EA U+1F1EC",
-        "name": "Egypt"
+        "name": "Egypt",
+        "fr": "Egypte"
     },
     {
         "iso": "EH",
         "flag": "🇪🇭",
         "unicode": "U+1F1EA U+1F1ED",
-        "name": "Western Sahara"
+        "name": "Western Sahara",
+        "fr": "Sahara occidental"
     },
     {
         "iso": "ER",
         "flag": "🇪🇷",
         "unicode": "U+1F1EA U+1F1F7",
-        "name": "Eritrea"
+        "name": "Eritrea",
+        "fr": "Érythrée"
     },
     {
         "iso": "ES",
         "flag": "🇪🇸",
         "unicode": "U+1F1EA U+1F1F8",
-        "name": "Spain"
+        "name": "Spain",
+        "fr": "Espagne"
     },
     {
         "iso": "ET",
         "flag": "🇪🇹",
         "unicode": "U+1F1EA U+1F1F9",
-        "name": "Ethiopia"
+        "name": "Ethiopia",
+        "fr": "Ethiopie"
     },
     {
         "iso": "FI",
         "flag": "🇫🇮",
         "unicode": "U+1F1EB U+1F1EE",
-        "name": "Finland"
+        "name": "Finland",
+        "fr": "Finlande"
     },
     {
         "iso": "FJ",
         "flag": "🇫🇯",
         "unicode": "U+1F1EB U+1F1EF",
-        "name": "Fiji"
+        "name": "Fiji",
+        "fr": "Fidji"
     },
     {
         "iso": "FK",
         "flag": "🇫🇰",
         "unicode": "U+1F1EB U+1F1F0",
-        "name": "Falkland Islands (Malvinas)"
+        "name": "Falkland Islands (Malvinas)",
+        "fr": "Îles Falkland (Malvinas)"
     },
     {
         "iso": "FM",
         "flag": "🇫🇲",
         "unicode": "U+1F1EB U+1F1F2",
-        "name": "Micronesia"
+        "name": "Micronesia",
+        "fr": "Micronésie"
     },
     {
         "iso": "FO",
         "flag": "🇫🇴",
         "unicode": "U+1F1EB U+1F1F4",
-        "name": "Faroe Islands"
+        "name": "Faroe Islands",
+        "fr": "Îles Féroé"
     },
     {
         "iso": "FR",
         "flag": "🇫🇷",
         "unicode": "U+1F1EB U+1F1F7",
-        "name": "France"
+        "name": "France",
+        "fr": "France"
     },
     {
         "iso": "GA",
         "flag": "🇬🇦",
         "unicode": "U+1F1EC U+1F1E6",
-        "name": "Gabon"
+        "name": "Gabon",
+        "fr": "Gabon"
     },
     {
         "iso": "GB",
         "flag": "🇬🇧",
         "unicode": "U+1F1EC U+1F1E7",
-        "name": "United Kingdom"
+        "name": "United Kingdom",
+        "fr": "Royaume-Uni"
     },
     {
         "iso": "GD",
         "flag": "🇬🇩",
         "unicode": "U+1F1EC U+1F1E9",
-        "name": "Grenada"
+        "name": "Grenada",
+        "fr": "Grenade"
     },
     {
         "iso": "GE",
         "flag": "🇬🇪",
         "unicode": "U+1F1EC U+1F1EA",
-        "name": "Georgia"
+        "name": "Georgia",
+        "fr": "Géorgie"
     },
     {
         "iso": "GF",
         "flag": "🇬🇫",
         "unicode": "U+1F1EC U+1F1EB",
-        "name": "French Guiana"
+        "name": "French Guiana",
+        "fr": "Guyane Française"
     },
     {
         "iso": "GG",
         "flag": "🇬🇬",
         "unicode": "U+1F1EC U+1F1EC",
-        "name": "Guernsey"
+        "name": "Guernsey",
+        "fr": "Guernesey"
     },
     {
         "iso": "GH",
         "flag": "🇬🇭",
         "unicode": "U+1F1EC U+1F1ED",
-        "name": "Ghana"
+        "name": "Ghana",
+        "fr": "Ghana"
     },
     {
         "iso": "GI",
         "flag": "🇬🇮",
         "unicode": "U+1F1EC U+1F1EE",
-        "name": "Gibraltar"
+        "name": "Gibraltar",
+        "fr": "Gibraltar"
     },
     {
         "iso": "GL",
         "flag": "🇬🇱",
         "unicode": "U+1F1EC U+1F1F1",
-        "name": "Greenland"
+        "name": "Greenland",
+        "fr": "Groenland"
     },
     {
         "iso": "GM",
         "flag": "🇬🇲",
         "unicode": "U+1F1EC U+1F1F2",
-        "name": "Gambia"
+        "name": "Gambia",
+        "fr": "Gambie"
     },
     {
         "iso": "GN",
         "flag": "🇬🇳",
         "unicode": "U+1F1EC U+1F1F3",
-        "name": "Guinea"
+        "name": "Guinea",
+        "fr": "Guinée"
     },
     {
         "iso": "GP",
         "flag": "🇬🇵",
         "unicode": "U+1F1EC U+1F1F5",
-        "name": "Guadeloupe"
+        "name": "Guadeloupe",
+        "fr": "Guadeloupe"
     },
     {
         "iso": "GQ",
         "flag": "🇬🇶",
         "unicode": "U+1F1EC U+1F1F6",
-        "name": "Equatorial Guinea"
+        "name": "Equatorial Guinea",
+        "fr": "Guinée Équatoriale"
     },
     {
         "iso": "GR",
         "flag": "🇬🇷",
         "unicode": "U+1F1EC U+1F1F7",
-        "name": "Greece"
+        "name": "Greece",
+        "fr": "Grèce"
     },
     {
         "iso": "GS",
         "flag": "🇬🇸",
         "unicode": "U+1F1EC U+1F1F8",
-        "name": "South Georgia"
+        "name": "South Georgia",
+        "fr": "Géorgie du Sud"
     },
     {
         "iso": "GT",
         "flag": "🇬🇹",
         "unicode": "U+1F1EC U+1F1F9",
-        "name": "Guatemala"
+        "name": "Guatemala",
+        "fr": "Guatemala"
     },
     {
         "iso": "GU",
         "flag": "🇬🇺",
         "unicode": "U+1F1EC U+1F1FA",
-        "name": "Guam"
+        "name": "Guam",
+        "fr": "Guam"
     },
     {
         "iso": "GW",
         "flag": "🇬🇼",
         "unicode": "U+1F1EC U+1F1FC",
-        "name": "Guinea-Bissau"
+        "name": "Guinea-Bissau",
+        "fr": "Guinée-Bissau"
     },
     {
         "iso": "GY",
         "flag": "🇬🇾",
         "unicode": "U+1F1EC U+1F1FE",
-        "name": "Guyana"
+        "name": "Guyana",
+        "fr": "Guyane"
     },
     {
         "iso": "HK",
         "flag": "🇭🇰",
         "unicode": "U+1F1ED U+1F1F0",
-        "name": "Hong Kong"
+        "name": "Hong Kong",
+        "fr": "Hong Kong"
     },
     {
         "iso": "HM",
         "flag": "🇭🇲",
         "unicode": "U+1F1ED U+1F1F2",
-        "name": "Heard Island and Mcdonald Islands"
+        "name": "Heard Island and Mcdonald Islands",
+        "fr": "Îles Heard et Mcdonald"
     },
     {
         "iso": "HN",
         "flag": "🇭🇳",
         "unicode": "U+1F1ED U+1F1F3",
-        "name": "Honduras"
+        "name": "Honduras",
+        "fr": "Honduras"
     },
     {
         "iso": "HR",
         "flag": "🇭🇷",
         "unicode": "U+1F1ED U+1F1F7",
-        "name": "Croatia"
+        "name": "Croatia",
+        "fr": "Croatie"
     },
     {
         "iso": "HT",
         "flag": "🇭🇹",
         "unicode": "U+1F1ED U+1F1F9",
-        "name": "Haiti"
+        "name": "Haiti",
+        "fr": "Haïti"
     },
     {
         "iso": "HU",
         "flag": "🇭🇺",
         "unicode": "U+1F1ED U+1F1FA",
-        "name": "Hungary"
+        "name": "Hungary",
+        "fr": "Hongrie"
     },
     {
         "iso": "ID",
         "flag": "🇮🇩",
         "unicode": "U+1F1EE U+1F1E9",
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "fr": "Indonésie"
     },
     {
         "iso": "IE",
         "flag": "🇮🇪",
         "unicode": "U+1F1EE U+1F1EA",
-        "name": "Ireland"
+        "name": "Ireland",
+        "fr": "Irlande"
     },
     {
         "iso": "IL",
         "flag": "🇮🇱",
         "unicode": "U+1F1EE U+1F1F1",
-        "name": "Israel"
+        "name": "Israel",
+        "fr": "Israël"
     },
     {
         "iso": "IM",
         "flag": "🇮🇲",
         "unicode": "U+1F1EE U+1F1F2",
-        "name": "Isle of Man"
+        "name": "Isle of Man",
+        "fr": "île de Man"
     },
     {
         "iso": "IN",
         "flag": "🇮🇳",
         "unicode": "U+1F1EE U+1F1F3",
-        "name": "India"
+        "name": "India",
+        "fr": "Inde"
     },
     {
         "iso": "IO",
         "flag": "🇮🇴",
         "unicode": "U+1F1EE U+1F1F4",
-        "name": "British Indian Ocean Territory"
+        "name": "British Indian Ocean Territory",
+        "fr": "Territoire britannique de l'océan Indien"
     },
     {
         "iso": "IQ",
         "flag": "🇮🇶",
         "unicode": "U+1F1EE U+1F1F6",
-        "name": "Iraq"
+        "name": "Iraq",
+        "fr": "Irak"
     },
     {
         "iso": "IR",
         "flag": "🇮🇷",
         "unicode": "U+1F1EE U+1F1F7",
-        "name": "Iran"
+        "name": "Iran",
+        "fr": "J'ai couru"
     },
     {
         "iso": "IS",
         "flag": "🇮🇸",
         "unicode": "U+1F1EE U+1F1F8",
-        "name": "Iceland"
+        "name": "Iceland",
+        "fr": "Islande"
     },
     {
         "iso": "IT",
         "flag": "🇮🇹",
         "unicode": "U+1F1EE U+1F1F9",
-        "name": "Italy"
+        "name": "Italy",
+        "fr": "Italie"
     },
     {
         "iso": "JE",
         "flag": "🇯🇪",
         "unicode": "U+1F1EF U+1F1EA",
-        "name": "Jersey"
+        "name": "Jersey",
+        "fr": "Jersey"
     },
     {
         "iso": "JM",
         "flag": "🇯🇲",
         "unicode": "U+1F1EF U+1F1F2",
-        "name": "Jamaica"
+        "name": "Jamaica",
+        "fr": "Jamaïque"
     },
     {
         "iso": "JO",
         "flag": "🇯🇴",
         "unicode": "U+1F1EF U+1F1F4",
-        "name": "Jordan"
+        "name": "Jordan",
+        "fr": "Jordan"
     },
     {
         "iso": "JP",
         "flag": "🇯🇵",
         "unicode": "U+1F1EF U+1F1F5",
-        "name": "Japan"
+        "name": "Japan",
+        "fr": "Japon"
     },
     {
         "iso": "KE",
         "flag": "🇰🇪",
         "unicode": "U+1F1F0 U+1F1EA",
-        "name": "Kenya"
+        "name": "Kenya",
+        "fr": "Kenya"
     },
     {
         "iso": "KG",
         "flag": "🇰🇬",
         "unicode": "U+1F1F0 U+1F1EC",
-        "name": "Kyrgyzstan"
+        "name": "Kyrgyzstan",
+        "fr": "Kirghizistan"
     },
     {
         "iso": "KH",
         "flag": "🇰🇭",
         "unicode": "U+1F1F0 U+1F1ED",
-        "name": "Cambodia"
+        "name": "Cambodia",
+        "fr": "Cambodge"
     },
     {
         "iso": "KI",
         "flag": "🇰🇮",
         "unicode": "U+1F1F0 U+1F1EE",
-        "name": "Kiribati"
+        "name": "Kiribati",
+        "fr": "Kiribati"
     },
     {
         "iso": "KM",
         "flag": "🇰🇲",
         "unicode": "U+1F1F0 U+1F1F2",
-        "name": "Comoros"
+        "name": "Comoros",
+        "fr": "Comores"
     },
     {
         "iso": "KN",
         "flag": "🇰🇳",
         "unicode": "U+1F1F0 U+1F1F3",
-        "name": "Saint Kitts and Nevis"
+        "name": "Saint Kitts and Nevis",
+        "fr": "Saint-Christophe-et-Niévès"
     },
     {
         "iso": "KP",
         "flag": "🇰🇵",
         "unicode": "U+1F1F0 U+1F1F5",
-        "name": "North Korea"
+        "name": "North Korea",
+        "fr": "Corée du Nord"
     },
     {
         "iso": "KR",
         "flag": "🇰🇷",
         "unicode": "U+1F1F0 U+1F1F7",
-        "name": "South Korea"
+        "name": "South Korea",
+        "fr": "Corée du Sud"
     },
     {
         "iso": "KW",
         "flag": "🇰🇼",
         "unicode": "U+1F1F0 U+1F1FC",
-        "name": "Kuwait"
+        "name": "Kuwait",
+        "fr": "Koweit"
     },
     {
         "iso": "KY",
         "flag": "🇰🇾",
         "unicode": "U+1F1F0 U+1F1FE",
-        "name": "Cayman Islands"
+        "name": "Cayman Islands",
+        "fr": "Îles Caïmans"
     },
     {
         "iso": "KZ",
         "flag": "🇰🇿",
         "unicode": "U+1F1F0 U+1F1FF",
-        "name": "Kazakhstan"
+        "name": "Kazakhstan",
+        "fr": "Kazakhstan"
     },
     {
         "iso": "LA",
         "flag": "🇱🇦",
         "unicode": "U+1F1F1 U+1F1E6",
-        "name": "Lao People's Democratic Republic"
+        "name": "Lao People's Democratic Republic",
+        "fr": "République démocratique populaire lao"
     },
     {
         "iso": "LB",
         "flag": "🇱🇧",
         "unicode": "U+1F1F1 U+1F1E7",
-        "name": "Lebanon"
+        "name": "Lebanon",
+        "fr": "Liban"
     },
     {
         "iso": "LC",
         "flag": "🇱🇨",
         "unicode": "U+1F1F1 U+1F1E8",
-        "name": "Saint Lucia"
+        "name": "Saint Lucia",
+        "fr": "Sainte-Lucie"
     },
     {
         "iso": "LI",
         "flag": "🇱🇮",
         "unicode": "U+1F1F1 U+1F1EE",
-        "name": "Liechtenstein"
+        "name": "Liechtenstein",
+        "fr": "Liechtenstein"
     },
     {
         "iso": "LK",
         "flag": "🇱🇰",
         "unicode": "U+1F1F1 U+1F1F0",
-        "name": "Sri Lanka"
+        "name": "Sri Lanka",
+        "fr": "Sri Lanka"
     },
     {
         "iso": "LR",
         "flag": "🇱🇷",
         "unicode": "U+1F1F1 U+1F1F7",
-        "name": "Liberia"
+        "name": "Liberia",
+        "fr": "Libéria"
     },
     {
         "iso": "LS",
         "flag": "🇱🇸",
         "unicode": "U+1F1F1 U+1F1F8",
-        "name": "Lesotho"
+        "name": "Lesotho",
+        "fr": "Lesotho"
     },
     {
         "iso": "LT",
         "flag": "🇱🇹",
         "unicode": "U+1F1F1 U+1F1F9",
-        "name": "Lithuania"
+        "name": "Lithuania",
+        "fr": "Lituanie"
     },
     {
         "iso": "LU",
         "flag": "🇱🇺",
         "unicode": "U+1F1F1 U+1F1FA",
-        "name": "Luxembourg"
+        "name": "Luxembourg",
+        "fr": "Luxembourg"
     },
     {
         "iso": "LV",
         "flag": "🇱🇻",
         "unicode": "U+1F1F1 U+1F1FB",
-        "name": "Latvia"
+        "name": "Latvia",
+        "fr": "Lettonie"
     },
     {
         "iso": "LY",
         "flag": "🇱🇾",
         "unicode": "U+1F1F1 U+1F1FE",
-        "name": "Libya"
+        "name": "Libya",
+        "fr": "Libye"
     },
     {
         "iso": "MA",
         "flag": "🇲🇦",
         "unicode": "U+1F1F2 U+1F1E6",
-        "name": "Morocco"
+        "name": "Morocco",
+        "fr": "Maroc"
     },
     {
         "iso": "MC",
         "flag": "🇲🇨",
         "unicode": "U+1F1F2 U+1F1E8",
-        "name": "Monaco"
+        "name": "Monaco",
+        "fr": "Monaco"
     },
     {
         "iso": "MD",
         "flag": "🇲🇩",
         "unicode": "U+1F1F2 U+1F1E9",
-        "name": "Moldova"
+        "name": "Moldova",
+        "fr": "Moldova"
     },
     {
         "iso": "ME",
         "flag": "🇲🇪",
         "unicode": "U+1F1F2 U+1F1EA",
-        "name": "Montenegro"
+        "name": "Montenegro",
+        "fr": "Monténégro"
     },
     {
         "iso": "MF",
         "flag": "🇲🇫",
         "unicode": "U+1F1F2 U+1F1EB",
-        "name": "Saint Martin (French Part)"
+        "name": "Saint Martin (French Part)",
+        "fr": "Saint Martin (partie française)"
     },
     {
         "iso": "MG",
         "flag": "🇲🇬",
         "unicode": "U+1F1F2 U+1F1EC",
-        "name": "Madagascar"
+        "name": "Madagascar",
+        "fr": "Madagascar"
     },
     {
         "iso": "MH",
         "flag": "🇲🇭",
         "unicode": "U+1F1F2 U+1F1ED",
-        "name": "Marshall Islands"
+        "name": "Marshall Islands",
+        "fr": "Iles Marshall"
     },
     {
         "iso": "MK",
         "flag": "🇲🇰",
         "unicode": "U+1F1F2 U+1F1F0",
-        "name": "Macedonia"
+        "name": "Macedonia",
+        "fr": "Macédoine"
     },
     {
         "iso": "ML",
         "flag": "🇲🇱",
         "unicode": "U+1F1F2 U+1F1F1",
-        "name": "Mali"
+        "name": "Mali",
+        "fr": "Mali"
     },
     {
         "iso": "MM",
         "flag": "🇲🇲",
         "unicode": "U+1F1F2 U+1F1F2",
-        "name": "Myanmar"
+        "name": "Myanmar",
+        "fr": "Myanmar"
     },
     {
         "iso": "MN",
         "flag": "🇲🇳",
         "unicode": "U+1F1F2 U+1F1F3",
-        "name": "Mongolia"
+        "name": "Mongolia",
+        "fr": "Mongolie"
     },
     {
         "iso": "MO",
         "flag": "🇲🇴",
         "unicode": "U+1F1F2 U+1F1F4",
-        "name": "Macao"
+        "name": "Macao",
+        "fr": "Macao"
     },
     {
         "iso": "MP",
         "flag": "🇲🇵",
         "unicode": "U+1F1F2 U+1F1F5",
-        "name": "Northern Mariana Islands"
+        "name": "Northern Mariana Islands",
+        "fr": "Îles Mariannes du Nord"
     },
     {
         "iso": "MQ",
         "flag": "🇲🇶",
         "unicode": "U+1F1F2 U+1F1F6",
-        "name": "Martinique"
+        "name": "Martinique",
+        "fr": "Martinique"
     },
     {
         "iso": "MR",
         "flag": "🇲🇷",
         "unicode": "U+1F1F2 U+1F1F7",
-        "name": "Mauritania"
+        "name": "Mauritania",
+        "fr": "Mauritanie"
     },
     {
         "iso": "MS",
         "flag": "🇲🇸",
         "unicode": "U+1F1F2 U+1F1F8",
-        "name": "Montserrat"
+        "name": "Montserrat",
+        "fr": "Montserrat"
     },
     {
         "iso": "MT",
         "flag": "🇲🇹",
         "unicode": "U+1F1F2 U+1F1F9",
-        "name": "Malta"
+        "name": "Malta",
+        "fr": "Malte"
     },
     {
         "iso": "MU",
         "flag": "🇲🇺",
         "unicode": "U+1F1F2 U+1F1FA",
-        "name": "Mauritius"
+        "name": "Mauritius",
+        "fr": "Maurice"
     },
     {
         "iso": "MV",
         "flag": "🇲🇻",
         "unicode": "U+1F1F2 U+1F1FB",
-        "name": "Maldives"
+        "name": "Maldives",
+        "fr": "Maldives"
     },
     {
         "iso": "MW",
         "flag": "🇲🇼",
         "unicode": "U+1F1F2 U+1F1FC",
-        "name": "Malawi"
+        "name": "Malawi",
+        "fr": "Malawi"
     },
     {
         "iso": "MX",
         "flag": "🇲🇽",
         "unicode": "U+1F1F2 U+1F1FD",
-        "name": "Mexico"
+        "name": "Mexico",
+        "fr": "Mexique"
     },
     {
         "iso": "MY",
         "flag": "🇲🇾",
         "unicode": "U+1F1F2 U+1F1FE",
-        "name": "Malaysia"
+        "name": "Malaysia",
+        "fr": "Malaisie"
     },
     {
         "iso": "MZ",
         "flag": "🇲🇿",
         "unicode": "U+1F1F2 U+1F1FF",
-        "name": "Mozambique"
+        "name": "Mozambique",
+        "fr": "Mozambique"
     },
     {
         "iso": "NA",
         "flag": "🇳🇦",
         "unicode": "U+1F1F3 U+1F1E6",
-        "name": "Namibia"
+        "name": "Namibia",
+        "fr": "Namibie"
     },
     {
         "iso": "NC",
         "flag": "🇳🇨",
         "unicode": "U+1F1F3 U+1F1E8",
-        "name": "New Caledonia"
+        "name": "New Caledonia",
+        "fr": "Nouvelle Calédonie"
     },
     {
         "iso": "NE",
         "flag": "🇳🇪",
         "unicode": "U+1F1F3 U+1F1EA",
-        "name": "Niger"
+        "name": "Niger",
+        "fr": "Niger"
     },
     {
         "iso": "NF",
         "flag": "🇳🇫",
         "unicode": "U+1F1F3 U+1F1EB",
-        "name": "Norfolk Island"
+        "name": "Norfolk Island",
+        "fr": "l'ile de Norfolk"
     },
     {
         "iso": "NG",
         "flag": "🇳🇬",
         "unicode": "U+1F1F3 U+1F1EC",
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "fr": "Nigeria"
     },
     {
         "iso": "NI",
         "flag": "🇳🇮",
         "unicode": "U+1F1F3 U+1F1EE",
-        "name": "Nicaragua"
+        "name": "Nicaragua",
+        "fr": "Nicaragua"
     },
     {
         "iso": "NL",
         "flag": "🇳🇱",
         "unicode": "U+1F1F3 U+1F1F1",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "fr": "Pays-Bas"
     },
     {
         "iso": "NO",
         "flag": "🇳🇴",
         "unicode": "U+1F1F3 U+1F1F4",
-        "name": "Norway"
+        "name": "Norway",
+        "fr": "Norvège"
     },
     {
         "iso": "NP",
         "flag": "🇳🇵",
         "unicode": "U+1F1F3 U+1F1F5",
-        "name": "Nepal"
+        "name": "Nepal",
+        "fr": "Népal"
     },
     {
         "iso": "NR",
         "flag": "🇳🇷",
         "unicode": "U+1F1F3 U+1F1F7",
-        "name": "Nauru"
+        "name": "Nauru",
+        "fr": "Nauru"
     },
     {
         "iso": "NU",
         "flag": "🇳🇺",
         "unicode": "U+1F1F3 U+1F1FA",
-        "name": "Niue"
+        "name": "Niue",
+        "fr": "Niue"
     },
     {
         "iso": "NZ",
         "flag": "🇳🇿",
         "unicode": "U+1F1F3 U+1F1FF",
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "fr": "Nouvelle-Zélande"
     },
     {
         "iso": "OM",
         "flag": "🇴🇲",
         "unicode": "U+1F1F4 U+1F1F2",
-        "name": "Oman"
+        "name": "Oman",
+        "fr": "Oman"
     },
     {
         "iso": "PA",
         "flag": "🇵🇦",
         "unicode": "U+1F1F5 U+1F1E6",
-        "name": "Panama"
+        "name": "Panama",
+        "fr": "Panama"
     },
     {
         "iso": "PE",
         "flag": "🇵🇪",
         "unicode": "U+1F1F5 U+1F1EA",
-        "name": "Peru"
+        "name": "Peru",
+        "fr": "Pérou"
     },
     {
         "iso": "PF",
         "flag": "🇵🇫",
         "unicode": "U+1F1F5 U+1F1EB",
-        "name": "French Polynesia"
+        "name": "French Polynesia",
+        "fr": "Polynésie française"
     },
     {
         "iso": "PG",
         "flag": "🇵🇬",
         "unicode": "U+1F1F5 U+1F1EC",
-        "name": "Papua New Guinea"
+        "name": "Papua New Guinea",
+        "fr": "Papouasie Nouvelle Guinée"
     },
     {
         "iso": "PH",
         "flag": "🇵🇭",
         "unicode": "U+1F1F5 U+1F1ED",
-        "name": "Philippines"
+        "name": "Philippines",
+        "fr": "Philippines"
     },
     {
         "iso": "PK",
         "flag": "🇵🇰",
         "unicode": "U+1F1F5 U+1F1F0",
-        "name": "Pakistan"
+        "name": "Pakistan",
+        "fr": "Pakistan"
     },
     {
         "iso": "PL",
         "flag": "🇵🇱",
         "unicode": "U+1F1F5 U+1F1F1",
-        "name": "Poland"
+        "name": "Poland",
+        "fr": "Pologne"
     },
     {
         "iso": "PM",
         "flag": "🇵🇲",
         "unicode": "U+1F1F5 U+1F1F2",
-        "name": "Saint Pierre and Miquelon"
+        "name": "Saint Pierre and Miquelon",
+        "fr": "Saint-Pierre-et-Miquelon"
     },
     {
         "iso": "PN",
         "flag": "🇵🇳",
         "unicode": "U+1F1F5 U+1F1F3",
-        "name": "Pitcairn"
+        "name": "Pitcairn",
+        "fr": "Pitcairn"
     },
     {
         "iso": "PR",
         "flag": "🇵🇷",
         "unicode": "U+1F1F5 U+1F1F7",
-        "name": "Puerto Rico"
+        "name": "Puerto Rico",
+        "fr": "Porto Rico"
     },
     {
         "iso": "PS",
         "flag": "🇵🇸",
         "unicode": "U+1F1F5 U+1F1F8",
-        "name": "Palestinian Territory"
+        "name": "Palestinian Territory",
+        "fr": "Territoire Palestinien"
     },
     {
         "iso": "PT",
         "flag": "🇵🇹",
         "unicode": "U+1F1F5 U+1F1F9",
-        "name": "Portugal"
+        "name": "Portugal",
+        "fr": "le Portugal"
     },
     {
         "iso": "PW",
         "flag": "🇵🇼",
         "unicode": "U+1F1F5 U+1F1FC",
-        "name": "Palau"
+        "name": "Palau",
+        "fr": "Palau"
     },
     {
         "iso": "PY",
         "flag": "🇵🇾",
         "unicode": "U+1F1F5 U+1F1FE",
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "fr": "Paraguay"
     },
     {
         "iso": "QA",
         "flag": "🇶🇦",
         "unicode": "U+1F1F6 U+1F1E6",
-        "name": "Qatar"
+        "name": "Qatar",
+        "fr": "Qatar"
     },
     {
         "iso": "RE",
         "flag": "🇷🇪",
         "unicode": "U+1F1F7 U+1F1EA",
-        "name": "Réunion"
+        "name": "Réunion",
+        "fr": "Réunion"
     },
     {
         "iso": "RO",
         "flag": "🇷🇴",
         "unicode": "U+1F1F7 U+1F1F4",
-        "name": "Romania"
+        "name": "Romania",
+        "fr": "Roumanie"
     },
     {
         "iso": "RS",
         "flag": "🇷🇸",
         "unicode": "U+1F1F7 U+1F1F8",
-        "name": "Serbia"
+        "name": "Serbia",
+        "fr": "Serbie"
     },
     {
         "iso": "RU",
         "flag": "🇷🇺",
         "unicode": "U+1F1F7 U+1F1FA",
-        "name": "Russia"
+        "name": "Russia",
+        "fr": "Russie"
     },
     {
         "iso": "RW",
         "flag": "🇷🇼",
         "unicode": "U+1F1F7 U+1F1FC",
-        "name": "Rwanda"
+        "name": "Rwanda",
+        "fr": "Rwanda"
     },
     {
         "iso": "SA",
         "flag": "🇸🇦",
         "unicode": "U+1F1F8 U+1F1E6",
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "fr": "Arabie Saoudite"
     },
     {
         "iso": "SB",
         "flag": "🇸🇧",
         "unicode": "U+1F1F8 U+1F1E7",
-        "name": "Solomon Islands"
+        "name": "Solomon Islands",
+        "fr": "Les îles Salomon"
     },
     {
         "iso": "SC",
         "flag": "🇸🇨",
         "unicode": "U+1F1F8 U+1F1E8",
-        "name": "Seychelles"
+        "name": "Seychelles",
+        "fr": "les Seychelles"
     },
     {
         "iso": "SD",
         "flag": "🇸🇩",
         "unicode": "U+1F1F8 U+1F1E9",
-        "name": "Sudan"
+        "name": "Sudan",
+        "fr": "Soudan"
     },
     {
         "iso": "SE",
         "flag": "🇸🇪",
         "unicode": "U+1F1F8 U+1F1EA",
-        "name": "Sweden"
+        "name": "Sweden",
+        "fr": "Suède"
     },
     {
         "iso": "SG",
         "flag": "🇸🇬",
         "unicode": "U+1F1F8 U+1F1EC",
-        "name": "Singapore"
+        "name": "Singapore",
+        "fr": "Singapour"
     },
     {
         "iso": "SH",
         "flag": "🇸🇭",
         "unicode": "U+1F1F8 U+1F1ED",
-        "name": "Saint Helena, Ascension and Tristan Da Cunha"
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "fr": "Sainte-Hélène, Ascension et Tristan Da Cunha"
     },
     {
         "iso": "SI",
         "flag": "🇸🇮",
         "unicode": "U+1F1F8 U+1F1EE",
-        "name": "Slovenia"
+        "name": "Slovenia",
+        "fr": "Slovénie"
     },
     {
         "iso": "SJ",
         "flag": "🇸🇯",
         "unicode": "U+1F1F8 U+1F1EF",
-        "name": "Svalbard and Jan Mayen"
+        "name": "Svalbard and Jan Mayen",
+        "fr": "Svalbard et Jan Mayen"
     },
     {
         "iso": "SK",
         "flag": "🇸🇰",
         "unicode": "U+1F1F8 U+1F1F0",
-        "name": "Slovakia"
+        "name": "Slovakia",
+        "fr": "Slovaquie"
     },
     {
         "iso": "SL",
         "flag": "🇸🇱",
         "unicode": "U+1F1F8 U+1F1F1",
-        "name": "Sierra Leone"
+        "name": "Sierra Leone",
+        "fr": "Sierra Leone"
     },
     {
         "iso": "SM",
         "flag": "🇸🇲",
         "unicode": "U+1F1F8 U+1F1F2",
-        "name": "San Marino"
+        "name": "San Marino",
+        "fr": "Saint Marin"
     },
     {
         "iso": "SN",
         "flag": "🇸🇳",
         "unicode": "U+1F1F8 U+1F1F3",
-        "name": "Senegal"
+        "name": "Senegal",
+        "fr": "Sénégal"
     },
     {
         "iso": "SO",
         "flag": "🇸🇴",
         "unicode": "U+1F1F8 U+1F1F4",
-        "name": "Somalia"
+        "name": "Somalia",
+        "fr": "Somalie"
     },
     {
         "iso": "SR",
         "flag": "🇸🇷",
         "unicode": "U+1F1F8 U+1F1F7",
-        "name": "Suriname"
+        "name": "Suriname",
+        "fr": "Suriname"
     },
     {
         "iso": "SS",
         "flag": "🇸🇸",
         "unicode": "U+1F1F8 U+1F1F8",
-        "name": "South Sudan"
+        "name": "South Sudan",
+        "fr": "Soudan du Sud"
     },
     {
         "iso": "ST",
         "flag": "🇸🇹",
         "unicode": "U+1F1F8 U+1F1F9",
-        "name": "Sao Tome and Principe"
+        "name": "Sao Tome and Principe",
+        "fr": "Sao Tomé et Principe"
     },
     {
         "iso": "SV",
         "flag": "🇸🇻",
         "unicode": "U+1F1F8 U+1F1FB",
-        "name": "El Salvador"
+        "name": "El Salvador",
+        "fr": "Le Salvador"
     },
     {
         "iso": "SX",
         "flag": "🇸🇽",
         "unicode": "U+1F1F8 U+1F1FD",
-        "name": "Sint Maarten (Dutch Part)"
+        "name": "Sint Maarten (Dutch Part)",
+        "fr": "Sint Maarten (partie néerlandaise)"
     },
     {
         "iso": "SY",
         "flag": "🇸🇾",
         "unicode": "U+1F1F8 U+1F1FE",
-        "name": "Syrian Arab Republic"
+        "name": "Syrian Arab Republic",
+        "fr": "République arabe syrienne"
     },
     {
         "iso": "SZ",
         "flag": "🇸🇿",
         "unicode": "U+1F1F8 U+1F1FF",
-        "name": "Swaziland"
+        "name": "Swaziland",
+        "fr": "Swaziland"
     },
     {
         "iso": "TC",
         "flag": "🇹🇨",
         "unicode": "U+1F1F9 U+1F1E8",
-        "name": "Turks and Caicos Islands"
+        "name": "Turks and Caicos Islands",
+        "fr": "îles Turques-et-Caïques"
     },
     {
         "iso": "TD",
         "flag": "🇹🇩",
         "unicode": "U+1F1F9 U+1F1E9",
-        "name": "Chad"
+        "name": "Chad",
+        "fr": "Tchad"
     },
     {
         "iso": "TF",
         "flag": "🇹🇫",
         "unicode": "U+1F1F9 U+1F1EB",
-        "name": "French Southern Territories"
+        "name": "French Southern Territories",
+        "fr": "Territoires français du Sud"
     },
     {
         "iso": "TG",
         "flag": "🇹🇬",
         "unicode": "U+1F1F9 U+1F1EC",
-        "name": "Togo"
+        "name": "Togo",
+        "fr": "Aller"
     },
     {
         "iso": "TH",
         "flag": "🇹🇭",
         "unicode": "U+1F1F9 U+1F1ED",
-        "name": "Thailand"
+        "name": "Thailand",
+        "fr": "Thaïlande"
     },
     {
         "iso": "TJ",
         "flag": "🇹🇯",
         "unicode": "U+1F1F9 U+1F1EF",
-        "name": "Tajikistan"
+        "name": "Tajikistan",
+        "fr": "Tadjikistan"
     },
     {
         "iso": "TK",
         "flag": "🇹🇰",
         "unicode": "U+1F1F9 U+1F1F0",
-        "name": "Tokelau"
+        "name": "Tokelau",
+        "fr": "Tokelau"
     },
     {
         "iso": "TL",
         "flag": "🇹🇱",
         "unicode": "U+1F1F9 U+1F1F1",
-        "name": "Timor-Leste"
+        "name": "Timor-Leste",
+        "fr": "Timor-Leste"
     },
     {
         "iso": "TM",
         "flag": "🇹🇲",
         "unicode": "U+1F1F9 U+1F1F2",
-        "name": "Turkmenistan"
+        "name": "Turkmenistan",
+        "fr": "Turkménistan"
     },
     {
         "iso": "TN",
         "flag": "🇹🇳",
         "unicode": "U+1F1F9 U+1F1F3",
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "fr": "Tunisie"
     },
     {
         "iso": "TO",
         "flag": "🇹🇴",
         "unicode": "U+1F1F9 U+1F1F4",
-        "name": "Tonga"
+        "name": "Tonga",
+        "fr": "Tonga"
     },
     {
         "iso": "TR",
         "flag": "🇹🇷",
         "unicode": "U+1F1F9 U+1F1F7",
-        "name": "Turkey"
+        "name": "Turkey",
+        "fr": "dinde"
     },
     {
         "iso": "TT",
         "flag": "🇹🇹",
         "unicode": "U+1F1F9 U+1F1F9",
-        "name": "Trinidad and Tobago"
+        "name": "Trinidad and Tobago",
+        "fr": "Trinité-et-Tobago"
     },
     {
         "iso": "TV",
         "flag": "🇹🇻",
         "unicode": "U+1F1F9 U+1F1FB",
-        "name": "Tuvalu"
+        "name": "Tuvalu",
+        "fr": "Tuvalu"
     },
     {
         "iso": "TW",
         "flag": "🇹🇼",
         "unicode": "U+1F1F9 U+1F1FC",
-        "name": "Taiwan"
+        "name": "Taiwan",
+        "fr": "Taïwan"
     },
     {
         "iso": "TZ",
         "flag": "🇹🇿",
         "unicode": "U+1F1F9 U+1F1FF",
-        "name": "Tanzania"
+        "name": "Tanzania",
+        "fr": "Tanzanie"
     },
     {
         "iso": "UA",
         "flag": "🇺🇦",
         "unicode": "U+1F1FA U+1F1E6",
-        "name": "Ukraine"
+        "name": "Ukraine",
+        "fr": "Ukraine"
     },
     {
         "iso": "UG",
         "flag": "🇺🇬",
         "unicode": "U+1F1FA U+1F1EC",
-        "name": "Uganda"
+        "name": "Uganda",
+        "fr": "Ouganda"
     },
     {
         "iso": "UM",
         "flag": "🇺🇲",
         "unicode": "U+1F1FA U+1F1F2",
-        "name": "United States Minor Outlying Islands"
+        "name": "United States Minor Outlying Islands",
+        "fr": "Îles mineures éloignées des États-Unis"
     },
     {
         "iso": "US",
         "flag": "🇺🇸",
         "unicode": "U+1F1FA U+1F1F8",
-        "name": "United States"
+        "name": "United States",
+        "fr": "États Unis"
     },
     {
         "iso": "UY",
         "flag": "🇺🇾",
         "unicode": "U+1F1FA U+1F1FE",
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "fr": "Uruguay"
     },
     {
         "iso": "UZ",
         "flag": "🇺🇿",
         "unicode": "U+1F1FA U+1F1FF",
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "fr": "Ouzbékistan"
     },
     {
         "iso": "VA",
         "flag": "🇻🇦",
         "unicode": "U+1F1FB U+1F1E6",
-        "name": "Vatican City"
+        "name": "Vatican City",
+        "fr": "Cité du Vatican"
     },
     {
         "iso": "VC",
         "flag": "🇻🇨",
         "unicode": "U+1F1FB U+1F1E8",
-        "name": "Saint Vincent and The Grenadines"
+        "name": "Saint Vincent and The Grenadines",
+        "fr": "Saint-Vincent-et-les-Grenadines"
     },
     {
         "iso": "VE",
         "flag": "🇻🇪",
         "unicode": "U+1F1FB U+1F1EA",
-        "name": "Venezuela"
+        "name": "Venezuela",
+        "fr": "Venezuela"
     },
     {
         "iso": "VG",
         "flag": "🇻🇬",
         "unicode": "U+1F1FB U+1F1EC",
-        "name": "Virgin Islands, British"
+        "name": "Virgin Islands, British",
+        "fr": "Îles Vierges britanniques"
     },
     {
         "iso": "VI",
         "flag": "🇻🇮",
         "unicode": "U+1F1FB U+1F1EE",
-        "name": "Virgin Islands, U.S."
+        "name": "Virgin Islands, U.S.",
+        "fr": "Îles Vierges américaines"
     },
     {
         "iso": "VN",
         "flag": "🇻🇳",
         "unicode": "U+1F1FB U+1F1F3",
-        "name": "Viet Nam"
+        "name": "Viet Nam",
+        "fr": "Viet Nam"
     },
     {
         "iso": "VU",
         "flag": "🇻🇺",
         "unicode": "U+1F1FB U+1F1FA",
-        "name": "Vanuatu"
+        "name": "Vanuatu",
+        "fr": "Vanuatu"
     },
     {
         "iso": "WF",
         "flag": "🇼🇫",
         "unicode": "U+1F1FC U+1F1EB",
-        "name": "Wallis and Futuna"
+        "name": "Wallis and Futuna",
+        "fr": "Wallis et Futuna"
     },
     {
         "iso": "WS",
         "flag": "🇼🇸",
         "unicode": "U+1F1FC U+1F1F8",
-        "name": "Samoa"
+        "name": "Samoa",
+        "fr": "Samoa"
     },
     {
         "iso": "YE",
         "flag": "🇾🇪",
         "unicode": "U+1F1FE U+1F1EA",
-        "name": "Yemen"
+        "name": "Yemen",
+        "fr": "Yémen"
     },
     {
         "iso": "YT",
         "flag": "🇾🇹",
         "unicode": "U+1F1FE U+1F1F9",
-        "name": "Mayotte"
+        "name": "Mayotte",
+        "fr": "Mayotte"
     },
     {
         "iso": "ZA",
         "flag": "🇿🇦",
         "unicode": "U+1F1FF U+1F1E6",
-        "name": "South Africa"
+        "name": "South Africa",
+        "fr": "Afrique du Sud"
     },
     {
         "iso": "ZM",
         "flag": "🇿🇲",
         "unicode": "U+1F1FF U+1F1F2",
-        "name": "Zambia"
+        "name": "Zambia",
+        "fr": "Zambie"
     },
     {
         "iso": "ZW",
         "flag": "🇿🇼",
         "unicode": "U+1F1FF U+1F1FC",
-        "name": "Zimbabwe"
+        "name": "Zimbabwe",
+        "fr": "Zimbabwe"
     }
 ]
