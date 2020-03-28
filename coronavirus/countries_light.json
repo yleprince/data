@@ -1677,7 +1677,7 @@
             "fr": "Népal",
             "es": "Nepal"
         },
-        "population": 28951852
+        "population": 29300000
     },
     {
         "iso": "NR",
@@ -1687,7 +1687,7 @@
             "fr": "Nauru",
             "es": "Nauru"
         },
-        "population": 10065
+        "population": 13649
     },
     {
         "iso": "NU",
@@ -1697,7 +1697,7 @@
             "fr": "Niue",
             "es": "Niue"
         },
-        "population": 2166
+        "population": 1624
     },
     {
         "iso": "NZ",
@@ -1707,7 +1707,7 @@
             "fr": "Nouvelle-Zélande",
             "es": "Nueva Zelanda"
         },
-        "population": 4252277
+        "population": 4794000
     },
     {
         "iso": "OM",
@@ -1717,7 +1717,7 @@
             "fr": "Oman",
             "es": "Omán"
         },
-        "population": 2967717
+        "population": 4636000
     },
     {
         "iso": "PA",
@@ -1727,7 +1727,7 @@
             "fr": "Panama",
             "es": "Panamá"
         },
-        "population": 3410676
+        "population": 4099000
     },
     {
         "iso": "PE",
@@ -1737,7 +1737,7 @@
             "fr": "Pérou",
             "es": "Perú"
         },
-        "population": 29907003
+        "population": 32170000
     },
     {
         "iso": "PF",
@@ -1747,7 +1747,7 @@
             "fr": "Polynésie française",
             "es": "Polinesia francés"
         },
-        "population": 270485
+        "population": 283007
     },
     {
         "iso": "PG",
@@ -1757,7 +1757,7 @@
             "fr": "Papouasie Nouvelle Guinée",
             "es": "Papúa Nueva Guinea"
         },
-        "population": 6064515
+        "population": 8251000
     },
     {
         "iso": "PH",
@@ -1767,7 +1767,7 @@
             "fr": "Philippines",
             "es": "Filipinas"
         },
-        "population": 99900177
+        "population": 104900000
     },
     {
         "iso": "PK",
@@ -1777,7 +1777,7 @@
             "fr": "Pakistan",
             "es": "Pakistán"
         },
-        "population": 184404791
+        "population": 197000000
     },
     {
         "iso": "PL",
@@ -1787,7 +1787,7 @@
             "fr": "Pologne",
             "es": "Polonia"
         },
-        "population": 38500000
+        "population": 37980000
     },
     {
         "iso": "PM",
@@ -1797,7 +1797,7 @@
             "fr": "Saint-Pierre-et-Miquelon",
             "es": "San Pedro y Miquelón"
         },
-        "population": 7012
+        "population": 5888
     },
     {
         "iso": "PN",
@@ -1807,7 +1807,7 @@
             "fr": "Pitcairn",
             "es": "Pitcairn"
         },
-        "population": 46
+        "population": 67
     },
     {
         "iso": "PR",
@@ -1817,7 +1817,7 @@
             "fr": "Porto Rico",
             "es": "Puerto Rico"
         },
-        "population": 3916632
+        "population": 3195000
     },
     {
         "iso": "PS",
@@ -1827,17 +1827,17 @@
             "fr": "Territoire Palestinien",
             "es": "Territorio Palestino"
         },
-        "population": 3800000
+        "population": 4685000
     },
     {
         "iso": "PT",
         "flag": "🇵🇹",
         "name": {
             "en": "Portugal",
-            "fr": "le Portugal",
+            "fr": "Portugal",
             "es": "Portugal"
         },
-        "population": 10676000
+        "population": 10290000
     },
     {
         "iso": "PW",
@@ -1847,7 +1847,7 @@
             "fr": "Palau",
             "es": "Palau"
         },
-        "population": 19907
+        "population": 21729
     },
     {
         "iso": "PY",
@@ -1857,7 +1857,7 @@
             "fr": "Paraguay",
             "es": "Paraguay"
         },
-        "population": 6375830
+        "population": 6811000
     },
     {
         "iso": "QA",
@@ -1867,7 +1867,7 @@
             "fr": "Qatar",
             "es": "Katar"
         },
-        "population": 840926
+        "population": 2639000
     },
     {
         "iso": "RE",
@@ -1877,7 +1877,7 @@
             "fr": "Réunion",
             "es": "Reunión"
         },
-        "population": 776948
+        "population": 859959
     },
     {
         "iso": "RO",
@@ -1887,7 +1887,7 @@
             "fr": "Roumanie",
             "es": "Rumania"
         },
-        "population": 21959278
+        "population": 19530000
     },
     {
         "iso": "RS",
@@ -1897,7 +1897,7 @@
             "fr": "Serbie",
             "es": "Serbia"
         },
-        "population": 7344847
+        "population": 7022000
     },
     {
         "iso": "RU",
@@ -1907,7 +1907,7 @@
             "fr": "Russie",
             "es": "Rusia"
         },
-        "population": 140702000
+        "population": 144500000
     },
     {
         "iso": "RW",
@@ -1917,7 +1917,7 @@
             "fr": "Rwanda",
             "es": "Ruanda"
         },
-        "population": 11055976
+        "population": 12210000
     },
     {
         "iso": "SA",
@@ -1927,7 +1927,7 @@
             "fr": "Arabie Saoudite",
             "es": "Arabia Saudita"
         },
-        "population": 25731776
+        "population": 32940000
     },
     {
         "iso": "SB",
@@ -1937,7 +1937,7 @@
             "fr": "Les îles Salomon",
             "es": "Islas Salomón"
         },
-        "population": 559198
+        "population": 611343
     },
     {
         "iso": "SC",
@@ -1947,7 +1947,7 @@
             "fr": "les Seychelles",
             "es": "Seychelles"
         },
-        "population": 88340
+        "population": 95843
     },
     {
         "iso": "SD",
@@ -1957,7 +1957,7 @@
             "fr": "Soudan",
             "es": "Sudán"
         },
-        "population": 35000000
+        "population": 40530000
     },
     {
         "iso": "SE",
@@ -1967,7 +1967,7 @@
             "fr": "Suède",
             "es": "Suecia"
         },
-        "population": 9828655
+        "population": 10120000
     },
     {
         "iso": "SG",
@@ -1977,7 +1977,7 @@
             "fr": "Singapour",
             "es": "Singapur"
         },
-        "population": 4701069
+        "population": 5612000
     },
     {
         "iso": "SH",
@@ -1987,7 +1987,7 @@
             "fr": "Sainte-Hélène, Ascension et Tristan Da Cunha",
             "es": "Santa Elena, Ascensión y Tristán Da Cunha"
         },
-        "population": 7460
+        "population": 5661
     },
     {
         "iso": "SI",
@@ -1997,7 +1997,7 @@
             "fr": "Slovénie",
             "es": "Eslovenia"
         },
-        "population": 2007000
+        "population": 2067000
     },
     {
         "iso": "SJ",
@@ -2007,7 +2007,7 @@
             "fr": "Svalbard et Jan Mayen",
             "es": "Svalbard y Jan Mayen"
         },
-        "population": 2550
+        "population": 2642
     },
     {
         "iso": "SK",
@@ -2017,7 +2017,7 @@
             "fr": "Slovaquie",
             "es": "Eslovaquia"
         },
-        "population": 5455000
+        "population": 5450000
     },
     {
         "iso": "SL",
@@ -2027,7 +2027,7 @@
             "fr": "Sierra Leone",
             "es": "Sierra Leona"
         },
-        "population": 5245695
+        "population": 7557000
     },
     {
         "iso": "SM",
@@ -2037,7 +2037,7 @@
             "fr": "Saint Marin",
             "es": "San Marino"
         },
-        "population": 31477
+        "population": 33400
     },
     {
         "iso": "SN",
@@ -2047,7 +2047,7 @@
             "fr": "Sénégal",
             "es": "Senegal"
         },
-        "population": 12323252
+        "population": 15850000
     },
     {
         "iso": "SO",
@@ -2057,7 +2057,7 @@
             "fr": "Somalie",
             "es": "Somalia"
         },
-        "population": 10112453
+        "population": 14740000
     },
     {
         "iso": "SR",
@@ -2067,7 +2067,7 @@
             "fr": "Suriname",
             "es": "Surinam"
         },
-        "population": 492829
+        "population": 563402
     },
     {
         "iso": "SS",
@@ -2077,7 +2077,7 @@
             "fr": "Soudan du Sud",
             "es": "Sudán del Sur"
         },
-        "population": 8260490
+        "population": 12580000
     },
     {
         "iso": "ST",
@@ -2087,7 +2087,7 @@
             "fr": "Sao Tomé et Principe",
             "es": "Santo Tomé y Príncipe"
         },
-        "population": 197700
+        "population": 204327
     },
     {
         "iso": "SV",
@@ -2097,7 +2097,7 @@
             "fr": "Le Salvador",
             "es": "El Salvador"
         },
-        "population": 6052064
+        "population": 6378000
     },
     {
         "iso": "SX",
@@ -2107,7 +2107,7 @@
             "fr": "Sint Maarten (partie néerlandaise)",
             "es": "Sint Maarten (parte holandesa)"
         },
-        "population": 37429
+        "population": 75000
     },
     {
         "iso": "SY",
@@ -2117,7 +2117,7 @@
             "fr": "République arabe syrienne",
             "es": "República Árabe Siria"
         },
-        "population": 22198110
+        "population": 18270000
     },
     {
         "iso": "SZ",
@@ -2127,7 +2127,7 @@
             "fr": "Swaziland",
             "es": "Swazilandia"
         },
-        "population": 1354051
+        "population": 1367000
     },
     {
         "iso": "TC",
@@ -2137,7 +2137,7 @@
             "fr": "îles Turques-et-Caïques",
             "es": "Islas Turcas y Caicos"
         },
-        "population": 20556
+        "population": 35446
     },
     {
         "iso": "TD",
@@ -2147,15 +2147,15 @@
             "fr": "Tchad",
             "es": "Chad"
         },
-        "population": 10543464
+        "population": 14900000
     },
     {
         "iso": "TF",
         "flag": "🇹🇫",
         "name": {
             "en": "French Southern Territories",
-            "fr": "Territoires français du Sud",
-            "es": "Territorios Franceses del Sur"
+            "fr": "Terres australes et antarctiques françaises",
+            "es": "Tierras australes y antárticas francesas"
         },
         "population": 140
     },
@@ -2164,10 +2164,10 @@
         "flag": "🇹🇬",
         "name": {
             "en": "Togo",
-            "fr": "Aller",
-            "es": "Ir"
+            "fr": "Togo",
+            "es": "Togo"
         },
-        "population": 6587239
+        "population": 7798000
     },
     {
         "iso": "TH",
@@ -2177,7 +2177,7 @@
             "fr": "Thaïlande",
             "es": "Tailandia"
         },
-        "population": 67089500
+        "population": 69040000
     },
     {
         "iso": "TJ",
@@ -2187,7 +2187,7 @@
             "fr": "Tadjikistan",
             "es": "Tayikistán"
         },
-        "population": 7487489
+        "population": 8921000
     },
     {
         "iso": "TK",
@@ -2197,7 +2197,7 @@
             "fr": "Tokelau",
             "es": "Tokelau"
         },
-        "population": 1466
+        "population": 1411
     },
     {
         "iso": "TL",
@@ -2207,7 +2207,7 @@
             "fr": "Timor-Leste",
             "es": "Timor-Leste"
         },
-        "population": 1154625
+        "population": 1296000
     },
     {
         "iso": "TM",
@@ -2217,7 +2217,7 @@
             "fr": "Turkménistan",
             "es": "Turkmenistán"
         },
-        "population": 4940916
+        "population": 5758000
     },
     {
         "iso": "TN",
@@ -2227,7 +2227,7 @@
             "fr": "Tunisie",
             "es": "Túnez"
         },
-        "population": 10589025
+        "population": 11530000
     },
     {
         "iso": "TO",
@@ -2237,17 +2237,17 @@
             "fr": "Tonga",
             "es": "Tonga"
         },
-        "population": 122580
+        "population": 108020
     },
     {
         "iso": "TR",
         "flag": "🇹🇷",
         "name": {
             "en": "Turkey",
-            "fr": "dinde",
-            "es": "pavo"
+            "fr": "Turquie",
+            "es": "Turquía"
         },
-        "population": 77804122
+        "population": 80810000
     },
     {
         "iso": "TT",
@@ -2257,7 +2257,7 @@
             "fr": "Trinité-et-Tobago",
             "es": "Trinidad y Tobago"
         },
-        "population": 1328019
+        "population": 1369000
     },
     {
         "iso": "TV",
@@ -2267,7 +2267,7 @@
             "fr": "Tuvalu",
             "es": "Tuvalu"
         },
-        "population": 10472
+        "population": 11192
     },
     {
         "iso": "TW",
@@ -2277,7 +2277,7 @@
             "fr": "Taïwan",
             "es": "Taiwán"
         },
-        "population": 22894384
+        "population": 23780000
     },
     {
         "iso": "TZ",
@@ -2287,7 +2287,7 @@
             "fr": "Tanzanie",
             "es": "Tanzania"
         },
-        "population": 41892895
+        "population": 57310000
     },
     {
         "iso": "UA",
@@ -2297,7 +2297,7 @@
             "fr": "Ukraine",
             "es": "Ucrania"
         },
-        "population": 45415596
+        "population": 42220000
     },
     {
         "iso": "UG",
@@ -2307,7 +2307,7 @@
             "fr": "Ouganda",
             "es": "Uganda"
         },
-        "population": 33398682
+        "population": 42860000
     },
     {
         "iso": "UM",
@@ -2317,7 +2317,7 @@
             "fr": "Îles mineures éloignées des États-Unis",
             "es": "Islas ultramarinas menores de Estados Unidos"
         },
-        "population": 0
+        "population": 300
     },
     {
         "iso": "US",
@@ -2327,7 +2327,7 @@
             "fr": "États Unis",
             "es": "Estados Unidos"
         },
-        "population": 310232863
+        "population": 327200000
     },
     {
         "iso": "UY",
@@ -2337,7 +2337,7 @@
             "fr": "Uruguay",
             "es": "Uruguay"
         },
-        "population": 3477000
+        "population": 3457000
     },
     {
         "iso": "UZ",
@@ -2347,7 +2347,7 @@
             "fr": "Ouzbékistan",
             "es": "Uzbekistán"
         },
-        "population": 27865738
+        "population": 32390000
     },
     {
         "iso": "VA",
@@ -2357,7 +2357,7 @@
             "fr": "Cité du Vatican",
             "es": "Ciudad del Vaticano"
         },
-        "population": 921
+        "population": 1000
     },
     {
         "iso": "VC",
@@ -2367,7 +2367,7 @@
             "fr": "Saint-Vincent-et-les-Grenadines",
             "es": "San Vicente y las Granadinas"
         },
-        "population": 104217
+        "population": 109897
     },
     {
         "iso": "VE",
@@ -2377,7 +2377,7 @@
             "fr": "Venezuela",
             "es": "Venezuela"
         },
-        "population": 27223228
+        "population": 31980000
     },
     {
         "iso": "VG",
@@ -2387,7 +2387,7 @@
             "fr": "Îles Vierges britanniques",
             "es": "Islas Vírgenes Británicas"
         },
-        "population": 21730
+        "population": 31196
     },
     {
         "iso": "VI",
@@ -2397,17 +2397,17 @@
             "fr": "Îles Vierges américaines",
             "es": "Islas Vírgenes, EE. UU."
         },
-        "population": 108708
+        "population": 107268
     },
     {
         "iso": "VN",
         "flag": "🇻🇳",
         "name": {
-            "en": "Viet Nam",
-            "fr": "Viet Nam",
+            "en": "Vietnam",
+            "fr": "Vietnam",
             "es": "Vietnam"
         },
-        "population": 89571130
+        "population": 95540000
     },
     {
         "iso": "VU",
@@ -2417,7 +2417,7 @@
             "fr": "Vanuatu",
             "es": "Vanuatu"
         },
-        "population": 221552
+        "population": 276244
     },
     {
         "iso": "WF",
@@ -2427,7 +2427,7 @@
             "fr": "Wallis et Futuna",
             "es": "Wallis y Futuna"
         },
-        "population": 16025
+        "population": 15289
     },
     {
         "iso": "WS",
@@ -2437,7 +2437,7 @@
             "fr": "Samoa",
             "es": "Samoa"
         },
-        "population": 192001
+        "population": 196440
     },
     {
         "iso": "YE",
@@ -2447,7 +2447,7 @@
             "fr": "Yémen",
             "es": "Yemen"
         },
-        "population": 23495361
+        "population": 28250000
     },
     {
         "iso": "YT",
@@ -2457,7 +2457,7 @@
             "fr": "Mayotte",
             "es": "Mayotte"
         },
-        "population": 159042
+        "population": 270372
     },
     {
         "iso": "ZA",
@@ -2467,7 +2467,7 @@
             "fr": "Afrique du Sud",
             "es": "Sudáfrica"
         },
-        "population": 49000000
+        "population": 56720000
     },
     {
         "iso": "ZM",
@@ -2477,7 +2477,7 @@
             "fr": "Zambie",
             "es": "Zambia"
         },
-        "population": 13460305
+        "population": 17090000
     },
     {
         "iso": "ZW",
@@ -2487,6 +2487,6 @@
             "fr": "Zimbabwe",
             "es": "Zimbabue"
         },
-        "population": 13061000
+        "population": 16530000
     }
 ]
