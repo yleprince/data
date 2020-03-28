@@ -387,17 +387,17 @@
             "fr": "Îles Cocos (Keeling)",
             "es": "Islas Cocos (Keeling)"
         },
-        "population": 628
+        "population": 596
     },
     {
         "iso": "CD",
         "flag": "🇨🇩",
         "name": {
-            "en": "Congo",
-            "fr": "Congo",
-            "es": "Congo"
+            "en": "Democratic Republic of the Congo",
+            "fr": "République Démocratique du Congo",
+            "es": "República Democrática del Congo"
         },
-        "population": 70916439
+        "population": 81340000
     },
     {
         "iso": "CF",
@@ -407,17 +407,17 @@
             "fr": "République centrafricaine",
             "es": "República Centroafricana"
         },
-        "population": 4844927
+        "population": 4659000
     },
     {
         "iso": "CG",
         "flag": "🇨🇬",
         "name": {
-            "en": "Congo",
-            "fr": "Congo",
-            "es": "Congo"
+            "en": "Republic of the Congo",
+            "fr": "République du Congo",
+            "es": "República del Congo"
         },
-        "population": 3039126
+        "population": 5261000
     },
     {
         "iso": "CH",
@@ -427,7 +427,7 @@
             "fr": "Suisse",
             "es": "Suiza"
         },
-        "population": 8484100
+        "population": 8570000
     },
     {
         "iso": "CI",
@@ -437,7 +437,7 @@
             "fr": "Côte d'Ivoire",
             "es": "Costa de Marfil"
         },
-        "population": 21058798
+        "population": 24290000
     },
     {
         "iso": "CK",
@@ -447,7 +447,7 @@
             "fr": "les Îles Cook",
             "es": "Islas Cook"
         },
-        "population": 21388
+        "population": 17379
     },
     {
         "iso": "CL",
@@ -457,7 +457,7 @@
             "fr": "Chili",
             "es": "Chile"
         },
-        "population": 16746491
+        "population": 18050000
     },
     {
         "iso": "CM",
@@ -467,7 +467,7 @@
             "fr": "Cameroun",
             "es": "Camerún"
         },
-        "population": 19294149
+        "population": 24050000
     },
     {
         "iso": "CN",
@@ -487,7 +487,7 @@
             "fr": "Colombie",
             "es": "Colombia"
         },
-        "population": 47790000
+        "population": 49070000
     },
     {
         "iso": "CR",
@@ -497,7 +497,7 @@
             "fr": "Costa Rica",
             "es": "Costa Rica"
         },
-        "population": 4516220
+        "population": 4906000
     },
     {
         "iso": "CU",
@@ -507,7 +507,7 @@
             "fr": "Cuba",
             "es": "Cuba"
         },
-        "population": 11423000
+        "population": 11480000
     },
     {
         "iso": "CV",
@@ -517,7 +517,7 @@
             "fr": "Cap-Vert",
             "es": "Cabo Verde"
         },
-        "population": 508659
+        "population": 546388
     },
     {
         "iso": "CW",
@@ -527,7 +527,7 @@
             "fr": "Curacao",
             "es": "Curazao"
         },
-        "population": 141766
+        "population": 161014
     },
     {
         "iso": "CX",
@@ -537,7 +537,7 @@
             "fr": "L'île de noël",
             "es": "Isla de Navidad"
         },
-        "population": 1500
+        "population": 1402
     },
     {
         "iso": "CY",
@@ -547,7 +547,7 @@
             "fr": "Chypre",
             "es": "Chipre"
         },
-        "population": 1102677
+        "population": 1170000
     },
     {
         "iso": "CZ",
@@ -557,7 +557,7 @@
             "fr": "République Tchèque",
             "es": "Republica checa"
         },
-        "population": 10476000
+        "population": 10650000
     },
     {
         "iso": "DE",
@@ -567,7 +567,7 @@
             "fr": "Allemagne",
             "es": "Alemania"
         },
-        "population": 81802257
+        "population": 82790000
     },
     {
         "iso": "DJ",
@@ -577,7 +577,7 @@
             "fr": "Djibouti",
             "es": "Djibouti"
         },
-        "population": 740528
+        "population": 956985
     },
     {
         "iso": "DK",
@@ -587,7 +587,7 @@
             "fr": "Danemark",
             "es": "Dinamarca"
         },
-        "population": 5484000
+        "population": 5603000
     },
     {
         "iso": "DM",
@@ -597,7 +597,7 @@
             "fr": "Dominique",
             "es": "Dominica"
         },
-        "population": 72813
+        "population": 73925
     },
     {
         "iso": "DO",
@@ -607,7 +607,7 @@
             "fr": "République Dominicaine",
             "es": "República Dominicana"
         },
-        "population": 9823821
+        "population": 10770000
     },
     {
         "iso": "DZ",
@@ -617,7 +617,7 @@
             "fr": "Algérie",
             "es": "Argelia"
         },
-        "population": 34586184
+        "population": 41320000
     },
     {
         "iso": "EC",
@@ -627,7 +627,7 @@
             "fr": "Équateur",
             "es": "Ecuador"
         },
-        "population": 14790608
+        "population": 16620000
     },
     {
         "iso": "EE",
@@ -637,7 +637,7 @@
             "fr": "Estonie",
             "es": "Estonia"
         },
-        "population": 1291170
+        "population": 1328000
     },
     {
         "iso": "EG",
@@ -647,7 +647,7 @@
             "fr": "Egypte",
             "es": "Egipto"
         },
-        "population": 80471869
+        "population": 97550000
     },
     {
         "iso": "EH",
@@ -657,7 +657,7 @@
             "fr": "Sahara occidental",
             "es": "Sahara Occidental"
         },
-        "population": 273008
+        "population": 593502
     },
     {
         "iso": "ER",
@@ -667,7 +667,7 @@
             "fr": "Érythrée",
             "es": "Eritrea"
         },
-        "population": 5792984
+        "population": 4475000
     },
     {
         "iso": "ES",
@@ -677,7 +677,7 @@
             "fr": "Espagne",
             "es": "España"
         },
-        "population": 46505963
+        "population": 46660000
     },
     {
         "iso": "ET",
@@ -687,7 +687,7 @@
             "fr": "Ethiopie",
             "es": "Etiopía"
         },
-        "population": 88013491
+        "population": 105000000
     },
     {
         "iso": "FI",
@@ -697,7 +697,7 @@
             "fr": "Finlande",
             "es": "Finlandia"
         },
-        "population": 5244000
+        "population": 5513000
     },
     {
         "iso": "FJ",
@@ -707,7 +707,7 @@
             "fr": "Fidji",
             "es": "Fiyi"
         },
-        "population": 875983
+        "population": 905502
     },
     {
         "iso": "FK",
@@ -717,7 +717,7 @@
             "fr": "Îles Falkland (Malvinas)",
             "es": "Islas Malvinas (Falkland Islands)"
         },
-        "population": 2638
+        "population": 2840
     },
     {
         "iso": "FM",
@@ -727,7 +727,7 @@
             "fr": "Micronésie",
             "es": "Micronesia"
         },
-        "population": 107708
+        "population": 105544
     },
     {
         "iso": "FO",
@@ -737,7 +737,7 @@
             "fr": "Îles Féroé",
             "es": "Islas Faroe"
         },
-        "population": 48228
+        "population": 49290
     },
     {
         "iso": "FR",
@@ -747,7 +747,7 @@
             "fr": "France",
             "es": "Francia"
         },
-        "population": 64768389
+        "population": 66990000
     },
     {
         "iso": "GA",
@@ -757,7 +757,7 @@
             "fr": "Gabon",
             "es": "Gabón"
         },
-        "population": 1545255
+        "population": 2025000
     },
     {
         "iso": "GB",
@@ -767,7 +767,7 @@
             "fr": "Royaume-Uni",
             "es": "Reino Unido"
         },
-        "population": 62348447
+        "population": 66440000
     },
     {
         "iso": "GD",
@@ -777,7 +777,7 @@
             "fr": "Grenade",
             "es": "Granada"
         },
-        "population": 107818
+        "population": 917445
     },
     {
         "iso": "GE",
@@ -787,7 +787,7 @@
             "fr": "Géorgie",
             "es": "Georgia"
         },
-        "population": 4630000
+        "population": 3717000
     },
     {
         "iso": "GF",
@@ -797,7 +797,7 @@
             "fr": "Guyane Française",
             "es": "Guayana Francesa"
         },
-        "population": 195506
+        "population": 290691
     },
     {
         "iso": "GG",
@@ -807,7 +807,7 @@
             "fr": "Guernesey",
             "es": "Guernsey"
         },
-        "population": 65228
+        "population": 63026
     },
     {
         "iso": "GH",
@@ -817,7 +817,7 @@
             "fr": "Ghana",
             "es": "Ghana"
         },
-        "population": 24339838
+        "population": 28830000
     },
     {
         "iso": "GI",
@@ -827,7 +827,7 @@
             "fr": "Gibraltar",
             "es": "Gibraltar"
         },
-        "population": 27884
+        "population": 34571
     },
     {
         "iso": "GL",
@@ -837,7 +837,7 @@
             "fr": "Groenland",
             "es": "Groenlandia"
         },
-        "population": 56375
+        "population": 56171
     },
     {
         "iso": "GM",
@@ -847,7 +847,7 @@
             "fr": "Gambie",
             "es": "Gambia"
         },
-        "population": 1593256
+        "population": 2101000
     },
     {
         "iso": "GN",
@@ -857,7 +857,7 @@
             "fr": "Guinée",
             "es": "Guinea"
         },
-        "population": 10324025
+        "population": 12720000
     },
     {
         "iso": "GP",
@@ -867,7 +867,7 @@
             "fr": "Guadeloupe",
             "es": "Guadalupe"
         },
-        "population": 443000
+        "population": 395700
     },
     {
         "iso": "GQ",
@@ -877,7 +877,7 @@
             "fr": "Guinée Équatoriale",
             "es": "Guinea Ecuatorial"
         },
-        "population": 1014999
+        "population": 1268000
     },
     {
         "iso": "GR",
@@ -887,7 +887,7 @@
             "fr": "Grèce",
             "es": "Grecia"
         },
-        "population": 11000000
+        "population": 10740000
     },
     {
         "iso": "GS",
@@ -917,7 +917,7 @@
             "fr": "Guam",
             "es": "Guam"
         },
-        "population": 159358
+        "population": 16910000
     },
     {
         "iso": "GW",
@@ -927,7 +927,7 @@
             "fr": "Guinée-Bissau",
             "es": "Guinea-Bissau"
         },
-        "population": 1565126
+        "population": 1861000
     },
     {
         "iso": "GY",
@@ -937,7 +937,7 @@
             "fr": "Guyane",
             "es": "Guayana"
         },
-        "population": 748486
+        "population": 777859
     },
     {
         "iso": "HK",
@@ -947,7 +947,7 @@
             "fr": "Hong Kong",
             "es": "Hong Kong"
         },
-        "population": 6898686
+        "population": 7392000
     },
     {
         "iso": "HM",
@@ -967,7 +967,7 @@
             "fr": "Honduras",
             "es": "Honduras"
         },
-        "population": 7989415
+        "population": 9265000
     },
     {
         "iso": "HR",
@@ -977,7 +977,7 @@
             "fr": "Croatie",
             "es": "Croacia"
         },
-        "population": 4284889
+        "population": 4076000
     },
     {
         "iso": "HT",
@@ -987,7 +987,7 @@
             "fr": "Haïti",
             "es": "Haití"
         },
-        "population": 9648924
+        "population": 10980000
     },
     {
         "iso": "HU",
@@ -997,7 +997,7 @@
             "fr": "Hongrie",
             "es": "Hungría"
         },
-        "population": 9982000
+        "population": 9773000
     },
     {
         "iso": "ID",
@@ -1007,7 +1007,7 @@
             "fr": "Indonésie",
             "es": "Indonesia"
         },
-        "population": 242968342
+        "population": 264000000
     },
     {
         "iso": "IE",
@@ -1017,7 +1017,7 @@
             "fr": "Irlande",
             "es": "Irlanda"
         },
-        "population": 4622917
+        "population": 4830000
     },
     {
         "iso": "IL",
@@ -1027,7 +1027,7 @@
             "fr": "Israël",
             "es": "Israel"
         },
-        "population": 7353985
+        "population": 8712000
     },
     {
         "iso": "IM",
@@ -1037,7 +1037,7 @@
             "fr": "île de Man",
             "es": "Isla del hombre"
         },
-        "population": 75049
+        "population": 84287
     },
     {
         "iso": "IN",
@@ -1047,7 +1047,7 @@
             "fr": "Inde",
             "es": "India"
         },
-        "population": 1173108018
+        "population": 1339000000
     },
     {
         "iso": "IO",
