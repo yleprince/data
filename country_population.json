@@ -1,0 +1,4733 @@
+[
+    {
+        "iso": "AD",
+        "flag": "🇦🇩",
+        "unicode": "U+1F1E6 U+1F1E9",
+        "name": {
+            "en": "Andorra",
+            "fr": "Andorre",
+            "es": "Andorra"
+        },
+        "iso3": "AND",
+        "continent": "EU",
+        "aera": 468.0,
+        "population": 84000,
+        "capital": {
+            "en": "Andorra la Vella",
+            "fr": "Andorre-la-Vieille",
+            "es": "Andorra la Vella"
+        }
+    },
+    {
+        "iso": "AE",
+        "flag": "🇦🇪",
+        "unicode": "U+1F1E6 U+1F1EA",
+        "name": {
+            "en": "United Arab Emirates",
+            "fr": "Emirats Arabes Unis",
+            "es": "Emiratos Árabes Unidos"
+        },
+        "iso3": "ARE",
+        "continent": "AS",
+        "aera": 82880.0,
+        "population": 4975593,
+        "capital": {
+            "en": "Abu Dhabi",
+            "fr": "Abu Dhabi",
+            "es": "Abu Dhabi"
+        }
+    },
+    {
+        "iso": "AF",
+        "flag": "🇦🇫",
+        "unicode": "U+1F1E6 U+1F1EB",
+        "name": {
+            "en": "Afghanistan",
+            "fr": "Afghanistan",
+            "es": "Afganistán"
+        },
+        "iso3": "AFG",
+        "continent": "AS",
+        "aera": 647500.0,
+        "population": 29121286,
+        "capital": {
+            "en": "Kabul",
+            "fr": "Kaboul",
+            "es": "Kabul"
+        }
+    },
+    {
+        "iso": "AG",
+        "flag": "🇦🇬",
+        "unicode": "U+1F1E6 U+1F1EC",
+        "name": {
+            "en": "Antigua and Barbuda",
+            "fr": "Antigua-et-Barbuda",
+            "es": "Antigua y Barbuda"
+        },
+        "iso3": "ATG",
+        "continent": "NA",
+        "aera": 443.0,
+        "population": 86754,
+        "capital": {
+            "en": "St. John's",
+            "fr": "St. John's",
+            "es": "de San Juan"
+        }
+    },
+    {
+        "iso": "AI",
+        "flag": "🇦🇮",
+        "unicode": "U+1F1E6 U+1F1EE",
+        "name": {
+            "en": "Anguilla",
+            "fr": "Anguilla",
+            "es": "Anguila"
+        },
+        "iso3": "AIA",
+        "continent": "NA",
+        "aera": 102.0,
+        "population": 13254,
+        "capital": {
+            "en": "The Valley",
+            "fr": "La vallée",
+            "es": "El valle"
+        }
+    },
+    {
+        "iso": "AL",
+        "flag": "🇦🇱",
+        "unicode": "U+1F1E6 U+1F1F1",
+        "name": {
+            "en": "Albania",
+            "fr": "Albanie",
+            "es": "Albania"
+        },
+        "iso3": "ALB",
+        "continent": "EU",
+        "aera": 28748.0,
+        "population": 2986952,
+        "capital": {
+            "en": "Tirana",
+            "fr": "Tirana",
+            "es": "Tirana"
+        }
+    },
+    {
+        "iso": "AM",
+        "flag": "🇦🇲",
+        "unicode": "U+1F1E6 U+1F1F2",
+        "name": {
+            "en": "Armenia",
+            "fr": "Arménie",
+            "es": "Armenia"
+        },
+        "iso3": "ARM",
+        "continent": "AS",
+        "aera": 29800.0,
+        "population": 2968000,
+        "capital": {
+            "en": "Yerevan",
+            "fr": "Erevan",
+            "es": "Ereván"
+        }
+    },
+    {
+        "iso": "AO",
+        "flag": "🇦🇴",
+        "unicode": "U+1F1E6 U+1F1F4",
+        "name": {
+            "en": "Angola",
+            "fr": "Angola",
+            "es": "Angola"
+        },
+        "iso3": "AGO",
+        "continent": "AF",
+        "aera": 1246700.0,
+        "population": 13068161,
+        "capital": {
+            "en": "Luanda",
+            "fr": "Luanda",
+            "es": "Luanda"
+        }
+    },
+    {
+        "iso": "AQ",
+        "flag": "🇦🇶",
+        "unicode": "U+1F1E6 U+1F1F6",
+        "name": {
+            "en": "Antarctica",
+            "fr": "Antarctique",
+            "es": "Antártida"
+        },
+        "iso3": "ATA",
+        "continent": "AN",
+        "aera": 14000000.0,
+        "population": 0,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "AR",
+        "flag": "🇦🇷",
+        "unicode": "U+1F1E6 U+1F1F7",
+        "name": {
+            "en": "Argentina",
+            "fr": "Argentine",
+            "es": "Argentina"
+        },
+        "iso3": "ARG",
+        "continent": "SA",
+        "aera": 2766890.0,
+        "population": 41343201,
+        "capital": {
+            "en": "Buenos Aires",
+            "fr": "Buenos Aires",
+            "es": "Buenos Aires"
+        }
+    },
+    {
+        "iso": "AS",
+        "flag": "🇦🇸",
+        "unicode": "U+1F1E6 U+1F1F8",
+        "name": {
+            "en": "American Samoa",
+            "fr": "Samoa américaines",
+            "es": "Samoa Americana"
+        },
+        "iso3": "ASM",
+        "continent": "OC",
+        "aera": 199.0,
+        "population": 57881,
+        "capital": {
+            "en": "Pago Pago",
+            "fr": "Pago Pago",
+            "es": "Pago Pago"
+        }
+    },
+    {
+        "iso": "AT",
+        "flag": "🇦🇹",
+        "unicode": "U+1F1E6 U+1F1F9",
+        "name": {
+            "en": "Austria",
+            "fr": "L'Autriche",
+            "es": "Austria"
+        },
+        "iso3": "AUT",
+        "continent": "EU",
+        "aera": 83858.0,
+        "population": 8205000,
+        "capital": {
+            "en": "Vienna",
+            "fr": "Vienne",
+            "es": "Viena"
+        }
+    },
+    {
+        "iso": "AU",
+        "flag": "🇦🇺",
+        "unicode": "U+1F1E6 U+1F1FA",
+        "name": {
+            "en": "Australia",
+            "fr": "Australie",
+            "es": "Australia"
+        },
+        "iso3": "AUS",
+        "continent": "OC",
+        "aera": 7686850.0,
+        "population": 21515754,
+        "capital": {
+            "en": "Canberra",
+            "fr": "Canberra",
+            "es": "Canberra"
+        }
+    },
+    {
+        "iso": "AW",
+        "flag": "🇦🇼",
+        "unicode": "U+1F1E6 U+1F1FC",
+        "name": {
+            "en": "Aruba",
+            "fr": "Aruba",
+            "es": "Aruba"
+        },
+        "iso3": "ABW",
+        "continent": "NA",
+        "aera": 193.0,
+        "population": 71566,
+        "capital": {
+            "en": "Oranjestad",
+            "fr": "Oranjestad",
+            "es": "Oranjestad"
+        }
+    },
+    {
+        "iso": "AX",
+        "flag": "🇦🇽",
+        "unicode": "U+1F1E6 U+1F1FD",
+        "name": {
+            "en": "Åland Islands",
+            "fr": "Iles Aland",
+            "es": "Islas Aland"
+        },
+        "iso3": "ALA",
+        "continent": "EU",
+        "aera": 1580.0,
+        "population": 26711,
+        "capital": {
+            "en": "Mariehamn",
+            "fr": "Mariehamn",
+            "es": "Mariehamn"
+        }
+    },
+    {
+        "iso": "AZ",
+        "flag": "🇦🇿",
+        "unicode": "U+1F1E6 U+1F1FF",
+        "name": {
+            "en": "Azerbaijan",
+            "fr": "Azerbaïdjan",
+            "es": "Azerbaiyán"
+        },
+        "iso3": "AZE",
+        "continent": "AS",
+        "aera": 86600.0,
+        "population": 8303512,
+        "capital": {
+            "en": "Baku",
+            "fr": "Bakou",
+            "es": "Bakú"
+        }
+    },
+    {
+        "iso": "BA",
+        "flag": "🇧🇦",
+        "unicode": "U+1F1E7 U+1F1E6",
+        "name": {
+            "en": "Bosnia and Herzegovina",
+            "fr": "Bosnie Herzégovine",
+            "es": "Bosnia y Herzegovina"
+        },
+        "iso3": "BIH",
+        "continent": "EU",
+        "aera": 51129.0,
+        "population": 4590000,
+        "capital": {
+            "en": "Sarajevo",
+            "fr": "Sarajevo",
+            "es": "Sarajevo"
+        }
+    },
+    {
+        "iso": "BB",
+        "flag": "🇧🇧",
+        "unicode": "U+1F1E7 U+1F1E7",
+        "name": {
+            "en": "Barbados",
+            "fr": "Barbade",
+            "es": "Barbados"
+        },
+        "iso3": "BRB",
+        "continent": "NA",
+        "aera": 431.0,
+        "population": 285653,
+        "capital": {
+            "en": "Bridgetown",
+            "fr": "Bridgetown",
+            "es": "Bridgetown"
+        }
+    },
+    {
+        "iso": "BD",
+        "flag": "🇧🇩",
+        "unicode": "U+1F1E7 U+1F1E9",
+        "name": {
+            "en": "Bangladesh",
+            "fr": "Bangladesh",
+            "es": "Bangladesh"
+        },
+        "iso3": "BGD",
+        "continent": "AS",
+        "aera": 144000.0,
+        "population": 156118464,
+        "capital": {
+            "en": "Dhaka",
+            "fr": "Dhaka",
+            "es": "Dhaka"
+        }
+    },
+    {
+        "iso": "BE",
+        "flag": "🇧🇪",
+        "unicode": "U+1F1E7 U+1F1EA",
+        "name": {
+            "en": "Belgium",
+            "fr": "Belgique",
+            "es": "Bélgica"
+        },
+        "iso3": "BEL",
+        "continent": "EU",
+        "aera": 30510.0,
+        "population": 10403000,
+        "capital": {
+            "en": "Brussels",
+            "fr": "Bruxelles",
+            "es": "Bruselas"
+        }
+    },
+    {
+        "iso": "BF",
+        "flag": "🇧🇫",
+        "unicode": "U+1F1E7 U+1F1EB",
+        "name": {
+            "en": "Burkina Faso",
+            "fr": "Burkina Faso",
+            "es": "Burkina Faso"
+        },
+        "iso3": "BFA",
+        "continent": "AF",
+        "aera": 274200.0,
+        "population": 16241811,
+        "capital": {
+            "en": "Ouagadougou",
+            "fr": "Ouagadougou",
+            "es": "Uagadugú"
+        }
+    },
+    {
+        "iso": "BG",
+        "flag": "🇧🇬",
+        "unicode": "U+1F1E7 U+1F1EC",
+        "name": {
+            "en": "Bulgaria",
+            "fr": "Bulgarie",
+            "es": "Bulgaria"
+        },
+        "iso3": "BGR",
+        "continent": "EU",
+        "aera": 110910.0,
+        "population": 7000039,
+        "capital": {
+            "en": "Sofia",
+            "fr": "Sofia",
+            "es": "Sofía"
+        }
+    },
+    {
+        "iso": "BH",
+        "flag": "🇧🇭",
+        "unicode": "U+1F1E7 U+1F1ED",
+        "name": {
+            "en": "Bahrain",
+            "fr": "Bahrein",
+            "es": "Bahrein"
+        },
+        "iso3": "BHR",
+        "continent": "AS",
+        "aera": 665.0,
+        "population": 738004,
+        "capital": {
+            "en": "Manama",
+            "fr": "Manama",
+            "es": "Manama"
+        }
+    },
+    {
+        "iso": "BI",
+        "flag": "🇧🇮",
+        "unicode": "U+1F1E7 U+1F1EE",
+        "name": {
+            "en": "Burundi",
+            "fr": "Burundi",
+            "es": "Burundi"
+        },
+        "iso3": "BDI",
+        "continent": "AF",
+        "aera": 27830.0,
+        "population": 9863117,
+        "capital": {
+            "en": "Gitega",
+            "fr": "Gitega",
+            "es": "Gitega"
+        }
+    },
+    {
+        "iso": "BJ",
+        "flag": "🇧🇯",
+        "unicode": "U+1F1E7 U+1F1EF",
+        "name": {
+            "en": "Benin",
+            "fr": "Bénin",
+            "es": "Benin"
+        },
+        "iso3": "BEN",
+        "continent": "AF",
+        "aera": 112620.0,
+        "population": 9056010,
+        "capital": {
+            "en": "Porto-Novo",
+            "fr": "Porto-Novo",
+            "es": "Porto-Novo"
+        }
+    },
+    {
+        "iso": "BL",
+        "flag": "🇧🇱",
+        "unicode": "U+1F1E7 U+1F1F1",
+        "name": {
+            "en": "Saint Barthélemy",
+            "fr": "Saint Barthélemy",
+            "es": "San Bartolomé"
+        },
+        "iso3": "BLM",
+        "continent": "NA",
+        "aera": 21.0,
+        "population": 8450,
+        "capital": {
+            "en": "Gustavia",
+            "fr": "Gustavia",
+            "es": "Gustavia"
+        }
+    },
+    {
+        "iso": "BM",
+        "flag": "🇧🇲",
+        "unicode": "U+1F1E7 U+1F1F2",
+        "name": {
+            "en": "Bermuda",
+            "fr": "Bermudes",
+            "es": "islas Bermudas"
+        },
+        "iso3": "BMU",
+        "continent": "NA",
+        "aera": 53.0,
+        "population": 65365,
+        "capital": {
+            "en": "Hamilton",
+            "fr": "Hamilton",
+            "es": "Hamilton"
+        }
+    },
+    {
+        "iso": "BN",
+        "flag": "🇧🇳",
+        "unicode": "U+1F1E7 U+1F1F3",
+        "name": {
+            "en": "Brunei Darussalam",
+            "fr": "Brunei Darussalam",
+            "es": "Brunei Darussalam"
+        },
+        "iso3": "BRN",
+        "continent": "AS",
+        "aera": 5770.0,
+        "population": 395027,
+        "capital": {
+            "en": "Bandar Seri Begawan",
+            "fr": "Bandar Seri Begawan",
+            "es": "Bandar Seri Begawan"
+        }
+    },
+    {
+        "iso": "BO",
+        "flag": "🇧🇴",
+        "unicode": "U+1F1E7 U+1F1F4",
+        "name": {
+            "en": "Bolivia",
+            "fr": "Bolivie",
+            "es": "Bolivia"
+        },
+        "iso3": "BOL",
+        "continent": "SA",
+        "aera": 1098580.0,
+        "population": 9947418,
+        "capital": {
+            "en": "Sucre",
+            "fr": "Sucre",
+            "es": "Sucre"
+        }
+    },
+    {
+        "iso": "BQ",
+        "flag": "🇧🇶",
+        "unicode": "U+1F1E7 U+1F1F6",
+        "name": {
+            "en": "Bonaire, Sint Eustatius and Saba",
+            "fr": "Bonaire, Saint-Eustache et Saba",
+            "es": "Bonaire, San Eustaquio y Saba"
+        },
+        "iso3": "BES",
+        "continent": "NA",
+        "aera": 328.0,
+        "population": 18012,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "BR",
+        "flag": "🇧🇷",
+        "unicode": "U+1F1E7 U+1F1F7",
+        "name": {
+            "en": "Brazil",
+            "fr": "Brésil",
+            "es": "Brasil"
+        },
+        "iso3": "BRA",
+        "continent": "SA",
+        "aera": 8511965.0,
+        "population": 201103330,
+        "capital": {
+            "en": "Brasilia",
+            "fr": "Brasilia",
+            "es": "Brasilia"
+        }
+    },
+    {
+        "iso": "BS",
+        "flag": "🇧🇸",
+        "unicode": "U+1F1E7 U+1F1F8",
+        "name": {
+            "en": "Bahamas",
+            "fr": "Bahamas",
+            "es": "Bahamas"
+        },
+        "iso3": "BHS",
+        "continent": "NA",
+        "aera": 13940.0,
+        "population": 301790,
+        "capital": {
+            "en": "Nassau",
+            "fr": "Nassau",
+            "es": "Nassau"
+        }
+    },
+    {
+        "iso": "BT",
+        "flag": "🇧🇹",
+        "unicode": "U+1F1E7 U+1F1F9",
+        "name": {
+            "en": "Bhutan",
+            "fr": "Bhoutan",
+            "es": "Bután"
+        },
+        "iso3": "BTN",
+        "continent": "AS",
+        "aera": 47000.0,
+        "population": 699847,
+        "capital": {
+            "en": "Thimphu",
+            "fr": "Thimphu",
+            "es": "Timbu"
+        }
+    },
+    {
+        "iso": "BV",
+        "flag": "🇧🇻",
+        "unicode": "U+1F1E7 U+1F1FB",
+        "name": {
+            "en": "Bouvet Island",
+            "fr": "Île Bouvet",
+            "es": "Isla Bouvet"
+        },
+        "iso3": "BVT",
+        "continent": "AN",
+        "aera": 49.0,
+        "population": 0,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "BW",
+        "flag": "🇧🇼",
+        "unicode": "U+1F1E7 U+1F1FC",
+        "name": {
+            "en": "Botswana",
+            "fr": "Botswana",
+            "es": "Botsuana"
+        },
+        "iso3": "BWA",
+        "continent": "AF",
+        "aera": 600370.0,
+        "population": 2029307,
+        "capital": {
+            "en": "Gaborone",
+            "fr": "Gaborone",
+            "es": "Gaborone"
+        }
+    },
+    {
+        "iso": "BY",
+        "flag": "🇧🇾",
+        "unicode": "U+1F1E7 U+1F1FE",
+        "name": {
+            "en": "Belarus",
+            "fr": "Biélorussie",
+            "es": "Bielorrusia"
+        },
+        "iso3": "BLR",
+        "continent": "EU",
+        "aera": 207600.0,
+        "population": 9685000,
+        "capital": {
+            "en": "Minsk",
+            "fr": "Minsk",
+            "es": "Minsk"
+        }
+    },
+    {
+        "iso": "BZ",
+        "flag": "🇧🇿",
+        "unicode": "U+1F1E7 U+1F1FF",
+        "name": {
+            "en": "Belize",
+            "fr": "Belize",
+            "es": "Belice"
+        },
+        "iso3": "BLZ",
+        "continent": "NA",
+        "aera": 22966.0,
+        "population": 314522,
+        "capital": {
+            "en": "Belmopan",
+            "fr": "Belmopan",
+            "es": "Belmopan"
+        }
+    },
+    {
+        "iso": "CA",
+        "flag": "🇨🇦",
+        "unicode": "U+1F1E8 U+1F1E6",
+        "name": {
+            "en": "Canada",
+            "fr": "Canada",
+            "es": "Canadá"
+        },
+        "iso3": "CAN",
+        "continent": "NA",
+        "aera": 9984670.0,
+        "population": 33679000,
+        "capital": {
+            "en": "Ottawa",
+            "fr": "Ottawa",
+            "es": "Ottawa"
+        }
+    },
+    {
+        "iso": "CC",
+        "flag": "🇨🇨",
+        "unicode": "U+1F1E8 U+1F1E8",
+        "name": {
+            "en": "Cocos (Keeling) Islands",
+            "fr": "Îles Cocos (Keeling)",
+            "es": "Islas Cocos (Keeling)"
+        },
+        "iso3": "CCK",
+        "continent": "AS",
+        "aera": 14.0,
+        "population": 628,
+        "capital": {
+            "en": "West Island",
+            "fr": "West Island",
+            "es": "Isla del oeste"
+        }
+    },
+    {
+        "iso": "CD",
+        "flag": "🇨🇩",
+        "unicode": "U+1F1E8 U+1F1E9",
+        "name": {
+            "en": "Congo",
+            "fr": "Congo",
+            "es": "Congo"
+        },
+        "iso3": "COD",
+        "continent": "AF",
+        "aera": 2345410.0,
+        "population": 70916439,
+        "capital": {
+            "en": "Kinshasa",
+            "fr": "Kinshasa",
+            "es": "Kinshasa"
+        }
+    },
+    {
+        "iso": "CF",
+        "flag": "🇨🇫",
+        "unicode": "U+1F1E8 U+1F1EB",
+        "name": {
+            "en": "Central African Republic",
+            "fr": "République centrafricaine",
+            "es": "República Centroafricana"
+        },
+        "iso3": "CAF",
+        "continent": "AF",
+        "aera": 622984.0,
+        "population": 4844927,
+        "capital": {
+            "en": "Bangui",
+            "fr": "Bangui",
+            "es": "Bangui"
+        }
+    },
+    {
+        "iso": "CG",
+        "flag": "🇨🇬",
+        "unicode": "U+1F1E8 U+1F1EC",
+        "name": {
+            "en": "Congo",
+            "fr": "Congo",
+            "es": "Congo"
+        },
+        "iso3": "COG",
+        "continent": "AF",
+        "aera": 342000.0,
+        "population": 3039126,
+        "capital": {
+            "en": "Brazzaville",
+            "fr": "Brazzaville",
+            "es": "Brazzaville"
+        }
+    },
+    {
+        "iso": "CH",
+        "flag": "🇨🇭",
+        "unicode": "U+1F1E8 U+1F1ED",
+        "name": {
+            "en": "Switzerland",
+            "fr": "Suisse",
+            "es": "Suiza"
+        },
+        "iso3": "CHE",
+        "continent": "EU",
+        "aera": 41290.0,
+        "population": 8484100,
+        "capital": {
+            "en": "Bern",
+            "fr": "Berne",
+            "es": "Berna"
+        }
+    },
+    {
+        "iso": "CI",
+        "flag": "🇨🇮",
+        "unicode": "U+1F1E8 U+1F1EE",
+        "name": {
+            "en": "Côte D'Ivoire",
+            "fr": "Côte d'Ivoire",
+            "es": "Costa de Marfil"
+        },
+        "iso3": "CIV",
+        "continent": "AF",
+        "aera": 322460.0,
+        "population": 21058798,
+        "capital": {
+            "en": "Yamoussoukro",
+            "fr": "Yamoussoukro",
+            "es": "Yamoussoukro"
+        }
+    },
+    {
+        "iso": "CK",
+        "flag": "🇨🇰",
+        "unicode": "U+1F1E8 U+1F1F0",
+        "name": {
+            "en": "Cook Islands",
+            "fr": "les Îles Cook",
+            "es": "Islas Cook"
+        },
+        "iso3": "COK",
+        "continent": "OC",
+        "aera": 240.0,
+        "population": 21388,
+        "capital": {
+            "en": "Avarua",
+            "fr": "Avarua",
+            "es": "Avarua"
+        }
+    },
+    {
+        "iso": "CL",
+        "flag": "🇨🇱",
+        "unicode": "U+1F1E8 U+1F1F1",
+        "name": {
+            "en": "Chile",
+            "fr": "Chili",
+            "es": "Chile"
+        },
+        "iso3": "CHL",
+        "continent": "SA",
+        "aera": 756950.0,
+        "population": 16746491,
+        "capital": {
+            "en": "Santiago",
+            "fr": "Santiago",
+            "es": "Santiago"
+        }
+    },
+    {
+        "iso": "CM",
+        "flag": "🇨🇲",
+        "unicode": "U+1F1E8 U+1F1F2",
+        "name": {
+            "en": "Cameroon",
+            "fr": "Cameroun",
+            "es": "Camerún"
+        },
+        "iso3": "CMR",
+        "continent": "AF",
+        "aera": 475440.0,
+        "population": 19294149,
+        "capital": {
+            "en": "Yaounde",
+            "fr": "Yaoundé",
+            "es": "Yaundé"
+        }
+    },
+    {
+        "iso": "CN",
+        "flag": "🇨🇳",
+        "unicode": "U+1F1E8 U+1F1F3",
+        "name": {
+            "en": "China",
+            "fr": "Chine",
+            "es": "China"
+        },
+        "iso3": "CHN",
+        "continent": "AS",
+        "aera": 9596960.0,
+        "population": 1330044000,
+        "capital": {
+            "en": "Beijing",
+            "fr": "Pékin",
+            "es": "Beijing"
+        }
+    },
+    {
+        "iso": "CO",
+        "flag": "🇨🇴",
+        "unicode": "U+1F1E8 U+1F1F4",
+        "name": {
+            "en": "Colombia",
+            "fr": "Colombie",
+            "es": "Colombia"
+        },
+        "iso3": "COL",
+        "continent": "SA",
+        "aera": 1138910.0,
+        "population": 47790000,
+        "capital": {
+            "en": "Bogota",
+            "fr": "Bogota",
+            "es": "Bogota"
+        }
+    },
+    {
+        "iso": "CR",
+        "flag": "🇨🇷",
+        "unicode": "U+1F1E8 U+1F1F7",
+        "name": {
+            "en": "Costa Rica",
+            "fr": "Costa Rica",
+            "es": "Costa Rica"
+        },
+        "iso3": "CRI",
+        "continent": "NA",
+        "aera": 51100.0,
+        "population": 4516220,
+        "capital": {
+            "en": "San Jose",
+            "fr": "San José",
+            "es": "San Jose"
+        }
+    },
+    {
+        "iso": "CU",
+        "flag": "🇨🇺",
+        "unicode": "U+1F1E8 U+1F1FA",
+        "name": {
+            "en": "Cuba",
+            "fr": "Cuba",
+            "es": "Cuba"
+        },
+        "iso3": "CUB",
+        "continent": "NA",
+        "aera": 110860.0,
+        "population": 11423000,
+        "capital": {
+            "en": "Havana",
+            "fr": "La Havane",
+            "es": "la Habana"
+        }
+    },
+    {
+        "iso": "CV",
+        "flag": "🇨🇻",
+        "unicode": "U+1F1E8 U+1F1FB",
+        "name": {
+            "en": "Cape Verde",
+            "fr": "Cap-Vert",
+            "es": "Cabo Verde"
+        },
+        "iso3": "CPV",
+        "continent": "AF",
+        "aera": 4033.0,
+        "population": 508659,
+        "capital": {
+            "en": "Praia",
+            "fr": "Praia",
+            "es": "Praia"
+        }
+    },
+    {
+        "iso": "CW",
+        "flag": "🇨🇼",
+        "unicode": "U+1F1E8 U+1F1FC",
+        "name": {
+            "en": "Curaçao",
+            "fr": "Curacao",
+            "es": "Curazao"
+        },
+        "iso3": "CUW",
+        "continent": "NA",
+        "aera": 444.0,
+        "population": 141766,
+        "capital": {
+            "en": "Willemstad",
+            "fr": "Willemstad",
+            "es": "Willemstad"
+        }
+    },
+    {
+        "iso": "CX",
+        "flag": "🇨🇽",
+        "unicode": "U+1F1E8 U+1F1FD",
+        "name": {
+            "en": "Christmas Island",
+            "fr": "L'île de noël",
+            "es": "Isla de Navidad"
+        },
+        "iso3": "CXR",
+        "continent": "OC",
+        "aera": 135.0,
+        "population": 1500,
+        "capital": {
+            "en": "Flying Fish Cove",
+            "fr": "Flying Fish Cove",
+            "es": "Flying Fish Cove"
+        }
+    },
+    {
+        "iso": "CY",
+        "flag": "🇨🇾",
+        "unicode": "U+1F1E8 U+1F1FE",
+        "name": {
+            "en": "Cyprus",
+            "fr": "Chypre",
+            "es": "Chipre"
+        },
+        "iso3": "CYP",
+        "continent": "EU",
+        "aera": 9250.0,
+        "population": 1102677,
+        "capital": {
+            "en": "Nicosia",
+            "fr": "Nicosie",
+            "es": "Nicosia"
+        }
+    },
+    {
+        "iso": "CZ",
+        "flag": "🇨🇿",
+        "unicode": "U+1F1E8 U+1F1FF",
+        "name": {
+            "en": "Czech Republic",
+            "fr": "République Tchèque",
+            "es": "Republica checa"
+        },
+        "iso3": "CZE",
+        "continent": "EU",
+        "aera": 78866.0,
+        "population": 10476000,
+        "capital": {
+            "en": "Prague",
+            "fr": "Prague",
+            "es": "Praga"
+        }
+    },
+    {
+        "iso": "DE",
+        "flag": "🇩🇪",
+        "unicode": "U+1F1E9 U+1F1EA",
+        "name": {
+            "en": "Germany",
+            "fr": "Allemagne",
+            "es": "Alemania"
+        },
+        "iso3": "DEU",
+        "continent": "EU",
+        "aera": 357021.0,
+        "population": 81802257,
+        "capital": {
+            "en": "Berlin",
+            "fr": "Berlin",
+            "es": "Berlina"
+        }
+    },
+    {
+        "iso": "DJ",
+        "flag": "🇩🇯",
+        "unicode": "U+1F1E9 U+1F1EF",
+        "name": {
+            "en": "Djibouti",
+            "fr": "Djibouti",
+            "es": "Djibouti"
+        },
+        "iso3": "DJI",
+        "continent": "AF",
+        "aera": 23000.0,
+        "population": 740528,
+        "capital": {
+            "en": "Djibouti",
+            "fr": "Djibouti",
+            "es": "Djibouti"
+        }
+    },
+    {
+        "iso": "DK",
+        "flag": "🇩🇰",
+        "unicode": "U+1F1E9 U+1F1F0",
+        "name": {
+            "en": "Denmark",
+            "fr": "Danemark",
+            "es": "Dinamarca"
+        },
+        "iso3": "DNK",
+        "continent": "EU",
+        "aera": 43094.0,
+        "population": 5484000,
+        "capital": {
+            "en": "Copenhagen",
+            "fr": "Copenhague",
+            "es": "Copenhague"
+        }
+    },
+    {
+        "iso": "DM",
+        "flag": "🇩🇲",
+        "unicode": "U+1F1E9 U+1F1F2",
+        "name": {
+            "en": "Dominica",
+            "fr": "Dominique",
+            "es": "Dominica"
+        },
+        "iso3": "DMA",
+        "continent": "NA",
+        "aera": 754.0,
+        "population": 72813,
+        "capital": {
+            "en": "Roseau",
+            "fr": "Roseau",
+            "es": "Roseau"
+        }
+    },
+    {
+        "iso": "DO",
+        "flag": "🇩🇴",
+        "unicode": "U+1F1E9 U+1F1F4",
+        "name": {
+            "en": "Dominican Republic",
+            "fr": "République Dominicaine",
+            "es": "República Dominicana"
+        },
+        "iso3": "DOM",
+        "continent": "NA",
+        "aera": 48730.0,
+        "population": 9823821,
+        "capital": {
+            "en": "Santo Domingo",
+            "fr": "Saint-Domingue",
+            "es": "Santo Domingo"
+        }
+    },
+    {
+        "iso": "DZ",
+        "flag": "🇩🇿",
+        "unicode": "U+1F1E9 U+1F1FF",
+        "name": {
+            "en": "Algeria",
+            "fr": "Algérie",
+            "es": "Argelia"
+        },
+        "iso3": "DZA",
+        "continent": "AF",
+        "aera": 2381740.0,
+        "population": 34586184,
+        "capital": {
+            "en": "Algiers",
+            "fr": "Alger",
+            "es": "Argel"
+        }
+    },
+    {
+        "iso": "EC",
+        "flag": "🇪🇨",
+        "unicode": "U+1F1EA U+1F1E8",
+        "name": {
+            "en": "Ecuador",
+            "fr": "Équateur",
+            "es": "Ecuador"
+        },
+        "iso3": "ECU",
+        "continent": "SA",
+        "aera": 283560.0,
+        "population": 14790608,
+        "capital": {
+            "en": "Quito",
+            "fr": "Quito",
+            "es": "Quito"
+        }
+    },
+    {
+        "iso": "EE",
+        "flag": "🇪🇪",
+        "unicode": "U+1F1EA U+1F1EA",
+        "name": {
+            "en": "Estonia",
+            "fr": "Estonie",
+            "es": "Estonia"
+        },
+        "iso3": "EST",
+        "continent": "EU",
+        "aera": 45226.0,
+        "population": 1291170,
+        "capital": {
+            "en": "Tallinn",
+            "fr": "Tallinn",
+            "es": "Tallin"
+        }
+    },
+    {
+        "iso": "EG",
+        "flag": "🇪🇬",
+        "unicode": "U+1F1EA U+1F1EC",
+        "name": {
+            "en": "Egypt",
+            "fr": "Egypte",
+            "es": "Egipto"
+        },
+        "iso3": "EGY",
+        "continent": "AF",
+        "aera": 1001450.0,
+        "population": 80471869,
+        "capital": {
+            "en": "Cairo",
+            "fr": "Caire",
+            "es": "El Cairo"
+        }
+    },
+    {
+        "iso": "EH",
+        "flag": "🇪🇭",
+        "unicode": "U+1F1EA U+1F1ED",
+        "name": {
+            "en": "Western Sahara",
+            "fr": "Sahara occidental",
+            "es": "Sahara Occidental"
+        },
+        "iso3": "ESH",
+        "continent": "AF",
+        "aera": 266000.0,
+        "population": 273008,
+        "capital": {
+            "en": "El-Aaiun",
+            "fr": "El-Aaiun",
+            "es": "El-Aaiun"
+        }
+    },
+    {
+        "iso": "ER",
+        "flag": "🇪🇷",
+        "unicode": "U+1F1EA U+1F1F7",
+        "name": {
+            "en": "Eritrea",
+            "fr": "Érythrée",
+            "es": "Eritrea"
+        },
+        "iso3": "ERI",
+        "continent": "AF",
+        "aera": 121320.0,
+        "population": 5792984,
+        "capital": {
+            "en": "Asmara",
+            "fr": "Asmara",
+            "es": "Asmara"
+        }
+    },
+    {
+        "iso": "ES",
+        "flag": "🇪🇸",
+        "unicode": "U+1F1EA U+1F1F8",
+        "name": {
+            "en": "Spain",
+            "fr": "Espagne",
+            "es": "España"
+        },
+        "iso3": "ESP",
+        "continent": "EU",
+        "aera": 504782.0,
+        "population": 46505963,
+        "capital": {
+            "en": "Madrid",
+            "fr": "Madrid",
+            "es": "Madrid"
+        }
+    },
+    {
+        "iso": "ET",
+        "flag": "🇪🇹",
+        "unicode": "U+1F1EA U+1F1F9",
+        "name": {
+            "en": "Ethiopia",
+            "fr": "Ethiopie",
+            "es": "Etiopía"
+        },
+        "iso3": "ETH",
+        "continent": "AF",
+        "aera": 1127127.0,
+        "population": 88013491,
+        "capital": {
+            "en": "Addis Ababa",
+            "fr": "Addis Ababa",
+            "es": "Addis Ababa"
+        }
+    },
+    {
+        "iso": "FI",
+        "flag": "🇫🇮",
+        "unicode": "U+1F1EB U+1F1EE",
+        "name": {
+            "en": "Finland",
+            "fr": "Finlande",
+            "es": "Finlandia"
+        },
+        "iso3": "FIN",
+        "continent": "EU",
+        "aera": 337030.0,
+        "population": 5244000,
+        "capital": {
+            "en": "Helsinki",
+            "fr": "Helsinki",
+            "es": "Helsinki"
+        }
+    },
+    {
+        "iso": "FJ",
+        "flag": "🇫🇯",
+        "unicode": "U+1F1EB U+1F1EF",
+        "name": {
+            "en": "Fiji",
+            "fr": "Fidji",
+            "es": "Fiyi"
+        },
+        "iso3": "FJI",
+        "continent": "OC",
+        "aera": 18270.0,
+        "population": 875983,
+        "capital": {
+            "en": "Suva",
+            "fr": "Suva",
+            "es": "Suva"
+        }
+    },
+    {
+        "iso": "FK",
+        "flag": "🇫🇰",
+        "unicode": "U+1F1EB U+1F1F0",
+        "name": {
+            "en": "Falkland Islands (Malvinas)",
+            "fr": "Îles Falkland (Malvinas)",
+            "es": "Islas Malvinas (Falkland Islands)"
+        },
+        "iso3": "FLK",
+        "continent": "SA",
+        "aera": 12173.0,
+        "population": 2638,
+        "capital": {
+            "en": "Stanley",
+            "fr": "Stanley",
+            "es": "Stanley"
+        }
+    },
+    {
+        "iso": "FM",
+        "flag": "🇫🇲",
+        "unicode": "U+1F1EB U+1F1F2",
+        "name": {
+            "en": "Micronesia",
+            "fr": "Micronésie",
+            "es": "Micronesia"
+        },
+        "iso3": "FSM",
+        "continent": "OC",
+        "aera": 702.0,
+        "population": 107708,
+        "capital": {
+            "en": "Palikir",
+            "fr": "Palikir",
+            "es": "Palikir"
+        }
+    },
+    {
+        "iso": "FO",
+        "flag": "🇫🇴",
+        "unicode": "U+1F1EB U+1F1F4",
+        "name": {
+            "en": "Faroe Islands",
+            "fr": "Îles Féroé",
+            "es": "Islas Faroe"
+        },
+        "iso3": "FRO",
+        "continent": "EU",
+        "aera": 1399.0,
+        "population": 48228,
+        "capital": {
+            "en": "Torshavn",
+            "fr": "Torshavn",
+            "es": "Torshavn"
+        }
+    },
+    {
+        "iso": "FR",
+        "flag": "🇫🇷",
+        "unicode": "U+1F1EB U+1F1F7",
+        "name": {
+            "en": "France",
+            "fr": "France",
+            "es": "Francia"
+        },
+        "iso3": "FRA",
+        "continent": "EU",
+        "aera": 547030.0,
+        "population": 64768389,
+        "capital": {
+            "en": "Paris",
+            "fr": "Paris",
+            "es": "París"
+        }
+    },
+    {
+        "iso": "GA",
+        "flag": "🇬🇦",
+        "unicode": "U+1F1EC U+1F1E6",
+        "name": {
+            "en": "Gabon",
+            "fr": "Gabon",
+            "es": "Gabón"
+        },
+        "iso3": "GAB",
+        "continent": "AF",
+        "aera": 267667.0,
+        "population": 1545255,
+        "capital": {
+            "en": "Libreville",
+            "fr": "Libreville",
+            "es": "Libreville"
+        }
+    },
+    {
+        "iso": "GB",
+        "flag": "🇬🇧",
+        "unicode": "U+1F1EC U+1F1E7",
+        "name": {
+            "en": "United Kingdom",
+            "fr": "Royaume-Uni",
+            "es": "Reino Unido"
+        },
+        "iso3": "GBR",
+        "continent": "EU",
+        "aera": 244820.0,
+        "population": 62348447,
+        "capital": {
+            "en": "London",
+            "fr": "Londres",
+            "es": "Londres"
+        }
+    },
+    {
+        "iso": "GD",
+        "flag": "🇬🇩",
+        "unicode": "U+1F1EC U+1F1E9",
+        "name": {
+            "en": "Grenada",
+            "fr": "Grenade",
+            "es": "Granada"
+        },
+        "iso3": "GRD",
+        "continent": "NA",
+        "aera": 344.0,
+        "population": 107818,
+        "capital": {
+            "en": "St. George's",
+            "fr": "St. George's",
+            "es": "San Jorge"
+        }
+    },
+    {
+        "iso": "GE",
+        "flag": "🇬🇪",
+        "unicode": "U+1F1EC U+1F1EA",
+        "name": {
+            "en": "Georgia",
+            "fr": "Géorgie",
+            "es": "Georgia"
+        },
+        "iso3": "GEO",
+        "continent": "AS",
+        "aera": 69700.0,
+        "population": 4630000,
+        "capital": {
+            "en": "Tbilisi",
+            "fr": "Tbilissi",
+            "es": "Tbilisi"
+        }
+    },
+    {
+        "iso": "GF",
+        "flag": "🇬🇫",
+        "unicode": "U+1F1EC U+1F1EB",
+        "name": {
+            "en": "French Guiana",
+            "fr": "Guyane Française",
+            "es": "Guayana Francesa"
+        },
+        "iso3": "GUF",
+        "continent": "SA",
+        "aera": 91000.0,
+        "population": 195506,
+        "capital": {
+            "en": "Cayenne",
+            "fr": "Cayenne",
+            "es": "pimentón"
+        }
+    },
+    {
+        "iso": "GG",
+        "flag": "🇬🇬",
+        "unicode": "U+1F1EC U+1F1EC",
+        "name": {
+            "en": "Guernsey",
+            "fr": "Guernesey",
+            "es": "Guernsey"
+        },
+        "iso3": "GGY",
+        "continent": "EU",
+        "aera": 78.0,
+        "population": 65228,
+        "capital": {
+            "en": "St Peter Port",
+            "fr": "St Peter Port",
+            "es": "Puerto de San Pedro"
+        }
+    },
+    {
+        "iso": "GH",
+        "flag": "🇬🇭",
+        "unicode": "U+1F1EC U+1F1ED",
+        "name": {
+            "en": "Ghana",
+            "fr": "Ghana",
+            "es": "Ghana"
+        },
+        "iso3": "GHA",
+        "continent": "AF",
+        "aera": 239460.0,
+        "population": 24339838,
+        "capital": {
+            "en": "Accra",
+            "fr": "Accra",
+            "es": "Accra"
+        }
+    },
+    {
+        "iso": "GI",
+        "flag": "🇬🇮",
+        "unicode": "U+1F1EC U+1F1EE",
+        "name": {
+            "en": "Gibraltar",
+            "fr": "Gibraltar",
+            "es": "Gibraltar"
+        },
+        "iso3": "GIB",
+        "continent": "EU",
+        "aera": 6.5,
+        "population": 27884,
+        "capital": {
+            "en": "Gibraltar",
+            "fr": "Gibraltar",
+            "es": "Gibraltar"
+        }
+    },
+    {
+        "iso": "GL",
+        "flag": "🇬🇱",
+        "unicode": "U+1F1EC U+1F1F1",
+        "name": {
+            "en": "Greenland",
+            "fr": "Groenland",
+            "es": "Groenlandia"
+        },
+        "iso3": "GRL",
+        "continent": "NA",
+        "aera": 2166086.0,
+        "population": 56375,
+        "capital": {
+            "en": "Nuuk",
+            "fr": "Nuuk",
+            "es": "Nuuk"
+        }
+    },
+    {
+        "iso": "GM",
+        "flag": "🇬🇲",
+        "unicode": "U+1F1EC U+1F1F2",
+        "name": {
+            "en": "Gambia",
+            "fr": "Gambie",
+            "es": "Gambia"
+        },
+        "iso3": "GMB",
+        "continent": "AF",
+        "aera": 11300.0,
+        "population": 1593256,
+        "capital": {
+            "en": "Banjul",
+            "fr": "Banjul",
+            "es": "Banjul"
+        }
+    },
+    {
+        "iso": "GN",
+        "flag": "🇬🇳",
+        "unicode": "U+1F1EC U+1F1F3",
+        "name": {
+            "en": "Guinea",
+            "fr": "Guinée",
+            "es": "Guinea"
+        },
+        "iso3": "GIN",
+        "continent": "AF",
+        "aera": 245857.0,
+        "population": 10324025,
+        "capital": {
+            "en": "Conakry",
+            "fr": "Conakry",
+            "es": "Conakry"
+        }
+    },
+    {
+        "iso": "GP",
+        "flag": "🇬🇵",
+        "unicode": "U+1F1EC U+1F1F5",
+        "name": {
+            "en": "Guadeloupe",
+            "fr": "Guadeloupe",
+            "es": "Guadalupe"
+        },
+        "iso3": "GLP",
+        "continent": "NA",
+        "aera": 1780.0,
+        "population": 443000,
+        "capital": {
+            "en": "Basse-Terre",
+            "fr": "Basse-Terre",
+            "es": "Basse-Terre"
+        }
+    },
+    {
+        "iso": "GQ",
+        "flag": "🇬🇶",
+        "unicode": "U+1F1EC U+1F1F6",
+        "name": {
+            "en": "Equatorial Guinea",
+            "fr": "Guinée Équatoriale",
+            "es": "Guinea Ecuatorial"
+        },
+        "iso3": "GNQ",
+        "continent": "AF",
+        "aera": 28051.0,
+        "population": 1014999,
+        "capital": {
+            "en": "Malabo",
+            "fr": "Malabo",
+            "es": "Malabo"
+        }
+    },
+    {
+        "iso": "GR",
+        "flag": "🇬🇷",
+        "unicode": "U+1F1EC U+1F1F7",
+        "name": {
+            "en": "Greece",
+            "fr": "Grèce",
+            "es": "Grecia"
+        },
+        "iso3": "GRC",
+        "continent": "EU",
+        "aera": 131940.0,
+        "population": 11000000,
+        "capital": {
+            "en": "Athens",
+            "fr": "Athènes",
+            "es": "Atenas"
+        }
+    },
+    {
+        "iso": "GS",
+        "flag": "🇬🇸",
+        "unicode": "U+1F1EC U+1F1F8",
+        "name": {
+            "en": "South Georgia",
+            "fr": "Géorgie du Sud",
+            "es": "Georgia del sur"
+        },
+        "iso3": "SGS",
+        "continent": "AN",
+        "aera": 3903.0,
+        "population": 30,
+        "capital": {
+            "en": "Grytviken",
+            "fr": "Grytviken",
+            "es": "Grytviken"
+        }
+    },
+    {
+        "iso": "GT",
+        "flag": "🇬🇹",
+        "unicode": "U+1F1EC U+1F1F9",
+        "name": {
+            "en": "Guatemala",
+            "fr": "Guatemala",
+            "es": "Guatemala"
+        },
+        "iso3": "GTM",
+        "continent": "NA",
+        "aera": 108890.0,
+        "population": 13550440,
+        "capital": {
+            "en": "Guatemala City",
+            "fr": "Guatemala City",
+            "es": "Ciudad de Guatemala"
+        }
+    },
+    {
+        "iso": "GU",
+        "flag": "🇬🇺",
+        "unicode": "U+1F1EC U+1F1FA",
+        "name": {
+            "en": "Guam",
+            "fr": "Guam",
+            "es": "Guam"
+        },
+        "iso3": "GUM",
+        "continent": "OC",
+        "aera": 549.0,
+        "population": 159358,
+        "capital": {
+            "en": "Hagatna",
+            "fr": "Hagatna",
+            "es": "Hagatna"
+        }
+    },
+    {
+        "iso": "GW",
+        "flag": "🇬🇼",
+        "unicode": "U+1F1EC U+1F1FC",
+        "name": {
+            "en": "Guinea-Bissau",
+            "fr": "Guinée-Bissau",
+            "es": "Guinea-Bissau"
+        },
+        "iso3": "GNB",
+        "continent": "AF",
+        "aera": 36120.0,
+        "population": 1565126,
+        "capital": {
+            "en": "Bissau",
+            "fr": "Bissau",
+            "es": "Bissau"
+        }
+    },
+    {
+        "iso": "GY",
+        "flag": "🇬🇾",
+        "unicode": "U+1F1EC U+1F1FE",
+        "name": {
+            "en": "Guyana",
+            "fr": "Guyane",
+            "es": "Guayana"
+        },
+        "iso3": "GUY",
+        "continent": "SA",
+        "aera": 214970.0,
+        "population": 748486,
+        "capital": {
+            "en": "Georgetown",
+            "fr": "Georgetown",
+            "es": "Georgetown"
+        }
+    },
+    {
+        "iso": "HK",
+        "flag": "🇭🇰",
+        "unicode": "U+1F1ED U+1F1F0",
+        "name": {
+            "en": "Hong Kong",
+            "fr": "Hong Kong",
+            "es": "Hong Kong"
+        },
+        "iso3": "HKG",
+        "continent": "AS",
+        "aera": 1092.0,
+        "population": 6898686,
+        "capital": {
+            "en": "Hong Kong",
+            "fr": "Hong Kong",
+            "es": "Hong Kong"
+        }
+    },
+    {
+        "iso": "HM",
+        "flag": "🇭🇲",
+        "unicode": "U+1F1ED U+1F1F2",
+        "name": {
+            "en": "Heard Island and Mcdonald Islands",
+            "fr": "Îles Heard et Mcdonald",
+            "es": "Islas Heard y Mcdonald"
+        },
+        "iso3": "HMD",
+        "continent": "AN",
+        "aera": 412.0,
+        "population": 0,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "HN",
+        "flag": "🇭🇳",
+        "unicode": "U+1F1ED U+1F1F3",
+        "name": {
+            "en": "Honduras",
+            "fr": "Honduras",
+            "es": "Honduras"
+        },
+        "iso3": "HND",
+        "continent": "NA",
+        "aera": 112090.0,
+        "population": 7989415,
+        "capital": {
+            "en": "Tegucigalpa",
+            "fr": "Tegucigalpa",
+            "es": "Tegucigalpa"
+        }
+    },
+    {
+        "iso": "HR",
+        "flag": "🇭🇷",
+        "unicode": "U+1F1ED U+1F1F7",
+        "name": {
+            "en": "Croatia",
+            "fr": "Croatie",
+            "es": "Croacia"
+        },
+        "iso3": "HRV",
+        "continent": "EU",
+        "aera": 56542.0,
+        "population": 4284889,
+        "capital": {
+            "en": "Zagreb",
+            "fr": "Zagreb",
+            "es": "Zagreb"
+        }
+    },
+    {
+        "iso": "HT",
+        "flag": "🇭🇹",
+        "unicode": "U+1F1ED U+1F1F9",
+        "name": {
+            "en": "Haiti",
+            "fr": "Haïti",
+            "es": "Haití"
+        },
+        "iso3": "HTI",
+        "continent": "NA",
+        "aera": 27750.0,
+        "population": 9648924,
+        "capital": {
+            "en": "Port-au-Prince",
+            "fr": "Port-au-Prince",
+            "es": "Puerto Príncipe"
+        }
+    },
+    {
+        "iso": "HU",
+        "flag": "🇭🇺",
+        "unicode": "U+1F1ED U+1F1FA",
+        "name": {
+            "en": "Hungary",
+            "fr": "Hongrie",
+            "es": "Hungría"
+        },
+        "iso3": "HUN",
+        "continent": "EU",
+        "aera": 93030.0,
+        "population": 9982000,
+        "capital": {
+            "en": "Budapest",
+            "fr": "Budapest",
+            "es": "Budapest"
+        }
+    },
+    {
+        "iso": "ID",
+        "flag": "🇮🇩",
+        "unicode": "U+1F1EE U+1F1E9",
+        "name": {
+            "en": "Indonesia",
+            "fr": "Indonésie",
+            "es": "Indonesia"
+        },
+        "iso3": "IDN",
+        "continent": "AS",
+        "aera": 1919440.0,
+        "population": 242968342,
+        "capital": {
+            "en": "Jakarta",
+            "fr": "Jakarta",
+            "es": "Jacarta"
+        }
+    },
+    {
+        "iso": "IE",
+        "flag": "🇮🇪",
+        "unicode": "U+1F1EE U+1F1EA",
+        "name": {
+            "en": "Ireland",
+            "fr": "Irlande",
+            "es": "Irlanda"
+        },
+        "iso3": "IRL",
+        "continent": "EU",
+        "aera": 70280.0,
+        "population": 4622917,
+        "capital": {
+            "en": "Dublin",
+            "fr": "Dublin",
+            "es": "Dublín"
+        }
+    },
+    {
+        "iso": "IL",
+        "flag": "🇮🇱",
+        "unicode": "U+1F1EE U+1F1F1",
+        "name": {
+            "en": "Israel",
+            "fr": "Israël",
+            "es": "Israel"
+        },
+        "iso3": "ISR",
+        "continent": "AS",
+        "aera": 20770.0,
+        "population": 7353985,
+        "capital": {
+            "en": "Jerusalem",
+            "fr": "Jérusalem",
+            "es": "Jerusalén"
+        }
+    },
+    {
+        "iso": "IM",
+        "flag": "🇮🇲",
+        "unicode": "U+1F1EE U+1F1F2",
+        "name": {
+            "en": "Isle of Man",
+            "fr": "île de Man",
+            "es": "Isla del hombre"
+        },
+        "iso3": "IMN",
+        "continent": "EU",
+        "aera": 572.0,
+        "population": 75049,
+        "capital": {
+            "en": "Douglas",
+            "fr": "Douglas",
+            "es": "Douglas"
+        }
+    },
+    {
+        "iso": "IN",
+        "flag": "🇮🇳",
+        "unicode": "U+1F1EE U+1F1F3",
+        "name": {
+            "en": "India",
+            "fr": "Inde",
+            "es": "India"
+        },
+        "iso3": "IND",
+        "continent": "AS",
+        "aera": 3287590.0,
+        "population": 1173108018,
+        "capital": {
+            "en": "New Delhi",
+            "fr": "New Delhi",
+            "es": "Nueva Delhi"
+        }
+    },
+    {
+        "iso": "IO",
+        "flag": "🇮🇴",
+        "unicode": "U+1F1EE U+1F1F4",
+        "name": {
+            "en": "British Indian Ocean Territory",
+            "fr": "Territoire britannique de l'océan Indien",
+            "es": "Territorio Británico del Océano Índico"
+        },
+        "iso3": "IOT",
+        "continent": "AS",
+        "aera": 60.0,
+        "population": 4000,
+        "capital": {
+            "en": "Diego Garcia",
+            "fr": "Diego Garcia",
+            "es": "Diego García"
+        }
+    },
+    {
+        "iso": "IQ",
+        "flag": "🇮🇶",
+        "unicode": "U+1F1EE U+1F1F6",
+        "name": {
+            "en": "Iraq",
+            "fr": "Irak",
+            "es": "Irak"
+        },
+        "iso3": "IRQ",
+        "continent": "AS",
+        "aera": 437072.0,
+        "population": 29671605,
+        "capital": {
+            "en": "Baghdad",
+            "fr": "Bagdad",
+            "es": "Bagdad"
+        }
+    },
+    {
+        "iso": "IR",
+        "flag": "🇮🇷",
+        "unicode": "U+1F1EE U+1F1F7",
+        "name": {
+            "en": "Iran",
+            "fr": "J'ai couru",
+            "es": "Corrí"
+        },
+        "iso3": "IRN",
+        "continent": "AS",
+        "aera": 1648000.0,
+        "population": 76923300,
+        "capital": {
+            "en": "Tehran",
+            "fr": "Téhéran",
+            "es": "Teherán"
+        }
+    },
+    {
+        "iso": "IS",
+        "flag": "🇮🇸",
+        "unicode": "U+1F1EE U+1F1F8",
+        "name": {
+            "en": "Iceland",
+            "fr": "Islande",
+            "es": "Islandia"
+        },
+        "iso3": "ISL",
+        "continent": "EU",
+        "aera": 103000.0,
+        "population": 308910,
+        "capital": {
+            "en": "Reykjavik",
+            "fr": "Reykjavik",
+            "es": "Reikiavik"
+        }
+    },
+    {
+        "iso": "IT",
+        "flag": "🇮🇹",
+        "unicode": "U+1F1EE U+1F1F9",
+        "name": {
+            "en": "Italy",
+            "fr": "Italie",
+            "es": "Italia"
+        },
+        "iso3": "ITA",
+        "continent": "EU",
+        "aera": 301230.0,
+        "population": 60340328,
+        "capital": {
+            "en": "Rome",
+            "fr": "Rome",
+            "es": "Roma"
+        }
+    },
+    {
+        "iso": "JE",
+        "flag": "🇯🇪",
+        "unicode": "U+1F1EF U+1F1EA",
+        "name": {
+            "en": "Jersey",
+            "fr": "Jersey",
+            "es": "Jersey"
+        },
+        "iso3": "JEY",
+        "continent": "EU",
+        "aera": 116.0,
+        "population": 90812,
+        "capital": {
+            "en": "Saint Helier",
+            "fr": "Saint Helier",
+            "es": "Saint Helier"
+        }
+    },
+    {
+        "iso": "JM",
+        "flag": "🇯🇲",
+        "unicode": "U+1F1EF U+1F1F2",
+        "name": {
+            "en": "Jamaica",
+            "fr": "Jamaïque",
+            "es": "Jamaica"
+        },
+        "iso3": "JAM",
+        "continent": "NA",
+        "aera": 10991.0,
+        "population": 2847232,
+        "capital": {
+            "en": "Kingston",
+            "fr": "Kingston",
+            "es": "Kingston"
+        }
+    },
+    {
+        "iso": "JO",
+        "flag": "🇯🇴",
+        "unicode": "U+1F1EF U+1F1F4",
+        "name": {
+            "en": "Jordan",
+            "fr": "Jordan",
+            "es": "Jordán"
+        },
+        "iso3": "JOR",
+        "continent": "AS",
+        "aera": 92300.0,
+        "population": 6407085,
+        "capital": {
+            "en": "Amman",
+            "fr": "Amman",
+            "es": "Amman"
+        }
+    },
+    {
+        "iso": "JP",
+        "flag": "🇯🇵",
+        "unicode": "U+1F1EF U+1F1F5",
+        "name": {
+            "en": "Japan",
+            "fr": "Japon",
+            "es": "Japón"
+        },
+        "iso3": "JPN",
+        "continent": "AS",
+        "aera": 377835.0,
+        "population": 127288000,
+        "capital": {
+            "en": "Tokyo",
+            "fr": "Tokyo",
+            "es": "Tokio"
+        }
+    },
+    {
+        "iso": "KE",
+        "flag": "🇰🇪",
+        "unicode": "U+1F1F0 U+1F1EA",
+        "name": {
+            "en": "Kenya",
+            "fr": "Kenya",
+            "es": "Kenia"
+        },
+        "iso3": "KEN",
+        "continent": "AF",
+        "aera": 582650.0,
+        "population": 40046566,
+        "capital": {
+            "en": "Nairobi",
+            "fr": "Nairobi",
+            "es": "Nairobi"
+        }
+    },
+    {
+        "iso": "KG",
+        "flag": "🇰🇬",
+        "unicode": "U+1F1F0 U+1F1EC",
+        "name": {
+            "en": "Kyrgyzstan",
+            "fr": "Kirghizistan",
+            "es": "Kirguistán"
+        },
+        "iso3": "KGZ",
+        "continent": "AS",
+        "aera": 198500.0,
+        "population": 5776500,
+        "capital": {
+            "en": "Bishkek",
+            "fr": "Bichkek",
+            "es": "Bishkek"
+        }
+    },
+    {
+        "iso": "KH",
+        "flag": "🇰🇭",
+        "unicode": "U+1F1F0 U+1F1ED",
+        "name": {
+            "en": "Cambodia",
+            "fr": "Cambodge",
+            "es": "Camboya"
+        },
+        "iso3": "KHM",
+        "continent": "AS",
+        "aera": 181040.0,
+        "population": 14453680,
+        "capital": {
+            "en": "Phnom Penh",
+            "fr": "Phnom Penh",
+            "es": "Phnom Penh"
+        }
+    },
+    {
+        "iso": "KI",
+        "flag": "🇰🇮",
+        "unicode": "U+1F1F0 U+1F1EE",
+        "name": {
+            "en": "Kiribati",
+            "fr": "Kiribati",
+            "es": "Kiribati"
+        },
+        "iso3": "KIR",
+        "continent": "OC",
+        "aera": 811.0,
+        "population": 92533,
+        "capital": {
+            "en": "Tarawa",
+            "fr": "Tarawa",
+            "es": "Tarawa"
+        }
+    },
+    {
+        "iso": "KM",
+        "flag": "🇰🇲",
+        "unicode": "U+1F1F0 U+1F1F2",
+        "name": {
+            "en": "Comoros",
+            "fr": "Comores",
+            "es": "Comoras"
+        },
+        "iso3": "COM",
+        "continent": "AF",
+        "aera": 2170.0,
+        "population": 773407,
+        "capital": {
+            "en": "Moroni",
+            "fr": "Moroni",
+            "es": "Moroni"
+        }
+    },
+    {
+        "iso": "KN",
+        "flag": "🇰🇳",
+        "unicode": "U+1F1F0 U+1F1F3",
+        "name": {
+            "en": "Saint Kitts and Nevis",
+            "fr": "Saint-Christophe-et-Niévès",
+            "es": "San Cristóbal y Nieves"
+        },
+        "iso3": "KNA",
+        "continent": "NA",
+        "aera": 261.0,
+        "population": 51134,
+        "capital": {
+            "en": "Basseterre",
+            "fr": "Basseterre",
+            "es": "Basseterre"
+        }
+    },
+    {
+        "iso": "KP",
+        "flag": "🇰🇵",
+        "unicode": "U+1F1F0 U+1F1F5",
+        "name": {
+            "en": "North Korea",
+            "fr": "Corée du Nord",
+            "es": "Corea del Norte"
+        },
+        "iso3": "PRK",
+        "continent": "AS",
+        "aera": 120540.0,
+        "population": 22912177,
+        "capital": {
+            "en": "Pyongyang",
+            "fr": "Pyongyang",
+            "es": "Pyongyang"
+        }
+    },
+    {
+        "iso": "KR",
+        "flag": "🇰🇷",
+        "unicode": "U+1F1F0 U+1F1F7",
+        "name": {
+            "en": "South Korea",
+            "fr": "Corée du Sud",
+            "es": "Corea del Sur"
+        },
+        "iso3": "KOR",
+        "continent": "AS",
+        "aera": 98480.0,
+        "population": 48422644,
+        "capital": {
+            "en": "Seoul",
+            "fr": "Séoul",
+            "es": "Seúl"
+        }
+    },
+    {
+        "iso": "KW",
+        "flag": "🇰🇼",
+        "unicode": "U+1F1F0 U+1F1FC",
+        "name": {
+            "en": "Kuwait",
+            "fr": "Koweit",
+            "es": "Kuwait"
+        },
+        "iso3": "KWT",
+        "continent": "AS",
+        "aera": 17820.0,
+        "population": 2789132,
+        "capital": {
+            "en": "Kuwait City",
+            "fr": "Koweït City",
+            "es": "Ciudad de Kuwait"
+        }
+    },
+    {
+        "iso": "KY",
+        "flag": "🇰🇾",
+        "unicode": "U+1F1F0 U+1F1FE",
+        "name": {
+            "en": "Cayman Islands",
+            "fr": "Îles Caïmans",
+            "es": "Islas Caimán"
+        },
+        "iso3": "CYM",
+        "continent": "NA",
+        "aera": 262.0,
+        "population": 44270,
+        "capital": {
+            "en": "George Town",
+            "fr": "George Town",
+            "es": "George Town"
+        }
+    },
+    {
+        "iso": "KZ",
+        "flag": "🇰🇿",
+        "unicode": "U+1F1F0 U+1F1FF",
+        "name": {
+            "en": "Kazakhstan",
+            "fr": "Kazakhstan",
+            "es": "Kazajstán"
+        },
+        "iso3": "KAZ",
+        "continent": "AS",
+        "aera": 2717300.0,
+        "population": 15340000,
+        "capital": {
+            "en": "Nur-Sultan",
+            "fr": "Nur-Sultan",
+            "es": "Nur-Sultan"
+        }
+    },
+    {
+        "iso": "LA",
+        "flag": "🇱🇦",
+        "unicode": "U+1F1F1 U+1F1E6",
+        "name": {
+            "en": "Lao People's Democratic Republic",
+            "fr": "République démocratique populaire lao",
+            "es": "República Democrática Popular Lao"
+        },
+        "iso3": "LAO",
+        "continent": "AS",
+        "aera": 236800.0,
+        "population": 6368162,
+        "capital": {
+            "en": "Vientiane",
+            "fr": "Vientiane",
+            "es": "Vientiane"
+        }
+    },
+    {
+        "iso": "LB",
+        "flag": "🇱🇧",
+        "unicode": "U+1F1F1 U+1F1E7",
+        "name": {
+            "en": "Lebanon",
+            "fr": "Liban",
+            "es": "Líbano"
+        },
+        "iso3": "LBN",
+        "continent": "AS",
+        "aera": 10400.0,
+        "population": 4125247,
+        "capital": {
+            "en": "Beirut",
+            "fr": "Beyrouth",
+            "es": "Beirut"
+        }
+    },
+    {
+        "iso": "LC",
+        "flag": "🇱🇨",
+        "unicode": "U+1F1F1 U+1F1E8",
+        "name": {
+            "en": "Saint Lucia",
+            "fr": "Sainte-Lucie",
+            "es": "Santa Lucía"
+        },
+        "iso3": "LCA",
+        "continent": "NA",
+        "aera": 616.0,
+        "population": 160922,
+        "capital": {
+            "en": "Castries",
+            "fr": "Castries",
+            "es": "Castries"
+        }
+    },
+    {
+        "iso": "LI",
+        "flag": "🇱🇮",
+        "unicode": "U+1F1F1 U+1F1EE",
+        "name": {
+            "en": "Liechtenstein",
+            "fr": "Liechtenstein",
+            "es": "Liechtenstein"
+        },
+        "iso3": "LIE",
+        "continent": "EU",
+        "aera": 160.0,
+        "population": 35000,
+        "capital": {
+            "en": "Vaduz",
+            "fr": "Vaduz",
+            "es": "Vaduz"
+        }
+    },
+    {
+        "iso": "LK",
+        "flag": "🇱🇰",
+        "unicode": "U+1F1F1 U+1F1F0",
+        "name": {
+            "en": "Sri Lanka",
+            "fr": "Sri Lanka",
+            "es": "Sri Lanka"
+        },
+        "iso3": "LKA",
+        "continent": "AS",
+        "aera": 65610.0,
+        "population": 21513990,
+        "capital": {
+            "en": "Colombo",
+            "fr": "Colombo",
+            "es": "Colombo"
+        }
+    },
+    {
+        "iso": "LR",
+        "flag": "🇱🇷",
+        "unicode": "U+1F1F1 U+1F1F7",
+        "name": {
+            "en": "Liberia",
+            "fr": "Libéria",
+            "es": "Liberia"
+        },
+        "iso3": "LBR",
+        "continent": "AF",
+        "aera": 111370.0,
+        "population": 3685076,
+        "capital": {
+            "en": "Monrovia",
+            "fr": "Monrovia",
+            "es": "Monrovia"
+        }
+    },
+    {
+        "iso": "LS",
+        "flag": "🇱🇸",
+        "unicode": "U+1F1F1 U+1F1F8",
+        "name": {
+            "en": "Lesotho",
+            "fr": "Lesotho",
+            "es": "Lesoto"
+        },
+        "iso3": "LSO",
+        "continent": "AF",
+        "aera": 30355.0,
+        "population": 1919552,
+        "capital": {
+            "en": "Maseru",
+            "fr": "Maseru",
+            "es": "Maseru"
+        }
+    },
+    {
+        "iso": "LT",
+        "flag": "🇱🇹",
+        "unicode": "U+1F1F1 U+1F1F9",
+        "name": {
+            "en": "Lithuania",
+            "fr": "Lituanie",
+            "es": "Lituania"
+        },
+        "iso3": "LTU",
+        "continent": "EU",
+        "aera": 65200.0,
+        "population": 2944459,
+        "capital": {
+            "en": "Vilnius",
+            "fr": "Vilnius",
+            "es": "Vilna"
+        }
+    },
+    {
+        "iso": "LU",
+        "flag": "🇱🇺",
+        "unicode": "U+1F1F1 U+1F1FA",
+        "name": {
+            "en": "Luxembourg",
+            "fr": "Luxembourg",
+            "es": "Luxemburgo"
+        },
+        "iso3": "LUX",
+        "continent": "EU",
+        "aera": 2586.0,
+        "population": 497538,
+        "capital": {
+            "en": "Luxembourg",
+            "fr": "Luxembourg",
+            "es": "Luxemburgo"
+        }
+    },
+    {
+        "iso": "LV",
+        "flag": "🇱🇻",
+        "unicode": "U+1F1F1 U+1F1FB",
+        "name": {
+            "en": "Latvia",
+            "fr": "Lettonie",
+            "es": "Letonia"
+        },
+        "iso3": "LVA",
+        "continent": "EU",
+        "aera": 64589.0,
+        "population": 2217969,
+        "capital": {
+            "en": "Riga",
+            "fr": "Riga",
+            "es": "Riga"
+        }
+    },
+    {
+        "iso": "LY",
+        "flag": "🇱🇾",
+        "unicode": "U+1F1F1 U+1F1FE",
+        "name": {
+            "en": "Libya",
+            "fr": "Libye",
+            "es": "Libia"
+        },
+        "iso3": "LBY",
+        "continent": "AF",
+        "aera": 1759540.0,
+        "population": 6461454,
+        "capital": {
+            "en": "Tripoli",
+            "fr": "Tripoli",
+            "es": "Trípoli"
+        }
+    },
+    {
+        "iso": "MA",
+        "flag": "🇲🇦",
+        "unicode": "U+1F1F2 U+1F1E6",
+        "name": {
+            "en": "Morocco",
+            "fr": "Maroc",
+            "es": "Marruecos"
+        },
+        "iso3": "MAR",
+        "continent": "AF",
+        "aera": 446550.0,
+        "population": 33848242,
+        "capital": {
+            "en": "Rabat",
+            "fr": "Rabat",
+            "es": "Rabat"
+        }
+    },
+    {
+        "iso": "MC",
+        "flag": "🇲🇨",
+        "unicode": "U+1F1F2 U+1F1E8",
+        "name": {
+            "en": "Monaco",
+            "fr": "Monaco",
+            "es": "Mónaco"
+        },
+        "iso3": "MCO",
+        "continent": "EU",
+        "aera": 1.9,
+        "population": 32965,
+        "capital": {
+            "en": "Monaco",
+            "fr": "Monaco",
+            "es": "Mónaco"
+        }
+    },
+    {
+        "iso": "MD",
+        "flag": "🇲🇩",
+        "unicode": "U+1F1F2 U+1F1E9",
+        "name": {
+            "en": "Moldova",
+            "fr": "Moldova",
+            "es": "Moldavia"
+        },
+        "iso3": "MDA",
+        "continent": "EU",
+        "aera": 33843.0,
+        "population": 4324000,
+        "capital": {
+            "en": "Chisinau",
+            "fr": "Chisinau",
+            "es": "Chisinau"
+        }
+    },
+    {
+        "iso": "ME",
+        "flag": "🇲🇪",
+        "unicode": "U+1F1F2 U+1F1EA",
+        "name": {
+            "en": "Montenegro",
+            "fr": "Monténégro",
+            "es": "Montenegro"
+        },
+        "iso3": "MNE",
+        "continent": "EU",
+        "aera": 14026.0,
+        "population": 666730,
+        "capital": {
+            "en": "Podgorica",
+            "fr": "Podgorica",
+            "es": "Podgorica"
+        }
+    },
+    {
+        "iso": "MF",
+        "flag": "🇲🇫",
+        "unicode": "U+1F1F2 U+1F1EB",
+        "name": {
+            "en": "Saint Martin (French Part)",
+            "fr": "Saint Martin (partie française)",
+            "es": "San Martín (parte francesa)"
+        },
+        "iso3": "MAF",
+        "continent": "NA",
+        "aera": 53.0,
+        "population": 35925,
+        "capital": {
+            "en": "Marigot",
+            "fr": "Marigot",
+            "es": "Marigot"
+        }
+    },
+    {
+        "iso": "MG",
+        "flag": "🇲🇬",
+        "unicode": "U+1F1F2 U+1F1EC",
+        "name": {
+            "en": "Madagascar",
+            "fr": "Madagascar",
+            "es": "Madagascar"
+        },
+        "iso3": "MDG",
+        "continent": "AF",
+        "aera": 587040.0,
+        "population": 21281844,
+        "capital": {
+            "en": "Antananarivo",
+            "fr": "Antananarivo",
+            "es": "Antananarivo"
+        }
+    },
+    {
+        "iso": "MH",
+        "flag": "🇲🇭",
+        "unicode": "U+1F1F2 U+1F1ED",
+        "name": {
+            "en": "Marshall Islands",
+            "fr": "Iles Marshall",
+            "es": "Islas Marshall"
+        },
+        "iso3": "MHL",
+        "continent": "OC",
+        "aera": 181.3,
+        "population": 65859,
+        "capital": {
+            "en": "Majuro",
+            "fr": "Majuro",
+            "es": "Majuro"
+        }
+    },
+    {
+        "iso": "MK",
+        "flag": "🇲🇰",
+        "unicode": "U+1F1F2 U+1F1F0",
+        "name": {
+            "en": "Macedonia",
+            "fr": "Macédoine",
+            "es": "macedonia"
+        },
+        "iso3": "MKD",
+        "continent": "EU",
+        "aera": 25333.0,
+        "population": 2062294,
+        "capital": {
+            "en": "Skopje",
+            "fr": "Skopje",
+            "es": "Skopje"
+        }
+    },
+    {
+        "iso": "ML",
+        "flag": "🇲🇱",
+        "unicode": "U+1F1F2 U+1F1F1",
+        "name": {
+            "en": "Mali",
+            "fr": "Mali",
+            "es": "Mali"
+        },
+        "iso3": "MLI",
+        "continent": "AF",
+        "aera": 1240000.0,
+        "population": 13796354,
+        "capital": {
+            "en": "Bamako",
+            "fr": "Bamako",
+            "es": "Bamako"
+        }
+    },
+    {
+        "iso": "MM",
+        "flag": "🇲🇲",
+        "unicode": "U+1F1F2 U+1F1F2",
+        "name": {
+            "en": "Myanmar",
+            "fr": "Myanmar",
+            "es": "Myanmar"
+        },
+        "iso3": "MMR",
+        "continent": "AS",
+        "aera": 678500.0,
+        "population": 53414374,
+        "capital": {
+            "en": "Nay Pyi Taw",
+            "fr": "Nay Pyi Taw",
+            "es": "Nay Pyi Taw"
+        }
+    },
+    {
+        "iso": "MN",
+        "flag": "🇲🇳",
+        "unicode": "U+1F1F2 U+1F1F3",
+        "name": {
+            "en": "Mongolia",
+            "fr": "Mongolie",
+            "es": "Mongolia"
+        },
+        "iso3": "MNG",
+        "continent": "AS",
+        "aera": 1565000.0,
+        "population": 3086918,
+        "capital": {
+            "en": "Ulaanbaatar",
+            "fr": "Oulan-Bator",
+            "es": "Ulán Bator"
+        }
+    },
+    {
+        "iso": "MO",
+        "flag": "🇲🇴",
+        "unicode": "U+1F1F2 U+1F1F4",
+        "name": {
+            "en": "Macao",
+            "fr": "Macao",
+            "es": "Macao"
+        },
+        "iso3": "MAC",
+        "continent": "AS",
+        "aera": 254.0,
+        "population": 449198,
+        "capital": {
+            "en": "Macao",
+            "fr": "Macao",
+            "es": "Macao"
+        }
+    },
+    {
+        "iso": "MP",
+        "flag": "🇲🇵",
+        "unicode": "U+1F1F2 U+1F1F5",
+        "name": {
+            "en": "Northern Mariana Islands",
+            "fr": "Îles Mariannes du Nord",
+            "es": "Islas Marianas del Norte"
+        },
+        "iso3": "MNP",
+        "continent": "OC",
+        "aera": 477.0,
+        "population": 53883,
+        "capital": {
+            "en": "Saipan",
+            "fr": "Saipan",
+            "es": "Saipan"
+        }
+    },
+    {
+        "iso": "MQ",
+        "flag": "🇲🇶",
+        "unicode": "U+1F1F2 U+1F1F6",
+        "name": {
+            "en": "Martinique",
+            "fr": "Martinique",
+            "es": "Martinica"
+        },
+        "iso3": "MTQ",
+        "continent": "NA",
+        "aera": 1100.0,
+        "population": 432900,
+        "capital": {
+            "en": "Fort-de-France",
+            "fr": "Fort-de-France",
+            "es": "Fort-de-France"
+        }
+    },
+    {
+        "iso": "MR",
+        "flag": "🇲🇷",
+        "unicode": "U+1F1F2 U+1F1F7",
+        "name": {
+            "en": "Mauritania",
+            "fr": "Mauritanie",
+            "es": "Mauritania"
+        },
+        "iso3": "MRT",
+        "continent": "AF",
+        "aera": 1030700.0,
+        "population": 3205060,
+        "capital": {
+            "en": "Nouakchott",
+            "fr": "Nouakchott",
+            "es": "Nouakchott"
+        }
+    },
+    {
+        "iso": "MS",
+        "flag": "🇲🇸",
+        "unicode": "U+1F1F2 U+1F1F8",
+        "name": {
+            "en": "Montserrat",
+            "fr": "Montserrat",
+            "es": "Montserrat"
+        },
+        "iso3": "MSR",
+        "continent": "NA",
+        "aera": 102.0,
+        "population": 9341,
+        "capital": {
+            "en": "Plymouth",
+            "fr": "Plymouth",
+            "es": "Plymouth"
+        }
+    },
+    {
+        "iso": "MT",
+        "flag": "🇲🇹",
+        "unicode": "U+1F1F2 U+1F1F9",
+        "name": {
+            "en": "Malta",
+            "fr": "Malte",
+            "es": "Malta"
+        },
+        "iso3": "MLT",
+        "continent": "EU",
+        "aera": 316.0,
+        "population": 403000,
+        "capital": {
+            "en": "Valletta",
+            "fr": "La Valette",
+            "es": "Valletta"
+        }
+    },
+    {
+        "iso": "MU",
+        "flag": "🇲🇺",
+        "unicode": "U+1F1F2 U+1F1FA",
+        "name": {
+            "en": "Mauritius",
+            "fr": "Maurice",
+            "es": "Mauricio"
+        },
+        "iso3": "MUS",
+        "continent": "AF",
+        "aera": 2040.0,
+        "population": 1294104,
+        "capital": {
+            "en": "Port Louis",
+            "fr": "Port Louis",
+            "es": "Port Louis"
+        }
+    },
+    {
+        "iso": "MV",
+        "flag": "🇲🇻",
+        "unicode": "U+1F1F2 U+1F1FB",
+        "name": {
+            "en": "Maldives",
+            "fr": "Maldives",
+            "es": "Maldivas"
+        },
+        "iso3": "MDV",
+        "continent": "AS",
+        "aera": 300.0,
+        "population": 395650,
+        "capital": {
+            "en": "Male",
+            "fr": "Masculin",
+            "es": "Masculino"
+        }
+    },
+    {
+        "iso": "MW",
+        "flag": "🇲🇼",
+        "unicode": "U+1F1F2 U+1F1FC",
+        "name": {
+            "en": "Malawi",
+            "fr": "Malawi",
+            "es": "Malawi"
+        },
+        "iso3": "MWI",
+        "continent": "AF",
+        "aera": 118480.0,
+        "population": 17563749,
+        "capital": {
+            "en": "Lilongwe",
+            "fr": "Lilongwe",
+            "es": "Lilongwe"
+        }
+    },
+    {
+        "iso": "MX",
+        "flag": "🇲🇽",
+        "unicode": "U+1F1F2 U+1F1FD",
+        "name": {
+            "en": "Mexico",
+            "fr": "Mexique",
+            "es": "Mexico"
+        },
+        "iso3": "MEX",
+        "continent": "NA",
+        "aera": 1972550.0,
+        "population": 112468855,
+        "capital": {
+            "en": "Mexico City",
+            "fr": "Mexico",
+            "es": "Ciudad de México"
+        }
+    },
+    {
+        "iso": "MY",
+        "flag": "🇲🇾",
+        "unicode": "U+1F1F2 U+1F1FE",
+        "name": {
+            "en": "Malaysia",
+            "fr": "Malaisie",
+            "es": "Malasia"
+        },
+        "iso3": "MYS",
+        "continent": "AS",
+        "aera": 329750.0,
+        "population": 28274729,
+        "capital": {
+            "en": "Kuala Lumpur",
+            "fr": "Kuala Lumpur",
+            "es": "Kuala Lumpur"
+        }
+    },
+    {
+        "iso": "MZ",
+        "flag": "🇲🇿",
+        "unicode": "U+1F1F2 U+1F1FF",
+        "name": {
+            "en": "Mozambique",
+            "fr": "Mozambique",
+            "es": "Mozambique"
+        },
+        "iso3": "MOZ",
+        "continent": "AF",
+        "aera": 801590.0,
+        "population": 22061451,
+        "capital": {
+            "en": "Maputo",
+            "fr": "Maputo",
+            "es": "Maputo"
+        }
+    },
+    {
+        "iso": "NA",
+        "flag": "🇳🇦",
+        "unicode": "U+1F1F3 U+1F1E6",
+        "name": {
+            "en": "Namibia",
+            "fr": "Namibie",
+            "es": "Namibia"
+        },
+        "iso3": "NAM",
+        "continent": "AF",
+        "aera": 825418.0,
+        "population": 2128471,
+        "capital": {
+            "en": "Windhoek",
+            "fr": "Windhoek",
+            "es": "Windhoek"
+        }
+    },
+    {
+        "iso": "NC",
+        "flag": "🇳🇨",
+        "unicode": "U+1F1F3 U+1F1E8",
+        "name": {
+            "en": "New Caledonia",
+            "fr": "Nouvelle Calédonie",
+            "es": "Nueva Caledonia"
+        },
+        "iso3": "NCL",
+        "continent": "OC",
+        "aera": 19060.0,
+        "population": 216494,
+        "capital": {
+            "en": "Noumea",
+            "fr": "Nouméa",
+            "es": "Noumea"
+        }
+    },
+    {
+        "iso": "NE",
+        "flag": "🇳🇪",
+        "unicode": "U+1F1F3 U+1F1EA",
+        "name": {
+            "en": "Niger",
+            "fr": "Niger",
+            "es": "Níger"
+        },
+        "iso3": "NER",
+        "continent": "AF",
+        "aera": 1267000.0,
+        "population": 15878271,
+        "capital": {
+            "en": "Niamey",
+            "fr": "Niamey",
+            "es": "Niamey"
+        }
+    },
+    {
+        "iso": "NF",
+        "flag": "🇳🇫",
+        "unicode": "U+1F1F3 U+1F1EB",
+        "name": {
+            "en": "Norfolk Island",
+            "fr": "l'ile de Norfolk",
+            "es": "Isla Norfolk"
+        },
+        "iso3": "NFK",
+        "continent": "OC",
+        "aera": 34.6,
+        "population": 1828,
+        "capital": {
+            "en": "Kingston",
+            "fr": "Kingston",
+            "es": "Kingston"
+        }
+    },
+    {
+        "iso": "NG",
+        "flag": "🇳🇬",
+        "unicode": "U+1F1F3 U+1F1EC",
+        "name": {
+            "en": "Nigeria",
+            "fr": "Nigeria",
+            "es": "Nigeria"
+        },
+        "iso3": "NGA",
+        "continent": "AF",
+        "aera": 923768.0,
+        "population": 154000000,
+        "capital": {
+            "en": "Abuja",
+            "fr": "Abuja",
+            "es": "Abuja"
+        }
+    },
+    {
+        "iso": "NI",
+        "flag": "🇳🇮",
+        "unicode": "U+1F1F3 U+1F1EE",
+        "name": {
+            "en": "Nicaragua",
+            "fr": "Nicaragua",
+            "es": "Nicaragua"
+        },
+        "iso3": "NIC",
+        "continent": "NA",
+        "aera": 129494.0,
+        "population": 5995928,
+        "capital": {
+            "en": "Managua",
+            "fr": "Managua",
+            "es": "Managua"
+        }
+    },
+    {
+        "iso": "NL",
+        "flag": "🇳🇱",
+        "unicode": "U+1F1F3 U+1F1F1",
+        "name": {
+            "en": "Netherlands",
+            "fr": "Pays-Bas",
+            "es": "Países Bajos"
+        },
+        "iso3": "NLD",
+        "continent": "EU",
+        "aera": 41526.0,
+        "population": 16645000,
+        "capital": {
+            "en": "Amsterdam",
+            "fr": "Amsterdam",
+            "es": "Amsterdam"
+        }
+    },
+    {
+        "iso": "NO",
+        "flag": "🇳🇴",
+        "unicode": "U+1F1F3 U+1F1F4",
+        "name": {
+            "en": "Norway",
+            "fr": "Norvège",
+            "es": "Noruega"
+        },
+        "iso3": "NOR",
+        "continent": "EU",
+        "aera": 324220.0,
+        "population": 5009150,
+        "capital": {
+            "en": "Oslo",
+            "fr": "Oslo",
+            "es": "Oslo"
+        }
+    },
+    {
+        "iso": "NP",
+        "flag": "🇳🇵",
+        "unicode": "U+1F1F3 U+1F1F5",
+        "name": {
+            "en": "Nepal",
+            "fr": "Népal",
+            "es": "Nepal"
+        },
+        "iso3": "NPL",
+        "continent": "AS",
+        "aera": 140800.0,
+        "population": 28951852,
+        "capital": {
+            "en": "Kathmandu",
+            "fr": "Katmandou",
+            "es": "Katmandú"
+        }
+    },
+    {
+        "iso": "NR",
+        "flag": "🇳🇷",
+        "unicode": "U+1F1F3 U+1F1F7",
+        "name": {
+            "en": "Nauru",
+            "fr": "Nauru",
+            "es": "Nauru"
+        },
+        "iso3": "NRU",
+        "continent": "OC",
+        "aera": 21.0,
+        "population": 10065,
+        "capital": {
+            "en": "Yaren",
+            "fr": "Yaren",
+            "es": "Yaren"
+        }
+    },
+    {
+        "iso": "NU",
+        "flag": "🇳🇺",
+        "unicode": "U+1F1F3 U+1F1FA",
+        "name": {
+            "en": "Niue",
+            "fr": "Niue",
+            "es": "Niue"
+        },
+        "iso3": "NIU",
+        "continent": "OC",
+        "aera": 260.0,
+        "population": 2166,
+        "capital": {
+            "en": "Alofi",
+            "fr": "Alofi",
+            "es": "Alofi"
+        }
+    },
+    {
+        "iso": "NZ",
+        "flag": "🇳🇿",
+        "unicode": "U+1F1F3 U+1F1FF",
+        "name": {
+            "en": "New Zealand",
+            "fr": "Nouvelle-Zélande",
+            "es": "Nueva Zelanda"
+        },
+        "iso3": "NZL",
+        "continent": "OC",
+        "aera": 268680.0,
+        "population": 4252277,
+        "capital": {
+            "en": "Wellington",
+            "fr": "Wellington",
+            "es": "Wellington"
+        }
+    },
+    {
+        "iso": "OM",
+        "flag": "🇴🇲",
+        "unicode": "U+1F1F4 U+1F1F2",
+        "name": {
+            "en": "Oman",
+            "fr": "Oman",
+            "es": "Omán"
+        },
+        "iso3": "OMN",
+        "continent": "AS",
+        "aera": 212460.0,
+        "population": 2967717,
+        "capital": {
+            "en": "Muscat",
+            "fr": "Muscat",
+            "es": "Moscatel"
+        }
+    },
+    {
+        "iso": "PA",
+        "flag": "🇵🇦",
+        "unicode": "U+1F1F5 U+1F1E6",
+        "name": {
+            "en": "Panama",
+            "fr": "Panama",
+            "es": "Panamá"
+        },
+        "iso3": "PAN",
+        "continent": "NA",
+        "aera": 78200.0,
+        "population": 3410676,
+        "capital": {
+            "en": "Panama City",
+            "fr": "Ville de Panama",
+            "es": "ciudad de Panama"
+        }
+    },
+    {
+        "iso": "PE",
+        "flag": "🇵🇪",
+        "unicode": "U+1F1F5 U+1F1EA",
+        "name": {
+            "en": "Peru",
+            "fr": "Pérou",
+            "es": "Perú"
+        },
+        "iso3": "PER",
+        "continent": "SA",
+        "aera": 1285220.0,
+        "population": 29907003,
+        "capital": {
+            "en": "Lima",
+            "fr": "Lima",
+            "es": "Lima"
+        }
+    },
+    {
+        "iso": "PF",
+        "flag": "🇵🇫",
+        "unicode": "U+1F1F5 U+1F1EB",
+        "name": {
+            "en": "French Polynesia",
+            "fr": "Polynésie française",
+            "es": "Polinesia francés"
+        },
+        "iso3": "PYF",
+        "continent": "OC",
+        "aera": 4167.0,
+        "population": 270485,
+        "capital": {
+            "en": "Papeete",
+            "fr": "Papeete",
+            "es": "Papeete"
+        }
+    },
+    {
+        "iso": "PG",
+        "flag": "🇵🇬",
+        "unicode": "U+1F1F5 U+1F1EC",
+        "name": {
+            "en": "Papua New Guinea",
+            "fr": "Papouasie Nouvelle Guinée",
+            "es": "Papúa Nueva Guinea"
+        },
+        "iso3": "PNG",
+        "continent": "OC",
+        "aera": 462840.0,
+        "population": 6064515,
+        "capital": {
+            "en": "Port Moresby",
+            "fr": "Port Moresby",
+            "es": "Port Moresby"
+        }
+    },
+    {
+        "iso": "PH",
+        "flag": "🇵🇭",
+        "unicode": "U+1F1F5 U+1F1ED",
+        "name": {
+            "en": "Philippines",
+            "fr": "Philippines",
+            "es": "Filipinas"
+        },
+        "iso3": "PHL",
+        "continent": "AS",
+        "aera": 300000.0,
+        "population": 99900177,
+        "capital": {
+            "en": "Manila",
+            "fr": "Manille",
+            "es": "Manila"
+        }
+    },
+    {
+        "iso": "PK",
+        "flag": "🇵🇰",
+        "unicode": "U+1F1F5 U+1F1F0",
+        "name": {
+            "en": "Pakistan",
+            "fr": "Pakistan",
+            "es": "Pakistán"
+        },
+        "iso3": "PAK",
+        "continent": "AS",
+        "aera": 803940.0,
+        "population": 184404791,
+        "capital": {
+            "en": "Islamabad",
+            "fr": "Islamabad",
+            "es": "Islamabad"
+        }
+    },
+    {
+        "iso": "PL",
+        "flag": "🇵🇱",
+        "unicode": "U+1F1F5 U+1F1F1",
+        "name": {
+            "en": "Poland",
+            "fr": "Pologne",
+            "es": "Polonia"
+        },
+        "iso3": "POL",
+        "continent": "EU",
+        "aera": 312685.0,
+        "population": 38500000,
+        "capital": {
+            "en": "Warsaw",
+            "fr": "Varsovie",
+            "es": "Varsovia"
+        }
+    },
+    {
+        "iso": "PM",
+        "flag": "🇵🇲",
+        "unicode": "U+1F1F5 U+1F1F2",
+        "name": {
+            "en": "Saint Pierre and Miquelon",
+            "fr": "Saint-Pierre-et-Miquelon",
+            "es": "San Pedro y Miquelón"
+        },
+        "iso3": "SPM",
+        "continent": "NA",
+        "aera": 242.0,
+        "population": 7012,
+        "capital": {
+            "en": "Saint-Pierre",
+            "fr": "Saint-Pierre",
+            "es": "Saint-Pierre"
+        }
+    },
+    {
+        "iso": "PN",
+        "flag": "🇵🇳",
+        "unicode": "U+1F1F5 U+1F1F3",
+        "name": {
+            "en": "Pitcairn",
+            "fr": "Pitcairn",
+            "es": "Pitcairn"
+        },
+        "iso3": "PCN",
+        "continent": "OC",
+        "aera": 47.0,
+        "population": 46,
+        "capital": {
+            "en": "Adamstown",
+            "fr": "Adamstown",
+            "es": "Adamstown"
+        }
+    },
+    {
+        "iso": "PR",
+        "flag": "🇵🇷",
+        "unicode": "U+1F1F5 U+1F1F7",
+        "name": {
+            "en": "Puerto Rico",
+            "fr": "Porto Rico",
+            "es": "Puerto Rico"
+        },
+        "iso3": "PRI",
+        "continent": "NA",
+        "aera": 9104.0,
+        "population": 3916632,
+        "capital": {
+            "en": "San Juan",
+            "fr": "San Juan",
+            "es": "San Juan"
+        }
+    },
+    {
+        "iso": "PS",
+        "flag": "🇵🇸",
+        "unicode": "U+1F1F5 U+1F1F8",
+        "name": {
+            "en": "Palestinian Territory",
+            "fr": "Territoire Palestinien",
+            "es": "Territorio Palestino"
+        },
+        "iso3": "PSE",
+        "continent": "AS",
+        "aera": 5970.0,
+        "population": 3800000,
+        "capital": {
+            "en": "East Jerusalem",
+            "fr": "Jérusalem Est",
+            "es": "Este de Jerusalem"
+        }
+    },
+    {
+        "iso": "PT",
+        "flag": "🇵🇹",
+        "unicode": "U+1F1F5 U+1F1F9",
+        "name": {
+            "en": "Portugal",
+            "fr": "le Portugal",
+            "es": "Portugal"
+        },
+        "iso3": "PRT",
+        "continent": "EU",
+        "aera": 92391.0,
+        "population": 10676000,
+        "capital": {
+            "en": "Lisbon",
+            "fr": "Lisbonne",
+            "es": "Lisboa"
+        }
+    },
+    {
+        "iso": "PW",
+        "flag": "🇵🇼",
+        "unicode": "U+1F1F5 U+1F1FC",
+        "name": {
+            "en": "Palau",
+            "fr": "Palau",
+            "es": "Palau"
+        },
+        "iso3": "PLW",
+        "continent": "OC",
+        "aera": 458.0,
+        "population": 19907,
+        "capital": {
+            "en": "Melekeok",
+            "fr": "Melekeok",
+            "es": "Melekeok"
+        }
+    },
+    {
+        "iso": "PY",
+        "flag": "🇵🇾",
+        "unicode": "U+1F1F5 U+1F1FE",
+        "name": {
+            "en": "Paraguay",
+            "fr": "Paraguay",
+            "es": "Paraguay"
+        },
+        "iso3": "PRY",
+        "continent": "SA",
+        "aera": 406750.0,
+        "population": 6375830,
+        "capital": {
+            "en": "Asuncion",
+            "fr": "Asuncion",
+            "es": "Asunción"
+        }
+    },
+    {
+        "iso": "QA",
+        "flag": "🇶🇦",
+        "unicode": "U+1F1F6 U+1F1E6",
+        "name": {
+            "en": "Qatar",
+            "fr": "Qatar",
+            "es": "Katar"
+        },
+        "iso3": "QAT",
+        "continent": "AS",
+        "aera": 11437.0,
+        "population": 840926,
+        "capital": {
+            "en": "Doha",
+            "fr": "Doha",
+            "es": "Doha"
+        }
+    },
+    {
+        "iso": "RE",
+        "flag": "🇷🇪",
+        "unicode": "U+1F1F7 U+1F1EA",
+        "name": {
+            "en": "Réunion",
+            "fr": "Réunion",
+            "es": "Reunión"
+        },
+        "iso3": "REU",
+        "continent": "AF",
+        "aera": 2517.0,
+        "population": 776948,
+        "capital": {
+            "en": "Saint-Denis",
+            "fr": "Saint-Denis",
+            "es": "Saint-Denis"
+        }
+    },
+    {
+        "iso": "RO",
+        "flag": "🇷🇴",
+        "unicode": "U+1F1F7 U+1F1F4",
+        "name": {
+            "en": "Romania",
+            "fr": "Roumanie",
+            "es": "Rumania"
+        },
+        "iso3": "ROU",
+        "continent": "EU",
+        "aera": 237500.0,
+        "population": 21959278,
+        "capital": {
+            "en": "Bucharest",
+            "fr": "Bucarest",
+            "es": "Bucarest"
+        }
+    },
+    {
+        "iso": "RS",
+        "flag": "🇷🇸",
+        "unicode": "U+1F1F7 U+1F1F8",
+        "name": {
+            "en": "Serbia",
+            "fr": "Serbie",
+            "es": "Serbia"
+        },
+        "iso3": "SRB",
+        "continent": "EU",
+        "aera": 88361.0,
+        "population": 7344847,
+        "capital": {
+            "en": "Belgrade",
+            "fr": "Belgrade",
+            "es": "Belgrado"
+        }
+    },
+    {
+        "iso": "RU",
+        "flag": "🇷🇺",
+        "unicode": "U+1F1F7 U+1F1FA",
+        "name": {
+            "en": "Russia",
+            "fr": "Russie",
+            "es": "Rusia"
+        },
+        "iso3": "RUS",
+        "continent": "EU",
+        "aera": 17100000.0,
+        "population": 140702000,
+        "capital": {
+            "en": "Moscow",
+            "fr": "Moscou",
+            "es": "Moscú"
+        }
+    },
+    {
+        "iso": "RW",
+        "flag": "🇷🇼",
+        "unicode": "U+1F1F7 U+1F1FC",
+        "name": {
+            "en": "Rwanda",
+            "fr": "Rwanda",
+            "es": "Ruanda"
+        },
+        "iso3": "RWA",
+        "continent": "AF",
+        "aera": 26338.0,
+        "population": 11055976,
+        "capital": {
+            "en": "Kigali",
+            "fr": "Kigali",
+            "es": "Kigali"
+        }
+    },
+    {
+        "iso": "SA",
+        "flag": "🇸🇦",
+        "unicode": "U+1F1F8 U+1F1E6",
+        "name": {
+            "en": "Saudi Arabia",
+            "fr": "Arabie Saoudite",
+            "es": "Arabia Saudita"
+        },
+        "iso3": "SAU",
+        "continent": "AS",
+        "aera": 1960582.0,
+        "population": 25731776,
+        "capital": {
+            "en": "Riyadh",
+            "fr": "Riyad",
+            "es": "Riad"
+        }
+    },
+    {
+        "iso": "SB",
+        "flag": "🇸🇧",
+        "unicode": "U+1F1F8 U+1F1E7",
+        "name": {
+            "en": "Solomon Islands",
+            "fr": "Les îles Salomon",
+            "es": "Islas Salomón"
+        },
+        "iso3": "SLB",
+        "continent": "OC",
+        "aera": 28450.0,
+        "population": 559198,
+        "capital": {
+            "en": "Honiara",
+            "fr": "Honiara",
+            "es": "Honiara"
+        }
+    },
+    {
+        "iso": "SC",
+        "flag": "🇸🇨",
+        "unicode": "U+1F1F8 U+1F1E8",
+        "name": {
+            "en": "Seychelles",
+            "fr": "les Seychelles",
+            "es": "Seychelles"
+        },
+        "iso3": "SYC",
+        "continent": "AF",
+        "aera": 455.0,
+        "population": 88340,
+        "capital": {
+            "en": "Victoria",
+            "fr": "Victoria",
+            "es": "Victoria"
+        }
+    },
+    {
+        "iso": "SD",
+        "flag": "🇸🇩",
+        "unicode": "U+1F1F8 U+1F1E9",
+        "name": {
+            "en": "Sudan",
+            "fr": "Soudan",
+            "es": "Sudán"
+        },
+        "iso3": "SDN",
+        "continent": "AF",
+        "aera": 1861484.0,
+        "population": 35000000,
+        "capital": {
+            "en": "Khartoum",
+            "fr": "Khartoum",
+            "es": "Jartum"
+        }
+    },
+    {
+        "iso": "SE",
+        "flag": "🇸🇪",
+        "unicode": "U+1F1F8 U+1F1EA",
+        "name": {
+            "en": "Sweden",
+            "fr": "Suède",
+            "es": "Suecia"
+        },
+        "iso3": "SWE",
+        "continent": "EU",
+        "aera": 449964.0,
+        "population": 9828655,
+        "capital": {
+            "en": "Stockholm",
+            "fr": "Stockholm",
+            "es": "Estocolmo"
+        }
+    },
+    {
+        "iso": "SG",
+        "flag": "🇸🇬",
+        "unicode": "U+1F1F8 U+1F1EC",
+        "name": {
+            "en": "Singapore",
+            "fr": "Singapour",
+            "es": "Singapur"
+        },
+        "iso3": "SGP",
+        "continent": "AS",
+        "aera": 692.7,
+        "population": 4701069,
+        "capital": {
+            "en": "Singapore",
+            "fr": "Singapour",
+            "es": "Singapur"
+        }
+    },
+    {
+        "iso": "SH",
+        "flag": "🇸🇭",
+        "unicode": "U+1F1F8 U+1F1ED",
+        "name": {
+            "en": "Saint Helena, Ascension and Tristan Da Cunha",
+            "fr": "Sainte-Hélène, Ascension et Tristan Da Cunha",
+            "es": "Santa Elena, Ascensión y Tristán Da Cunha"
+        },
+        "iso3": "SHN",
+        "continent": "AF",
+        "aera": 410.0,
+        "population": 7460,
+        "capital": {
+            "en": "Jamestown",
+            "fr": "Jamestown",
+            "es": "Jamestown"
+        }
+    },
+    {
+        "iso": "SI",
+        "flag": "🇸🇮",
+        "unicode": "U+1F1F8 U+1F1EE",
+        "name": {
+            "en": "Slovenia",
+            "fr": "Slovénie",
+            "es": "Eslovenia"
+        },
+        "iso3": "SVN",
+        "continent": "EU",
+        "aera": 20273.0,
+        "population": 2007000,
+        "capital": {
+            "en": "Ljubljana",
+            "fr": "Ljubljana",
+            "es": "Liubliana"
+        }
+    },
+    {
+        "iso": "SJ",
+        "flag": "🇸🇯",
+        "unicode": "U+1F1F8 U+1F1EF",
+        "name": {
+            "en": "Svalbard and Jan Mayen",
+            "fr": "Svalbard et Jan Mayen",
+            "es": "Svalbard y Jan Mayen"
+        },
+        "iso3": "SJM",
+        "continent": "EU",
+        "aera": 62049.0,
+        "population": 2550,
+        "capital": {
+            "en": "Longyearbyen",
+            "fr": "Longyearbyen",
+            "es": "Longyearbyen"
+        }
+    },
+    {
+        "iso": "SK",
+        "flag": "🇸🇰",
+        "unicode": "U+1F1F8 U+1F1F0",
+        "name": {
+            "en": "Slovakia",
+            "fr": "Slovaquie",
+            "es": "Eslovaquia"
+        },
+        "iso3": "SVK",
+        "continent": "EU",
+        "aera": 48845.0,
+        "population": 5455000,
+        "capital": {
+            "en": "Bratislava",
+            "fr": "Bratislava",
+            "es": "Bratislava"
+        }
+    },
+    {
+        "iso": "SL",
+        "flag": "🇸🇱",
+        "unicode": "U+1F1F8 U+1F1F1",
+        "name": {
+            "en": "Sierra Leone",
+            "fr": "Sierra Leone",
+            "es": "Sierra Leona"
+        },
+        "iso3": "SLE",
+        "continent": "AF",
+        "aera": 71740.0,
+        "population": 5245695,
+        "capital": {
+            "en": "Freetown",
+            "fr": "Freetown",
+            "es": "Freetown"
+        }
+    },
+    {
+        "iso": "SM",
+        "flag": "🇸🇲",
+        "unicode": "U+1F1F8 U+1F1F2",
+        "name": {
+            "en": "San Marino",
+            "fr": "Saint Marin",
+            "es": "San Marino"
+        },
+        "iso3": "SMR",
+        "continent": "EU",
+        "aera": 61.2,
+        "population": 31477,
+        "capital": {
+            "en": "San Marino",
+            "fr": "Saint Marin",
+            "es": "San Marino"
+        }
+    },
+    {
+        "iso": "SN",
+        "flag": "🇸🇳",
+        "unicode": "U+1F1F8 U+1F1F3",
+        "name": {
+            "en": "Senegal",
+            "fr": "Sénégal",
+            "es": "Senegal"
+        },
+        "iso3": "SEN",
+        "continent": "AF",
+        "aera": 196190.0,
+        "population": 12323252,
+        "capital": {
+            "en": "Dakar",
+            "fr": "Dakar",
+            "es": "Dakar"
+        }
+    },
+    {
+        "iso": "SO",
+        "flag": "🇸🇴",
+        "unicode": "U+1F1F8 U+1F1F4",
+        "name": {
+            "en": "Somalia",
+            "fr": "Somalie",
+            "es": "Somalia"
+        },
+        "iso3": "SOM",
+        "continent": "AF",
+        "aera": 637657.0,
+        "population": 10112453,
+        "capital": {
+            "en": "Mogadishu",
+            "fr": "Mogadiscio",
+            "es": "Mogadisio"
+        }
+    },
+    {
+        "iso": "SR",
+        "flag": "🇸🇷",
+        "unicode": "U+1F1F8 U+1F1F7",
+        "name": {
+            "en": "Suriname",
+            "fr": "Suriname",
+            "es": "Surinam"
+        },
+        "iso3": "SUR",
+        "continent": "SA",
+        "aera": 163270.0,
+        "population": 492829,
+        "capital": {
+            "en": "Paramaribo",
+            "fr": "Paramaribo",
+            "es": "Paramaribo"
+        }
+    },
+    {
+        "iso": "SS",
+        "flag": "🇸🇸",
+        "unicode": "U+1F1F8 U+1F1F8",
+        "name": {
+            "en": "South Sudan",
+            "fr": "Soudan du Sud",
+            "es": "Sudán del Sur"
+        },
+        "iso3": "SSD",
+        "continent": "AF",
+        "aera": 644329.0,
+        "population": 8260490,
+        "capital": {
+            "en": "Juba",
+            "fr": "Juba",
+            "es": "Juba"
+        }
+    },
+    {
+        "iso": "ST",
+        "flag": "🇸🇹",
+        "unicode": "U+1F1F8 U+1F1F9",
+        "name": {
+            "en": "Sao Tome and Principe",
+            "fr": "Sao Tomé et Principe",
+            "es": "Santo Tomé y Príncipe"
+        },
+        "iso3": "STP",
+        "continent": "AF",
+        "aera": 1001.0,
+        "population": 197700,
+        "capital": {
+            "en": "Sao Tome",
+            "fr": "Sao Tomé",
+            "es": "Santo Tomé"
+        }
+    },
+    {
+        "iso": "SV",
+        "flag": "🇸🇻",
+        "unicode": "U+1F1F8 U+1F1FB",
+        "name": {
+            "en": "El Salvador",
+            "fr": "Le Salvador",
+            "es": "El Salvador"
+        },
+        "iso3": "SLV",
+        "continent": "NA",
+        "aera": 21040.0,
+        "population": 6052064,
+        "capital": {
+            "en": "San Salvador",
+            "fr": "San Salvador",
+            "es": "San Salvador"
+        }
+    },
+    {
+        "iso": "SX",
+        "flag": "🇸🇽",
+        "unicode": "U+1F1F8 U+1F1FD",
+        "name": {
+            "en": "Sint Maarten (Dutch Part)",
+            "fr": "Sint Maarten (partie néerlandaise)",
+            "es": "Sint Maarten (parte holandesa)"
+        },
+        "iso3": "SXM",
+        "continent": "NA",
+        "aera": 21.0,
+        "population": 37429,
+        "capital": {
+            "en": "Philipsburg",
+            "fr": "Philipsburg",
+            "es": "Philipsburg"
+        }
+    },
+    {
+        "iso": "SY",
+        "flag": "🇸🇾",
+        "unicode": "U+1F1F8 U+1F1FE",
+        "name": {
+            "en": "Syrian Arab Republic",
+            "fr": "République arabe syrienne",
+            "es": "República Árabe Siria"
+        },
+        "iso3": "SYR",
+        "continent": "AS",
+        "aera": 185180.0,
+        "population": 22198110,
+        "capital": {
+            "en": "Damascus",
+            "fr": "Damas",
+            "es": "Damasco"
+        }
+    },
+    {
+        "iso": "SZ",
+        "flag": "🇸🇿",
+        "unicode": "U+1F1F8 U+1F1FF",
+        "name": {
+            "en": "Swaziland",
+            "fr": "Swaziland",
+            "es": "Swazilandia"
+        },
+        "iso3": "SWZ",
+        "continent": "AF",
+        "aera": 17363.0,
+        "population": 1354051,
+        "capital": {
+            "en": "Mbabane",
+            "fr": "Mbabane",
+            "es": "Mbabane"
+        }
+    },
+    {
+        "iso": "TC",
+        "flag": "🇹🇨",
+        "unicode": "U+1F1F9 U+1F1E8",
+        "name": {
+            "en": "Turks and Caicos Islands",
+            "fr": "îles Turques-et-Caïques",
+            "es": "Islas Turcas y Caicos"
+        },
+        "iso3": "TCA",
+        "continent": "NA",
+        "aera": 430.0,
+        "population": 20556,
+        "capital": {
+            "en": "Cockburn Town",
+            "fr": "Cockburn Town",
+            "es": "Cockburn Town"
+        }
+    },
+    {
+        "iso": "TD",
+        "flag": "🇹🇩",
+        "unicode": "U+1F1F9 U+1F1E9",
+        "name": {
+            "en": "Chad",
+            "fr": "Tchad",
+            "es": "Chad"
+        },
+        "iso3": "TCD",
+        "continent": "AF",
+        "aera": 1284000.0,
+        "population": 10543464,
+        "capital": {
+            "en": "N'Djamena",
+            "fr": "N'Djamena",
+            "es": "Yamena"
+        }
+    },
+    {
+        "iso": "TF",
+        "flag": "🇹🇫",
+        "unicode": "U+1F1F9 U+1F1EB",
+        "name": {
+            "en": "French Southern Territories",
+            "fr": "Territoires français du Sud",
+            "es": "Territorios Franceses del Sur"
+        },
+        "iso3": "ATF",
+        "continent": "AN",
+        "aera": 7829.0,
+        "population": 140,
+        "capital": {
+            "en": "Port-aux-Francais",
+            "fr": "Port-aux-Francais",
+            "es": "Port-aux-Francais"
+        }
+    },
+    {
+        "iso": "TG",
+        "flag": "🇹🇬",
+        "unicode": "U+1F1F9 U+1F1EC",
+        "name": {
+            "en": "Togo",
+            "fr": "Aller",
+            "es": "Ir"
+        },
+        "iso3": "TGO",
+        "continent": "AF",
+        "aera": 56785.0,
+        "population": 6587239,
+        "capital": {
+            "en": "Lome",
+            "fr": "Lomé",
+            "es": "Lome"
+        }
+    },
+    {
+        "iso": "TH",
+        "flag": "🇹🇭",
+        "unicode": "U+1F1F9 U+1F1ED",
+        "name": {
+            "en": "Thailand",
+            "fr": "Thaïlande",
+            "es": "Tailandia"
+        },
+        "iso3": "THA",
+        "continent": "AS",
+        "aera": 514000.0,
+        "population": 67089500,
+        "capital": {
+            "en": "Bangkok",
+            "fr": "Bangkok",
+            "es": "Bangkok"
+        }
+    },
+    {
+        "iso": "TJ",
+        "flag": "🇹🇯",
+        "unicode": "U+1F1F9 U+1F1EF",
+        "name": {
+            "en": "Tajikistan",
+            "fr": "Tadjikistan",
+            "es": "Tayikistán"
+        },
+        "iso3": "TJK",
+        "continent": "AS",
+        "aera": 143100.0,
+        "population": 7487489,
+        "capital": {
+            "en": "Dushanbe",
+            "fr": "Douchanbé",
+            "es": "Dushanbe"
+        }
+    },
+    {
+        "iso": "TK",
+        "flag": "🇹🇰",
+        "unicode": "U+1F1F9 U+1F1F0",
+        "name": {
+            "en": "Tokelau",
+            "fr": "Tokelau",
+            "es": "Tokelau"
+        },
+        "iso3": "TKL",
+        "continent": "OC",
+        "aera": 10.0,
+        "population": 1466,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "TL",
+        "flag": "🇹🇱",
+        "unicode": "U+1F1F9 U+1F1F1",
+        "name": {
+            "en": "Timor-Leste",
+            "fr": "Timor-Leste",
+            "es": "Timor-Leste"
+        },
+        "iso3": "TLS",
+        "continent": "OC",
+        "aera": 15007.0,
+        "population": 1154625,
+        "capital": {
+            "en": "Dili",
+            "fr": "Dili",
+            "es": "Dili"
+        }
+    },
+    {
+        "iso": "TM",
+        "flag": "🇹🇲",
+        "unicode": "U+1F1F9 U+1F1F2",
+        "name": {
+            "en": "Turkmenistan",
+            "fr": "Turkménistan",
+            "es": "Turkmenistán"
+        },
+        "iso3": "TKM",
+        "continent": "AS",
+        "aera": 488100.0,
+        "population": 4940916,
+        "capital": {
+            "en": "Ashgabat",
+            "fr": "Ashgabat",
+            "es": "Ashgabat"
+        }
+    },
+    {
+        "iso": "TN",
+        "flag": "🇹🇳",
+        "unicode": "U+1F1F9 U+1F1F3",
+        "name": {
+            "en": "Tunisia",
+            "fr": "Tunisie",
+            "es": "Túnez"
+        },
+        "iso3": "TUN",
+        "continent": "AF",
+        "aera": 163610.0,
+        "population": 10589025,
+        "capital": {
+            "en": "Tunis",
+            "fr": "Tunis",
+            "es": "Túnez"
+        }
+    },
+    {
+        "iso": "TO",
+        "flag": "🇹🇴",
+        "unicode": "U+1F1F9 U+1F1F4",
+        "name": {
+            "en": "Tonga",
+            "fr": "Tonga",
+            "es": "Tonga"
+        },
+        "iso3": "TON",
+        "continent": "OC",
+        "aera": 748.0,
+        "population": 122580,
+        "capital": {
+            "en": "Nuku'alofa",
+            "fr": "Nuku'alofa",
+            "es": "Nuku'alofa"
+        }
+    },
+    {
+        "iso": "TR",
+        "flag": "🇹🇷",
+        "unicode": "U+1F1F9 U+1F1F7",
+        "name": {
+            "en": "Turkey",
+            "fr": "dinde",
+            "es": "pavo"
+        },
+        "iso3": "TUR",
+        "continent": "AS",
+        "aera": 780580.0,
+        "population": 77804122,
+        "capital": {
+            "en": "Ankara",
+            "fr": "Ankara",
+            "es": "Ankara"
+        }
+    },
+    {
+        "iso": "TT",
+        "flag": "🇹🇹",
+        "unicode": "U+1F1F9 U+1F1F9",
+        "name": {
+            "en": "Trinidad and Tobago",
+            "fr": "Trinité-et-Tobago",
+            "es": "Trinidad y Tobago"
+        },
+        "iso3": "TTO",
+        "continent": "NA",
+        "aera": 5128.0,
+        "population": 1328019,
+        "capital": {
+            "en": "Port of Spain",
+            "fr": "Port d'Espagne",
+            "es": "Puerto de España"
+        }
+    },
+    {
+        "iso": "TV",
+        "flag": "🇹🇻",
+        "unicode": "U+1F1F9 U+1F1FB",
+        "name": {
+            "en": "Tuvalu",
+            "fr": "Tuvalu",
+            "es": "Tuvalu"
+        },
+        "iso3": "TUV",
+        "continent": "OC",
+        "aera": 26.0,
+        "population": 10472,
+        "capital": {
+            "en": "Funafuti",
+            "fr": "Funafuti",
+            "es": "Funafuti"
+        }
+    },
+    {
+        "iso": "TW",
+        "flag": "🇹🇼",
+        "unicode": "U+1F1F9 U+1F1FC",
+        "name": {
+            "en": "Taiwan",
+            "fr": "Taïwan",
+            "es": "Taiwán"
+        },
+        "iso3": "TWN",
+        "continent": "AS",
+        "aera": 35980.0,
+        "population": 22894384,
+        "capital": {
+            "en": "Taipei",
+            "fr": "Taipei",
+            "es": "Taipei"
+        }
+    },
+    {
+        "iso": "TZ",
+        "flag": "🇹🇿",
+        "unicode": "U+1F1F9 U+1F1FF",
+        "name": {
+            "en": "Tanzania",
+            "fr": "Tanzanie",
+            "es": "Tanzania"
+        },
+        "iso3": "TZA",
+        "continent": "AF",
+        "aera": 945087.0,
+        "population": 41892895,
+        "capital": {
+            "en": "Dodoma",
+            "fr": "Dodoma",
+            "es": "Dodoma"
+        }
+    },
+    {
+        "iso": "UA",
+        "flag": "🇺🇦",
+        "unicode": "U+1F1FA U+1F1E6",
+        "name": {
+            "en": "Ukraine",
+            "fr": "Ukraine",
+            "es": "Ucrania"
+        },
+        "iso3": "UKR",
+        "continent": "EU",
+        "aera": 603700.0,
+        "population": 45415596,
+        "capital": {
+            "en": "Kyiv",
+            "fr": "Kiev",
+            "es": "Kiev"
+        }
+    },
+    {
+        "iso": "UG",
+        "flag": "🇺🇬",
+        "unicode": "U+1F1FA U+1F1EC",
+        "name": {
+            "en": "Uganda",
+            "fr": "Ouganda",
+            "es": "Uganda"
+        },
+        "iso3": "UGA",
+        "continent": "AF",
+        "aera": 236040.0,
+        "population": 33398682,
+        "capital": {
+            "en": "Kampala",
+            "fr": "Kampala",
+            "es": "Kampala"
+        }
+    },
+    {
+        "iso": "UM",
+        "flag": "🇺🇲",
+        "unicode": "U+1F1FA U+1F1F2",
+        "name": {
+            "en": "United States Minor Outlying Islands",
+            "fr": "Îles mineures éloignées des États-Unis",
+            "es": "Islas ultramarinas menores de Estados Unidos"
+        },
+        "iso3": "UMI",
+        "continent": "OC",
+        "aera": 0.0,
+        "population": 0,
+        "capital": {
+            "en": "",
+            "fr": "",
+            "es": ""
+        }
+    },
+    {
+        "iso": "US",
+        "flag": "🇺🇸",
+        "unicode": "U+1F1FA U+1F1F8",
+        "name": {
+            "en": "United States",
+            "fr": "États Unis",
+            "es": "Estados Unidos"
+        },
+        "iso3": "USA",
+        "continent": "NA",
+        "aera": 9629091.0,
+        "population": 310232863,
+        "capital": {
+            "en": "Washington",
+            "fr": "Washington",
+            "es": "Washington"
+        }
+    },
+    {
+        "iso": "UY",
+        "flag": "🇺🇾",
+        "unicode": "U+1F1FA U+1F1FE",
+        "name": {
+            "en": "Uruguay",
+            "fr": "Uruguay",
+            "es": "Uruguay"
+        },
+        "iso3": "URY",
+        "continent": "SA",
+        "aera": 176220.0,
+        "population": 3477000,
+        "capital": {
+            "en": "Montevideo",
+            "fr": "Montevideo",
+            "es": "Montevideo"
+        }
+    },
+    {
+        "iso": "UZ",
+        "flag": "🇺🇿",
+        "unicode": "U+1F1FA U+1F1FF",
+        "name": {
+            "en": "Uzbekistan",
+            "fr": "Ouzbékistan",
+            "es": "Uzbekistán"
+        },
+        "iso3": "UZB",
+        "continent": "AS",
+        "aera": 447400.0,
+        "population": 27865738,
+        "capital": {
+            "en": "Tashkent",
+            "fr": "Tachkent",
+            "es": "Taskent"
+        }
+    },
+    {
+        "iso": "VA",
+        "flag": "🇻🇦",
+        "unicode": "U+1F1FB U+1F1E6",
+        "name": {
+            "en": "Vatican City",
+            "fr": "Cité du Vatican",
+            "es": "Ciudad del Vaticano"
+        },
+        "iso3": "VAT",
+        "continent": "EU",
+        "aera": 0.4,
+        "population": 921,
+        "capital": {
+            "en": "Vatican City",
+            "fr": "Cité du Vatican",
+            "es": "Ciudad del Vaticano"
+        }
+    },
+    {
+        "iso": "VC",
+        "flag": "🇻🇨",
+        "unicode": "U+1F1FB U+1F1E8",
+        "name": {
+            "en": "Saint Vincent and The Grenadines",
+            "fr": "Saint-Vincent-et-les-Grenadines",
+            "es": "San Vicente y las Granadinas"
+        },
+        "iso3": "VCT",
+        "continent": "NA",
+        "aera": 389.0,
+        "population": 104217,
+        "capital": {
+            "en": "Kingstown",
+            "fr": "Kingstown",
+            "es": "Kingstown"
+        }
+    },
+    {
+        "iso": "VE",
+        "flag": "🇻🇪",
+        "unicode": "U+1F1FB U+1F1EA",
+        "name": {
+            "en": "Venezuela",
+            "fr": "Venezuela",
+            "es": "Venezuela"
+        },
+        "iso3": "VEN",
+        "continent": "SA",
+        "aera": 912050.0,
+        "population": 27223228,
+        "capital": {
+            "en": "Caracas",
+            "fr": "Caracas",
+            "es": "Caracas"
+        }
+    },
+    {
+        "iso": "VG",
+        "flag": "🇻🇬",
+        "unicode": "U+1F1FB U+1F1EC",
+        "name": {
+            "en": "Virgin Islands, British",
+            "fr": "Îles Vierges britanniques",
+            "es": "Islas Vírgenes Británicas"
+        },
+        "iso3": "VGB",
+        "continent": "NA",
+        "aera": 153.0,
+        "population": 21730,
+        "capital": {
+            "en": "Road Town",
+            "fr": "Road Town",
+            "es": "Road Town"
+        }
+    },
+    {
+        "iso": "VI",
+        "flag": "🇻🇮",
+        "unicode": "U+1F1FB U+1F1EE",
+        "name": {
+            "en": "Virgin Islands, U.S.",
+            "fr": "Îles Vierges américaines",
+            "es": "Islas Vírgenes, EE. UU."
+        },
+        "iso3": "VIR",
+        "continent": "NA",
+        "aera": 352.0,
+        "population": 108708,
+        "capital": {
+            "en": "Charlotte Amalie",
+            "fr": "Charlotte Amalie",
+            "es": "Charlotte Amalie"
+        }
+    },
+    {
+        "iso": "VN",
+        "flag": "🇻🇳",
+        "unicode": "U+1F1FB U+1F1F3",
+        "name": {
+            "en": "Viet Nam",
+            "fr": "Viet Nam",
+            "es": "Vietnam"
+        },
+        "iso3": "VNM",
+        "continent": "AS",
+        "aera": 329560.0,
+        "population": 89571130,
+        "capital": {
+            "en": "Hanoi",
+            "fr": "Hanoi",
+            "es": "Hanoi"
+        }
+    },
+    {
+        "iso": "VU",
+        "flag": "🇻🇺",
+        "unicode": "U+1F1FB U+1F1FA",
+        "name": {
+            "en": "Vanuatu",
+            "fr": "Vanuatu",
+            "es": "Vanuatu"
+        },
+        "iso3": "VUT",
+        "continent": "OC",
+        "aera": 12200.0,
+        "population": 221552,
+        "capital": {
+            "en": "Port Vila",
+            "fr": "Port Vila",
+            "es": "Port Vila"
+        }
+    },
+    {
+        "iso": "WF",
+        "flag": "🇼🇫",
+        "unicode": "U+1F1FC U+1F1EB",
+        "name": {
+            "en": "Wallis and Futuna",
+            "fr": "Wallis et Futuna",
+            "es": "Wallis y Futuna"
+        },
+        "iso3": "WLF",
+        "continent": "OC",
+        "aera": 274.0,
+        "population": 16025,
+        "capital": {
+            "en": "Mata Utu",
+            "fr": "Mata Utu",
+            "es": "Mata Utu"
+        }
+    },
+    {
+        "iso": "WS",
+        "flag": "🇼🇸",
+        "unicode": "U+1F1FC U+1F1F8",
+        "name": {
+            "en": "Samoa",
+            "fr": "Samoa",
+            "es": "Samoa"
+        },
+        "iso3": "WSM",
+        "continent": "OC",
+        "aera": 2944.0,
+        "population": 192001,
+        "capital": {
+            "en": "Apia",
+            "fr": "Apia",
+            "es": "Apia"
+        }
+    },
+    {
+        "iso": "YE",
+        "flag": "🇾🇪",
+        "unicode": "U+1F1FE U+1F1EA",
+        "name": {
+            "en": "Yemen",
+            "fr": "Yémen",
+            "es": "Yemen"
+        },
+        "iso3": "YEM",
+        "continent": "AS",
+        "aera": 527970.0,
+        "population": 23495361,
+        "capital": {
+            "en": "Sanaa",
+            "fr": "Sanaa",
+            "es": "Sanaa"
+        }
+    },
+    {
+        "iso": "YT",
+        "flag": "🇾🇹",
+        "unicode": "U+1F1FE U+1F1F9",
+        "name": {
+            "en": "Mayotte",
+            "fr": "Mayotte",
+            "es": "Mayotte"
+        },
+        "iso3": "MYT",
+        "continent": "AF",
+        "aera": 374.0,
+        "population": 159042,
+        "capital": {
+            "en": "Mamoudzou",
+            "fr": "Mamoudzou",
+            "es": "Mamoudzou"
+        }
+    },
+    {
+        "iso": "ZA",
+        "flag": "🇿🇦",
+        "unicode": "U+1F1FF U+1F1E6",
+        "name": {
+            "en": "South Africa",
+            "fr": "Afrique du Sud",
+            "es": "Sudáfrica"
+        },
+        "iso3": "ZAF",
+        "continent": "AF",
+        "aera": 1219912.0,
+        "population": 49000000,
+        "capital": {
+            "en": "Pretoria",
+            "fr": "Pretoria",
+            "es": "Pretoria"
+        }
+    },
+    {
+        "iso": "ZM",
+        "flag": "🇿🇲",
+        "unicode": "U+1F1FF U+1F1F2",
+        "name": {
+            "en": "Zambia",
+            "fr": "Zambie",
+            "es": "Zambia"
+        },
+        "iso3": "ZMB",
+        "continent": "AF",
+        "aera": 752614.0,
+        "population": 13460305,
+        "capital": {
+            "en": "Lusaka",
+            "fr": "Lusaka",
+            "es": "Lusaka"
+        }
+    },
+    {
+        "iso": "ZW",
+        "flag": "🇿🇼",
+        "unicode": "U+1F1FF U+1F1FC",
+        "name": {
+            "en": "Zimbabwe",
+            "fr": "Zimbabwe",
+            "es": "Zimbabue"
+        },
+        "iso3": "ZWE",
+        "continent": "AF",
+        "aera": 390580.0,
+        "population": 13061000,
+        "capital": {
+            "en": "Harare",
+            "fr": "Harar",
+            "es": "Harar"
+        }
+    }
+]
