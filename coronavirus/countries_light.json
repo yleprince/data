@@ -1067,17 +1067,17 @@
             "fr": "Irak",
             "es": "Irak"
         },
-        "population": 29671605
+        "population": 38270000
     },
     {
         "iso": "IR",
         "flag": "🇮🇷",
         "name": {
             "en": "Iran",
-            "fr": "J'ai couru",
-            "es": "Corrí"
+            "fr": "Iran",
+            "es": "Iran"
         },
-        "population": 76923300
+        "population": 81160000
     },
     {
         "iso": "IS",
@@ -1087,7 +1087,7 @@
             "fr": "Islande",
             "es": "Islandia"
         },
-        "population": 308910
+        "population": 364260
     },
     {
         "iso": "IT",
@@ -1097,7 +1097,7 @@
             "fr": "Italie",
             "es": "Italia"
         },
-        "population": 60340328
+        "population": 60480000
     },
     {
         "iso": "JE",
@@ -1107,7 +1107,7 @@
             "fr": "Jersey",
             "es": "Jersey"
         },
-        "population": 90812
+        "population": 97857
     },
     {
         "iso": "JM",
@@ -1117,7 +1117,7 @@
             "fr": "Jamaïque",
             "es": "Jamaica"
         },
-        "population": 2847232
+        "population": 2890000
     },
     {
         "iso": "JO",
@@ -1137,7 +1137,7 @@
             "fr": "Japon",
             "es": "Japón"
         },
-        "population": 127288000
+        "population": 126800000
     },
     {
         "iso": "KE",
@@ -1147,7 +1147,7 @@
             "fr": "Kenya",
             "es": "Kenia"
         },
-        "population": 40046566
+        "population": 49700000
     },
     {
         "iso": "KG",
@@ -1157,7 +1157,7 @@
             "fr": "Kirghizistan",
             "es": "Kirguistán"
         },
-        "population": 5776500
+        "population": 6202000
     },
     {
         "iso": "KH",
@@ -1167,7 +1167,7 @@
             "fr": "Cambodge",
             "es": "Camboya"
         },
-        "population": 14453680
+        "population": 16010000
     },
     {
         "iso": "KI",
@@ -1177,7 +1177,7 @@
             "fr": "Kiribati",
             "es": "Kiribati"
         },
-        "population": 92533
+        "population": 116398
     },
     {
         "iso": "KM",
@@ -1187,7 +1187,7 @@
             "fr": "Comores",
             "es": "Comoras"
         },
-        "population": 773407
+        "population": 813912
     },
     {
         "iso": "KN",
@@ -1197,7 +1197,7 @@
             "fr": "Saint-Christophe-et-Niévès",
             "es": "San Cristóbal y Nieves"
         },
-        "population": 51134
+        "population": 55345
     },
     {
         "iso": "KP",
@@ -1207,7 +1207,7 @@
             "fr": "Corée du Nord",
             "es": "Corea del Norte"
         },
-        "population": 22912177
+        "population": 25490000
     },
     {
         "iso": "KR",
@@ -1217,7 +1217,7 @@
             "fr": "Corée du Sud",
             "es": "Corea del Sur"
         },
-        "population": 48422644
+        "population": 51470000
     },
     {
         "iso": "KW",
@@ -1227,7 +1227,7 @@
             "fr": "Koweit",
             "es": "Kuwait"
         },
-        "population": 2789132
+        "population": 4137000
     },
     {
         "iso": "KY",
@@ -1237,7 +1237,7 @@
             "fr": "Îles Caïmans",
             "es": "Islas Caimán"
         },
-        "population": 44270
+        "population": 61559
     },
     {
         "iso": "KZ",
@@ -1247,7 +1247,7 @@
             "fr": "Kazakhstan",
             "es": "Kazajstán"
         },
-        "population": 15340000
+        "population": 18040000
     },
     {
         "iso": "LA",
@@ -1257,7 +1257,7 @@
             "fr": "République démocratique populaire lao",
             "es": "República Democrática Popular Lao"
         },
-        "population": 6368162
+        "population": 6858000
     },
     {
         "iso": "LB",
@@ -1267,7 +1267,7 @@
             "fr": "Liban",
             "es": "Líbano"
         },
-        "population": 4125247
+        "population": 6082000
     },
     {
         "iso": "LC",
@@ -1277,7 +1277,7 @@
             "fr": "Sainte-Lucie",
             "es": "Santa Lucía"
         },
-        "population": 160922
+        "population": 178844
     },
     {
         "iso": "LI",
@@ -1287,7 +1287,7 @@
             "fr": "Liechtenstein",
             "es": "Liechtenstein"
         },
-        "population": 35000
+        "population": 38557
     },
     {
         "iso": "LK",
@@ -1297,7 +1297,7 @@
             "fr": "Sri Lanka",
             "es": "Sri Lanka"
         },
-        "population": 21513990
+        "population": 21440000
     },
     {
         "iso": "LR",
@@ -1307,7 +1307,7 @@
             "fr": "Libéria",
             "es": "Liberia"
         },
-        "population": 3685076
+        "population": 4732000
     },
     {
         "iso": "LS",
@@ -1317,7 +1317,7 @@
             "fr": "Lesotho",
             "es": "Lesoto"
         },
-        "population": 1919552
+        "population": 2233000
     },
     {
         "iso": "LT",
@@ -1327,7 +1327,7 @@
             "fr": "Lituanie",
             "es": "Lituania"
         },
-        "population": 2944459
+        "population": 2794000
     },
     {
         "iso": "LU",
@@ -1337,7 +1337,7 @@
             "fr": "Luxembourg",
             "es": "Luxemburgo"
         },
-        "population": 497538
+        "population": 602005
     },
     {
         "iso": "LV",
@@ -1347,7 +1347,7 @@
             "fr": "Lettonie",
             "es": "Letonia"
         },
-        "population": 2217969
+        "population": 1920000
     },
     {
         "iso": "LY",
@@ -1357,7 +1357,7 @@
             "fr": "Libye",
             "es": "Libia"
         },
-        "population": 6461454
+        "population": 6375000
     },
     {
         "iso": "MA",
@@ -1367,7 +1367,7 @@
             "fr": "Maroc",
             "es": "Marruecos"
         },
-        "population": 33848242
+        "population": 35740000
     },
     {
         "iso": "MC",
@@ -1377,7 +1377,7 @@
             "fr": "Monaco",
             "es": "Mónaco"
         },
-        "population": 32965
+        "population": 38695
     },
     {
         "iso": "MD",
@@ -1387,7 +1387,7 @@
             "fr": "Moldova",
             "es": "Moldavia"
         },
-        "population": 4324000
+        "population": 3550000
     },
     {
         "iso": "ME",
@@ -1397,7 +1397,7 @@
             "fr": "Monténégro",
             "es": "Montenegro"
         },
-        "population": 666730
+        "population": 631219
     },
     {
         "iso": "MF",
@@ -1407,7 +1407,7 @@
             "fr": "Saint Martin (partie française)",
             "es": "San Martín (parte francesa)"
         },
-        "population": 35925
+        "population": 32125
     },
     {
         "iso": "MG",
@@ -1417,7 +1417,7 @@
             "fr": "Madagascar",
             "es": "Madagascar"
         },
-        "population": 21281844
+        "population": 25570000
     },
     {
         "iso": "MH",
@@ -1427,7 +1427,7 @@
             "fr": "Iles Marshall",
             "es": "Islas Marshall"
         },
-        "population": 65859
+        "population": 53127
     },
     {
         "iso": "MK",
@@ -1437,7 +1437,7 @@
             "fr": "Macédoine",
             "es": "macedonia"
         },
-        "population": 2062294
+        "population": 2077000
     },
     {
         "iso": "ML",
@@ -1447,7 +1447,7 @@
             "fr": "Mali",
             "es": "Mali"
         },
-        "population": 13796354
+        "population": 18540000
     },
     {
         "iso": "MM",
@@ -1457,7 +1457,7 @@
             "fr": "Myanmar",
             "es": "Myanmar"
         },
-        "population": 53414374
+        "population": 53370000
     },
     {
         "iso": "MN",
@@ -1467,7 +1467,7 @@
             "fr": "Mongolie",
             "es": "Mongolia"
         },
-        "population": 3086918
+        "population": 3076000
     },
     {
         "iso": "MO",
@@ -1477,7 +1477,7 @@
             "fr": "Macao",
             "es": "Macao"
         },
-        "population": 449198
+        "population": 622567
     },
     {
         "iso": "MP",
@@ -1487,7 +1487,7 @@
             "fr": "Îles Mariannes du Nord",
             "es": "Islas Marianas del Norte"
         },
-        "population": 53883
+        "population": 55144
     },
     {
         "iso": "MQ",
@@ -1497,7 +1497,7 @@
             "fr": "Martinique",
             "es": "Martinica"
         },
-        "population": 432900
+        "population": 376480
     },
     {
         "iso": "MR",
@@ -1507,7 +1507,7 @@
             "fr": "Mauritanie",
             "es": "Mauritania"
         },
-        "population": 3205060
+        "population": 4420000
     },
     {
         "iso": "MS",
@@ -1517,7 +1517,7 @@
             "fr": "Montserrat",
             "es": "Montserrat"
         },
-        "population": 9341
+        "population": 5900
     },
     {
         "iso": "MT",
@@ -1537,7 +1537,7 @@
             "fr": "Maurice",
             "es": "Mauricio"
         },
-        "population": 1294104
+        "population": 1265000
     },
     {
         "iso": "MV",
@@ -1547,7 +1547,7 @@
             "fr": "Maldives",
             "es": "Maldivas"
         },
-        "population": 395650
+        "population": 436330
     },
     {
         "iso": "MW",
@@ -1557,7 +1557,7 @@
             "fr": "Malawi",
             "es": "Malawi"
         },
-        "population": 17563749
+        "population": 18620000
     },
     {
         "iso": "MX",
@@ -1567,7 +1567,7 @@
             "fr": "Mexique",
             "es": "Mexico"
         },
-        "population": 112468855
+        "population": 129200000
     },
     {
         "iso": "MY",
@@ -1577,7 +1577,7 @@
             "fr": "Malaisie",
             "es": "Malasia"
         },
-        "population": 28274729
+        "population": 31620000
     },
     {
         "iso": "MZ",
@@ -1587,7 +1587,7 @@
             "fr": "Mozambique",
             "es": "Mozambique"
         },
-        "population": 22061451
+        "population": 29670000
     },
     {
         "iso": "NA",
@@ -1597,7 +1597,7 @@
             "fr": "Namibie",
             "es": "Namibia"
         },
-        "population": 2128471
+        "population": 2534000
     },
     {
         "iso": "NC",
@@ -1607,7 +1607,7 @@
             "fr": "Nouvelle Calédonie",
             "es": "Nueva Caledonia"
         },
-        "population": 216494
+        "population": 280460
     },
     {
         "iso": "NE",
@@ -1617,7 +1617,7 @@
             "fr": "Niger",
             "es": "Níger"
         },
-        "population": 15878271
+        "population": 21480000
     },
     {
         "iso": "NF",
@@ -1627,7 +1627,7 @@
             "fr": "l'ile de Norfolk",
             "es": "Isla Norfolk"
         },
-        "population": 1828
+        "population": 2169
     },
     {
         "iso": "NG",
@@ -1637,7 +1637,7 @@
             "fr": "Nigeria",
             "es": "Nigeria"
         },
-        "population": 154000000
+        "population": 180900000
     },
     {
         "iso": "NI",
@@ -1647,7 +1647,7 @@
             "fr": "Nicaragua",
             "es": "Nicaragua"
         },
-        "population": 5995928
+        "population": 6218000
     },
     {
         "iso": "NL",
@@ -1657,7 +1657,7 @@
             "fr": "Pays-Bas",
             "es": "Países Bajos"
         },
-        "population": 16645000
+        "population": 17180000
     },
     {
         "iso": "NO",
@@ -1667,7 +1667,7 @@
             "fr": "Norvège",
             "es": "Noruega"
         },
-        "population": 5009150
+        "population": 5368000
     },
     {
         "iso": "NP",
