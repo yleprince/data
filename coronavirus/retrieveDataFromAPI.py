@@ -44,7 +44,8 @@ iso_codes = ['AF', 'AL', 'DZ', 'AO', 'AR', 'AM', 'AU', 'AT', 'AZ', 'BS',
     'TZ', 'TH', 'TL', 'TG', 'TT', 'TN', 'TR', 'TM', 'AE', 'UG',
     'GB', 'UA', 'US', 'UY', 'UZ', 'VU', 'VE', 'VN', 'EH', 'YE',
     'ZM', 'ZW']
-        
+
+# ------------------------------------------------------------
 ## Worldwide
 URL = f'{API}global=stats'
 
