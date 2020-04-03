@@ -1,1 +1,1 @@
-{"countrytimelinedata": [{"info": {"ourid": 98, "title": "Malawi", "code": "MW", "source": "https://thevirustracker.com/malawi-coronavirus-information-mw"}}], "timelineitems": [{"stat": "ok"}]}
+{"countrytimelinedata": [{"info": {"ourid": 98, "title": "Malawi", "code": "MW", "source": "https://thevirustracker.com/malawi-coronavirus-information-mw"}}], "timelineitems": [{"4/02/20": {"new_daily_cases": 3, "new_daily_deaths": 0, "total_cases": 3, "total_recoveries": 0, "total_deaths": 0}, "stat": "ok"}]}
