@@ -19,38 +19,38 @@ def git_push():
         repo.index.commit(commit_message)
         origin = repo.remote(name='origin')
         origin.push()
+        print('code pushed')
     except:
         print('Some error occured while pushing the code')
 
-git_push()
-# mkdir(PATH)
+mkdir(PATH)
 
-# API = "https://api.thevirustracker.com/free-api?"
-# timeline = lambda iso: (f"{API}countryTimeline={iso}")
-# total = lambda iso: (f"{API}countryTotal={iso}")
-
-
-# def store(urlFunction, suffix, iso):
-#     filepath = f"{PATH}{iso}_{suffix}.json"
-#     if path.isfile(filepath):
-#         print(f"{filepath} already exists")
-#     else:
-#         sleep(1)
-#         r = get(url=urlFunction(iso))
-#         data = r.json()
-
-#         with open(filepath, "w") as outfile:
-#             json.dump(data, outfile)
-#         print(f"{filepath} saved")
+API = "https://api.thevirustracker.com/free-api?"
+timeline = lambda iso: (f"{API}countryTimeline={iso}")
+total = lambda iso: (f"{API}countryTotal={iso}")
 
 
-# iso_codes = [
-#     "AF",
-#     "AL",
-#     "DZ",
-#     "AO",
-#     "AR",
-#     "AM",
+def store(urlFunction, suffix, iso):
+    filepath = f"{PATH}{iso}_{suffix}.json"
+    if path.isfile(filepath):
+        print(f"{filepath} already exists")
+    else:
+        sleep(1)
+        r = get(url=urlFunction(iso))
+        data = r.json()
+
+        with open(filepath, "w") as outfile:
+            json.dump(data, outfile)
+        print(f"{filepath} saved")
+
+
+iso_codes = [
+    "AF",
+    "AL",
+    "DZ",
+    "AO",
+    "AR",
+    "AM",
 #     "AU",
 #     "AT",
 #     "AZ",
@@ -215,27 +215,29 @@ git_push()
 #     "YE",
 #     "ZM",
 #     "ZW",
-# ]
+]
 
-# # ------------------------------------------------------------
-# ## Worldwide
-# URL = f"{API}global=stats"
+# ------------------------------------------------------------
+## Worldwide
+URL = f"{API}global=stats"
 
-# r = get(url=URL)
-# data = r.json()
+r = get(url=URL)
+data = r.json()
 
-# with open(f"{PATH}worldwide.json", "w") as outfile:
-#     json.dump(data, outfile)
+with open(f"{PATH}worldwide.json", "w") as outfile:
+    json.dump(data, outfile)
 
-# ## Timelines
-# for i, iso in enumerate(iso_codes):
-#     store(timeline, "timeline", iso)
+## Timelines
+for i, iso in enumerate(iso_codes):
+    store(timeline, "timeline", iso)
 
-# ## Countries total
-# for i, iso in enumerate(iso_codes):
-#     store(total, "total", iso)
+## Countries total
+for i, iso in enumerate(iso_codes):
+    store(total, "total", iso)
 
-# ## Meta data
-# meta = {"export_date": datetime.today().strftime("%m-%d-%Y %H:%M")}
-# with open(f"{PATH}metadata.json", "w") as outfile:
-#     json.dump(meta, outfile)
+## Meta data
+meta = {"export_date": datetime.today().strftime("%m-%d-%Y %H:%M")}
+with open(f"{PATH}metadata.json", "w") as outfile:
+    json.dump(meta, outfile)
+
+git_push()
