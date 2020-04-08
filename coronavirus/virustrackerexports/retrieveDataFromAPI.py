@@ -245,4 +245,5 @@ with open(f"{PATH}metadata.json", "w") as outfile:
 system(f'git add {today}')
 system('rm -rf latest')
 system(f'cp -r {today} ./latest')
+system(f'git add ./latest/*.json')
 git_push()
