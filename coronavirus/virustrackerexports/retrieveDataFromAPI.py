@@ -1,7 +1,7 @@
 from requests import get
 import json
 from datetime import datetime
-from os import mkdir, path
+from os import mkdir, path, system
 from time import sleep
 from git import Repo
 
@@ -48,9 +48,9 @@ iso_codes = [
     "AF",
     "AL",
     "DZ",
-    "AO",
-    "AR",
-    "AM",
+#     "AO",
+#     "AR",
+#     "AM",
 #     "AU",
 #     "AT",
 #     "AZ",
@@ -240,4 +240,7 @@ meta = {"export_date": datetime.today().strftime("%m-%d-%Y %H:%M")}
 with open(f"{PATH}metadata.json", "w") as outfile:
     json.dump(meta, outfile)
 
+
+system('rm -rf latest')
+system(f'cp -r {today} ./latest')
 git_push()
