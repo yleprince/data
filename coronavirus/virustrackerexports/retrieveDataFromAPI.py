@@ -28,7 +28,7 @@ def store(urlFunction, suffix, iso):
     if path.isfile(filepath):
         print(f"{filepath} already exists")
     else:
-        sleep(.3)
+        sleep(.05)
         r = get(url=urlFunction(iso))
         data = r.json()
 
@@ -242,8 +242,8 @@ meta = {"export_date": datetime.today().strftime("%m-%d-%Y %H:%M")}
 with open(f"{PATH}metadata.json", "w") as outfile:
     json.dump(meta, outfile)
 
-system(f'git add {today}')
 system('rm -rf latest')
 system(f'cp -r {today} ./latest')
+system(f'rm -rf {today}')
 system(f'git add ./latest/*.json')
 git_push()
