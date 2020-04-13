@@ -8,27 +8,29 @@ from git import Repo
 today = datetime.today().strftime("%m-%d-%Y")
 
 PATH = f"./{today}/"  ## HERE : Only line to change
-PATH_TO_DOT_GIT = '../..'
-commit_message = 'auto update data'
+PATH_TO_DOT_GIT = "../.."
+commit_message = "auto update data"
+
 
 def git_push():
-    print('Add, commit and push')
+    print("Add, commit and push")
     try:
         repo = Repo(PATH_TO_DOT_GIT)
         repo.git.add(update=True)
         repo.index.commit(commit_message)
-        origin = repo.remote(name='origin')
+        origin = repo.remote(name="origin")
         origin.push()
-        print('code pushed')
+        print("code pushed")
     except:
-        print('Some error occured while pushing the code')
+        print("Some error occured while pushing the code")
+
 
 def store(urlFunction, suffix, iso):
     filepath = f"{PATH}{iso}_{suffix}.json"
     if path.isfile(filepath):
         print(f"{filepath} already exists")
     else:
-        sleep(.05)
+        sleep(0.05)
         r = get(url=urlFunction(iso))
         data = r.json()
 
@@ -214,7 +216,7 @@ iso_codes = [
 ## Worldwide
 
 if not path.exists(PATH):
-    print(f'creating directory {today}')
+    print(f"creating directory {today}")
     mkdir(PATH)
 
 API = "https://api.thevirustracker.com/free-api?"
@@ -242,8 +244,8 @@ meta = {"export_date": datetime.today().strftime("%m-%d-%Y %H:%M")}
 with open(f"{PATH}metadata.json", "w") as outfile:
     json.dump(meta, outfile)
 
-system('rm -rf latest')
-system(f'cp -r {today} ./latest')
-system(f'rm -rf {today}')
-system(f'git add ./latest/*.json')
+system("rm -rf latest")
+system(f"cp -r {today} ./latest")
+system(f"rm -rf {today}")
+system(f"git add ./latest/*.json")
 git_push()
