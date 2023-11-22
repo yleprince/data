@@ -1,0 +1,22 @@
+[
+   {
+      "name":"art",
+      "emoji":"🎨",
+      "description":"Improve structure / format of the code"
+   },
+   {
+      "name":"zap",
+      "emoji":"⚡",
+      "description":"Improve performance"
+   },
+   {
+      "name":"fire",
+      "emoji":"🔥",
+      "description":"Remove code or files"
+   },
+   {
+      "name":"bug",
+      "emoji":"🐛",
+      "description":"Fix a bug"
+   }
+]
